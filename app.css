@@ -1,0 +1,260 @@
+body {
+  background-color: #eee;
+}
+.logo {
+  font-family: 'Pacifico', cursive;
+  display: flex;
+  justify-content: center;
+  font-size: 2.0em;
+  margin-top: 0.7em;
+  margin-bottom: 1em;
+}
+
+.icon {
+  width: 60px;
+  height: auto;
+  margin-right: 10px;
+}
+
+.about {
+  display: flex;
+  justify-content: center;
+  font-size: 1.2em;
+  font-family: 'Noto Sans', sans-serif;
+  color: #777;
+}
+
+.heart {
+  width: 24px;
+  height: auto;
+}
+
+@media (min-width: 550px) {
+  .logo {
+    font-size: 3.5em;
+  }
+
+  .icon {
+    width: 80px;
+  }
+}
+
+.content {
+  margin: 0 auto;
+  font-family: 'Noto Sans', sans-serif;
+}
+
+.listGrid {
+  display: grid;
+  grid-template-columns: repeat(1, 200px);
+  grid-template-rows: repeat(150, 363px);
+  grid-row-gap: 50px;
+  justify-content: space-around;
+  text-align: center;
+  max-width: 1500px;
+}
+
+@media (min-width: 550px) {
+  .listGrid {
+    grid-template-columns: repeat(2, 200px);
+    grid-template-rows: repeat(75, 363px);
+  }
+}
+@media (min-width: 700px) {
+  .listGrid {
+    grid-template-columns: repeat(3, 200px);
+    grid-template-rows: repeat(50, 363px);
+  }
+}
+@media (min-width: 1100px) {
+  .listGrid {
+    grid-template-columns: repeat(4, 200px);
+    grid-template-rows: repeat(38, 363px);
+  }
+}
+@media (min-width: 1700px) {
+  .listGrid {
+    grid-template-columns: repeat(5, 200px);
+    grid-template-rows: repeat(30, 363px);
+  }
+}
+
+.skintext {
+  display: none;
+}
+
+h3 {
+  margin: 0;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 5em;
+}
+
+.menu {
+  font-size: 1.3em;
+}
+
+.champ:hover, .champ:active {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+  border-radius: 15px;
+}
+
+.champ:hover .skintext {
+  display: inline;
+}
+.champ:active .skintext {
+  display: inline;
+}
+
+.champ:hover .latestSkinInfo {
+  animation-name: fadeIn;
+  animation-duration: 0.3s;
+  animation-delay: 0.1s;
+  animation-timing-function: ease-in;
+  animation-fill-mode: forwards;
+}
+.champ:active .latestSkinInfo {
+  animation-name: fadeIn;
+  animation-duration: 0.3s;
+  animation-delay: 0.1s;
+  animation-timing-function: ease-in;
+  animation-fill-mode: forwards;
+}
+
+@keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+}
+
+.champ:hover .amount {
+  animation-name: slideIn;
+  animation-duration: 0.2s;
+  animation-timing-function: ease-in;
+  animation-fill-mode: forwards;
+  background-color: transparent;
+}
+.champ:hover .text {
+  background-color: transparent;
+}
+
+@keyframes slideIn {
+  0% {
+    left: 80px
+  }
+  100% {
+    left: 0px;
+  }
+}
+
+.latestSkinInfo {
+  opacity: 0;
+  top: -340px;
+  list-style: none;
+  font-weight: 700;
+  text-align: center;
+}
+.headline {
+  font-size: 0.6em;
+}
+.skinReleaseDate {
+  margin-top: 25px;
+  font-size: 0.6em;
+}
+
+img {
+  position: relative;
+  z-index:-1;
+}
+
+.champIcon {
+  width: 100%;
+  height: auto;
+  border-radius: 15px;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+.champIcon:active {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+}
+
+.text {
+  position: relative;
+  color: #fff;
+  font-size: 1.2em;
+  padding: 10px 30px;
+}
+
+.textbg {
+  background-color: rgba(0,0,0,0.4);
+  border-radius: 15px;
+}
+ .date {
+  top: -50px;
+ }
+
+.amount {
+  position: relative;
+  color: #fff;
+  font-size: 1.1em;
+  font-weight: 700;
+  background-color: rgba(0,0,0,0.4);
+  border-radius: 999px;
+  padding: 10px;
+  top: -380px;
+  left: 80px;
+}
+
+
+/* Reset Select */
+select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  -ms-appearance: none;
+  appearance: none;
+  outline: 0;
+  box-shadow: none;
+  border: 0 !important;
+  background: #343434;
+  background-image: none;
+}
+/* Custom Select */
+.select {
+  position: relative;
+  display: flex;
+  width: 25em;
+  height: 3em;
+  line-height: 3;
+  background: #343434;
+  overflow: hidden;
+  border-radius: .25em;
+}
+select {
+  flex: 1;
+  padding: 0 .5em;
+  color: #fff;
+  cursor: pointer;
+}
+/* Arrow */
+.select::after {
+  content: '\25BC';
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 0 1em;
+  background: #444;
+  cursor: pointer;
+  pointer-events: none;
+  -webkit-transition: .25s all ease;
+  -o-transition: .25s all ease;
+  transition: .25s all ease;
+}
+/* Transition */
+.select:hover::after {
+  color: #eee;
+}

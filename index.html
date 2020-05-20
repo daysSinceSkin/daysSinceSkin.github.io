@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <title>days Since Skin</title>
+    <script src="list.js" charset="utf-8"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js" charset="utf-8"></script>
+    <link href="app.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+  </head>
+  <body ontouchstart="">
+    <div class="logo">
+      <svg class="icon" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" stroke="currentColor" viewBox="0 0 24 24"><path d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+        Days Since Skins
+    </div>
+    <nav>
+      <div class="select">
+        <select class="menu" onchange="select(this.value)" name="select">
+          <option value="az">Sort by name: Ascending</option>
+          <option value="za">Sort by name: Descending</option>
+          <option value="most">Most amount of skins</option>
+          <option value="least">Least amount of Skins</option>
+          <option value="newest">Sort by release date: Ascending</option>
+          <option value="oldest">Sort by release date: Descending</option>
+        </select>
+      </div>
+    </nav>
+
+    <div class="content listGrid" id="list"></div>
+
+    <div class="about">
+      <p> Made with <span style="color: #e25555;">&hearts;</span> by me </p>
+    </div>
+
+    <script src="app.js" charset="utf-8"></script>
+  </body>
+</html>
