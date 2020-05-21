@@ -199,6 +199,11 @@ img {
   top: -50px;
  }
 
+.footer {
+  font-size: 0.8em;
+  color: #888;
+}
+
 .amount {
   position: relative;
   color: #fff;
