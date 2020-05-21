@@ -23,6 +23,7 @@ body {
   font-size: 1.2em;
   font-family: 'Noto Sans', sans-serif;
   color: #777;
+  margin-top: 2em;
 }
 
 .heart {
@@ -202,6 +203,7 @@ img {
 .footer {
   font-size: 0.8em;
   color: #888;
+  text-align: center;
 }
 
 .amount {
