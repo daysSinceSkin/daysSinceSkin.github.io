@@ -1842,6 +1842,11 @@ let champion={
   "price": 975
 },
 {
+  "name": "Pool Party Heimerdinger",
+  "date": "N/A",
+  "price": 1350
+},
+{
   "name": "Snowmerdinger",
   "date": "14-Dec-2011",
   "price": 975
@@ -1879,6 +1884,11 @@ let champion={
   "name": "Frostblade Irelia",
   "date": "30-Apr-2012",
   "price": 975
+},
+{
+  "name": "High Noon Irelia",
+  "date": "18-Jun-2020",
+  "price": 1350
 },
 {
   "name": "Infiltrator Irelia",
@@ -2025,6 +2035,11 @@ let champion={
   "name": "Original Jarvan IV",
   "date": "01-Mar-2011",
   "price": 880
+},
+{
+  "name": "Pool Party Jarvan IV",
+  "date": "N/A",
+  "price": 1350
 },
 {
   "name": "SSG Jarvan IV",
@@ -3671,6 +3686,11 @@ let champion={
   "price": 975
 },
 {
+  "name": "Hextech Nocturne",
+  "date": "11-Jun-2020",
+  "price": 9999
+},
+{
   "name": "Original Nocturne",
   "date": "15-Mar-2011",
   "price": 880
@@ -3805,6 +3825,11 @@ let champion={
   "name": "Original Orianna",
   "date": "01-Jun-2011",
   "price": 880
+},
+{
+  "name": "Pool Party Orianna",
+  "date": "N/A",
+  "price": 1350
 },
 {
   "name": "Sewn Chaos Orianna",
@@ -4439,6 +4464,11 @@ let champion={
   "price": 975
 },
 {
+  "name": "High Noon Senna",
+  "date": "18-Jun-2020",
+  "price": 1820
+},
+{
   "name": "True Damage Senna Prestige Edition",
   "date": "04-Feb-2020",
   "price": 9999
@@ -4945,6 +4975,11 @@ let champion={
   "price": 880
 },
 {
+  "name": "Pool Party Syndra",
+  "date": "N/A",
+  "price": 1350
+},
+{
   "name": "Queen of Diamonds Syndra",
   "date": "20-May-2015",
   "price": 750
@@ -4997,6 +5032,11 @@ let champion={
   "name": "Original Taliyah",
   "date": "17-May-2016",
   "price": 975
+},
+{
+  "name": "Pool Party Taliyah",
+  "date": "N/A",
+  "price": 1350
 },
 {
   "name": "SSG Taliyah",
