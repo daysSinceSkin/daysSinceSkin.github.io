@@ -1843,7 +1843,7 @@ let champion={
 },
 {
   "name": "Pool Party Heimerdinger",
-  "date": "N/A",
+  "date": "02-Jul-2020",
   "price": 1350
 },
 {
@@ -2038,7 +2038,7 @@ let champion={
 },
 {
   "name": "Pool Party Jarvan IV",
-  "date": "N/A",
+  "date": "02-Jul-2020",
   "price": 1350
 },
 {
@@ -2348,6 +2348,11 @@ let champion={
   "price": 975
 },
 {
+  "name": "Infernal Karthus",
+  "date": "N/A",
+  "price": 1350
+},
+{
   "name": "Karthus Lightsbane",
   "date": "17-Nov-2016",
   "price": 975
@@ -2568,6 +2573,11 @@ let champion={
   "price": 52
 },
 {
+  "name": "Infernal Kennen",
+  "date": "N/A",
+  "price": 1350
+},
+{
   "name": "Karate Kennen",
   "date": "08-Nov-2010",
   "price": 52
@@ -2660,6 +2670,11 @@ let champion={
 }
 ],
 "KogMaw": [
+{
+  "name": "Arcanist KogMaw",
+  "date": "N/A",
+  "price": 1350
+},
 {
   "name": "Battlecast KogMaw",
   "date": "25-Nov-2014",
@@ -3560,6 +3575,11 @@ let champion={
   "price": 1350
 },
 {
+  "name": "Conqueror Nautilus",
+  "date": "09-Jul-2020",
+  "price": 975
+},
+{
   "name": "Original Nautilus",
   "date": "14-Feb-2012",
   "price": 880
@@ -3828,7 +3848,7 @@ let champion={
 },
 {
   "name": "Pool Party Orianna",
-  "date": "N/A",
+  "date": "02-Jul-2020",
   "price": 1350
 },
 {
@@ -4976,7 +4996,7 @@ let champion={
 },
 {
   "name": "Pool Party Syndra",
-  "date": "N/A",
+  "date": "02-Jul-2020",
   "price": 1350
 },
 {
@@ -5035,7 +5055,7 @@ let champion={
 },
 {
   "name": "Pool Party Taliyah",
-  "date": "N/A",
+  "date": "02-Jul-2020",
   "price": 1350
 },
 {
@@ -5754,6 +5774,11 @@ let champion={
   "price": 750
 },
 {
+  "name": "Infernal VelKoz",
+  "date": "N/A",
+  "price": 1350
+},
+{
   "name": "Original VelKoz",
   "date": "27-Feb-2014",
   "price": 975
@@ -6352,6 +6377,16 @@ let champion={
 }
 ],
 "Zoe": [
+{
+  "name": "Arcanist Zoe",
+  "date": "N/A",
+  "price": 1350
+},
+{
+  "name": "Arcanist Zoe Prestige Edition",
+  "date": "N/A",
+  "price": 9999
+},
 {
   "name": "Cyber Pop Zoe",
   "date": "21-Nov-2017",
