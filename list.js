@@ -2338,6 +2338,11 @@ let champion={
 ],
 "Karthus": [
 {
+  "name": "Infernal Karthus",
+  "date": "N/A",
+  "price": 1350
+},
+{
   "name": "Fnatic Karthus",
   "date": "24-Sep-2014",
   "price": 750
@@ -2346,11 +2351,6 @@ let champion={
   "name": "Grim Reaper Karthus",
   "date": "26-Sep-2010",
   "price": 975
-},
-{
-  "name": "Infernal Karthus",
-  "date": "N/A",
-  "price": 1350
 },
 {
   "name": "Karthus Lightsbane",
@@ -2558,6 +2558,11 @@ let champion={
 ],
 "Kennen": [
 {
+  "name": "Infernal Kennen",
+  "date": "N/A",
+  "price": 1350
+},
+{
   "name": "Arctic Ops Kennen",
   "date": "29-Dec-2011",
   "price": 975
@@ -2571,11 +2576,6 @@ let champion={
   "name": "Deadly Kennen",
   "date": "08-Apr-2010",
   "price": 52
-},
-{
-  "name": "Infernal Kennen",
-  "date": "N/A",
-  "price": 1350
 },
 {
   "name": "Karate Kennen",
@@ -3419,6 +3419,11 @@ let champion={
 ],
 "Morgana": [
 {
+  "name": "Coven Morgana",
+  "date": "16-Apr-2020",
+  "price": 1820
+},
+{
   "name": "Bewitching Morgana",
   "date": "19-Oct-2016",
   "price": 975
@@ -3432,11 +3437,6 @@ let champion={
   "name": "Blade Mistress Morgana",
   "date": "01-Dec-2010",
   "price": 750
-},
-{
-  "name": "Coven Morgana",
-  "date": "N/A",
-  "price": 1820
 },
 {
   "name": "Exiled Morgana",
@@ -4512,6 +4512,11 @@ let champion={
 }
 ],
 "Shaco": [
+{
+  "name": "Arcanist Shaco",
+  "date": "N/A",
+  "price": 1350
+},
 {
   "name": "Asylum Shaco",
   "date": "07-Nov-2011",
@@ -5759,6 +5764,11 @@ let champion={
 ],
 "Velkoz": [
 {
+  "name": "Infernal VelKoz",
+  "date": "N/A",
+  "price": 1350
+},
+{
   "name": "Arclight VelKoz",
   "date": "28-Jan-2015",
   "price": 1350
@@ -5772,11 +5782,6 @@ let champion={
   "name": "Definitely Not VelKoz",
   "date": "31-Mar-2016",
   "price": 750
-},
-{
-  "name": "Infernal VelKoz",
-  "date": "N/A",
-  "price": 1350
 },
 {
   "name": "Original VelKoz",
