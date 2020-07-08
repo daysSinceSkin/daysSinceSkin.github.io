@@ -2903,6 +2903,11 @@ let champion={
   "date": "N/A",
   "price": 1350
 },
+{
+  "name": "Original Lillia",
+  "date": "N/A",
+  "price": 975
+}
 ],
 "Lissandra": [
 {
