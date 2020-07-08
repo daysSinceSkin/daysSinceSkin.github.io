@@ -2339,7 +2339,7 @@ let champion={
 "Karthus": [
 {
   "name": "Infernal Karthus",
-  "date": "N/A",
+  "date": "09-Jul-2020",
   "price": 1350
 },
 {
@@ -2559,7 +2559,7 @@ let champion={
 "Kennen": [
 {
   "name": "Infernal Kennen",
-  "date": "N/A",
+  "date": "09-Jul-2020",
   "price": 1350
 },
 {
@@ -2672,7 +2672,7 @@ let champion={
 "KogMaw": [
 {
   "name": "Arcanist KogMaw",
-  "date": "N/A",
+  "date": "09-Jul-2020",
   "price": 1350
 },
 {
@@ -2896,6 +2896,13 @@ let champion={
   "date": "13-Jul-2011",
   "price": 520
 }
+],
+"Lillia": [
+{
+  "name": "Spirit blossom Lillia",
+  "date": "N/A",
+  "price": 1350
+},
 ],
 "Lissandra": [
 {
@@ -4514,7 +4521,7 @@ let champion={
 "Shaco": [
 {
   "name": "Arcanist Shaco",
-  "date": "N/A",
+  "date": "09-Jul-2020",
   "price": 1350
 },
 {
@@ -5145,6 +5152,16 @@ let champion={
 ],
 "Teemo": [
 {
+  "name": "Spirit Blossom Teemo",
+  "date": "N/A",
+  "price": 1350
+},
+{
+  "name": "Spirit Blossom Teemo Prestige Edition",
+  "date": "N/A",
+  "price": 9999
+},
+{
   "name": "Astronaut Teemo",
   "date": "27-Oct-2010",
   "price": 1350
@@ -5201,6 +5218,11 @@ let champion={
 }
 ],
 "Thresh": [
+{
+  "name": "Spirit Blossom Thresh",
+  "date": "N/A",
+  "price": 1820
+},
 {
   "name": "Blood Moon Thresh",
   "date": "08-Jan-2015",
@@ -5640,6 +5662,11 @@ let champion={
 ],
 "Vayne": [
 {
+  "name": "Spirit Blossom Vayne",
+  "date": "N/A",
+  "price": 1350
+},
+{
   "name": "Arclight Vayne",
   "date": "20-Apr-2015",
   "price": 975
@@ -5765,7 +5792,7 @@ let champion={
 "Velkoz": [
 {
   "name": "Infernal VelKoz",
-  "date": "N/A",
+  "date": "09-Jul-2020",
   "price": 1350
 },
 {
@@ -6154,6 +6181,11 @@ let champion={
 ],
 "Yasuo": [
 {
+  "name": "Spirit Blossom Yasuo",
+  "date": "N/A",
+  "price": 1350
+},
+{
   "name": "Battle Boss Yasuo",
   "date": "28-Jun-2019",
   "price": 1350
@@ -6384,12 +6416,12 @@ let champion={
 "Zoe": [
 {
   "name": "Arcanist Zoe",
-  "date": "N/A",
+  "date": "09-Jul-2020",
   "price": 1350
 },
 {
   "name": "Arcanist Zoe Prestige Edition",
-  "date": "N/A",
+  "date": "09-Jul-2020",
   "price": 9999
 },
 {
