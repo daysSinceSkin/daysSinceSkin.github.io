@@ -2339,7 +2339,7 @@ let champion={
 "Karthus": [
 {
   "name": "Infernal Karthus",
-  "date": "09-Jul-2020",
+  "date": "16-Jul-2020",
   "price": 1350
 },
 {
@@ -2559,7 +2559,7 @@ let champion={
 "Kennen": [
 {
   "name": "Infernal Kennen",
-  "date": "09-Jul-2020",
+  "date": "16-Jul-2020",
   "price": 1350
 },
 {
@@ -5797,7 +5797,7 @@ let champion={
 "Velkoz": [
 {
   "name": "Infernal VelKoz",
-  "date": "09-Jul-2020",
+  "date": "16-Jul-2020",
   "price": 1350
 },
 {
