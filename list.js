@@ -38,7 +38,7 @@ let champion={
 ],
 "Ahri": [
 {
-  "name": "Spirit Blossom Ahri
+  "name": "Spirit Blossom Ahri",
   "date": "N/A",
   "price": 1820
 },
@@ -6262,7 +6262,7 @@ let champion={
   "date": "N/A",
   "price": 975
 }
-]
+],
 "Yorick": [
 {
   "name": "Arclight Yorick",
