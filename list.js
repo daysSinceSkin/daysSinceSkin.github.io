@@ -38,6 +38,11 @@ let champion={
 ],
 "Ahri": [
 {
+  "name": "Spirit Blossom Ahri
+  "date": "N/A",
+  "price": 1820
+},
+{
   "name": "Academy Ahri",
   "date": "26-Aug-2015",
   "price": 75
@@ -779,6 +784,11 @@ let champion={
 }
 ],
 "Cassiopeia": [
+{
+  "name": "Spirit Blossom Cassiopeia",
+  "date": "N/A",
+  "price": 1350
+},
 {
   "name": "Desperada Cassiopeia",
   "date": "14-Dec-2010",
@@ -2637,6 +2647,11 @@ let champion={
 ],
 "Kindred": [
 {
+  "name": "Spirit Blossom Kindred",
+  "date": "N/A",
+  "price": 1350
+},
+{
   "name": "Original Kindred",
   "date": "13-Oct-2015",
   "price": 975
@@ -2900,12 +2915,12 @@ let champion={
 "Lillia": [
 {
   "name": "Spirit blossom Lillia",
-  "date": "N/A",
+  "date": "22-Jul-2020",
   "price": 1350
 },
 {
   "name": "Original Lillia",
-  "date": "N/A",
+  "date": "22-Jul-2020",
   "price": 975
 }
 ],
@@ -4283,6 +4298,11 @@ let champion={
 ],
 "Riven": [
 {
+  "name": "Spirit Blossom Riven",
+  "date": "N/A",
+  "price": 1350
+},
+{
   "name": "Arcade Riven",
   "date": "19-Aug-2015",
   "price": 1350
@@ -5158,12 +5178,12 @@ let champion={
 "Teemo": [
 {
   "name": "Spirit Blossom Teemo",
-  "date": "N/A",
+  "date": "22-Jul-2020",
   "price": 1350
 },
 {
   "name": "Spirit Blossom Teemo Prestige Edition",
-  "date": "N/A",
+  "date": "22-Jul-2020",
   "price": 9999
 },
 {
@@ -5225,7 +5245,7 @@ let champion={
 "Thresh": [
 {
   "name": "Spirit Blossom Thresh",
-  "date": "N/A",
+  "date": "22-Jul-2020",
   "price": 1820
 },
 {
@@ -5668,7 +5688,7 @@ let champion={
 "Vayne": [
 {
   "name": "Spirit Blossom Vayne",
-  "date": "N/A",
+  "date": "22-Jul-2020",
   "price": 1350
 },
 {
@@ -6187,7 +6207,7 @@ let champion={
 "Yasuo": [
 {
   "name": "Spirit Blossom Yasuo",
-  "date": "N/A",
+  "date": "22-Jul-2020",
   "price": 1350
 },
 {
@@ -6231,6 +6251,18 @@ let champion={
   "price": 1350
 }
 ],
+"Yone": [
+{
+  "name": "Spirit Blossom Yone",
+  "date": "N/A",
+  "price": 1350
+},
+{
+  "name": "Original Yone",
+  "date": "N/A",
+  "price": 975
+}
+]
 "Yorick": [
 {
   "name": "Arclight Yorick",
