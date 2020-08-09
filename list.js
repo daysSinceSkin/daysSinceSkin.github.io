@@ -39,7 +39,7 @@ let champion={
 "Ahri": [
 {
   "name": "Spirit Blossom Ahri",
-  "date": "N/A",
+  "date": "06-Aug-2020",
   "price": 1820
 },
 {
@@ -786,7 +786,7 @@ let champion={
 "Cassiopeia": [
 {
   "name": "Spirit Blossom Cassiopeia",
-  "date": "N/A",
+  "date": "06-Aug-2020",
   "price": 1350
 },
 {
@@ -1224,6 +1224,16 @@ let champion={
 }
 ],
 "Ezreal": [
+{
+  "name": "PsyOps Ezreal",
+  "date": "N/A",
+  "price": 1350
+},
+{
+  "name": "PsyOps Ezreal Prestige Edition",
+  "date": "N/A",
+  "price": 9999
+},
 {
   "name": "Ace of Spades Ezreal",
   "date": "20-May-2015",
@@ -2648,7 +2658,7 @@ let champion={
 "Kindred": [
 {
   "name": "Spirit Blossom Kindred",
-  "date": "N/A",
+  "date": "06-Aug-2020",
   "price": 1350
 },
 {
@@ -3274,6 +3284,11 @@ let champion={
 }
 ],
 "MasterYi": [
+{
+  "name": "PsyOps Master Yi",
+  "date": "N/A",
+  "price": 1350
+},
 {
   "name": "Assassin Master Yi",
   "date": "17-Dec-2009",
@@ -4299,7 +4314,7 @@ let champion={
 "Riven": [
 {
   "name": "Spirit Blossom Riven",
-  "date": "N/A",
+  "date": "06-Aug-2020",
   "price": 1350
 },
 {
@@ -4597,6 +4612,11 @@ let champion={
 ],
 "Shen": [
 {
+  "name": "PsyOps Shen",
+  "date": "N/A",
+  "price": 1350
+},
+{
   "name": "Blood Moon Shen",
   "date": "07-Jun-2011",
   "price": 750
@@ -4858,6 +4878,11 @@ let champion={
 }
 ],
 "Sona": [
+{
+  "name": "PsyOps Sona",
+  "date": "N/A",
+  "price": 1820
+},
 {
   "name": "Arcade Sona",
   "date": "31-Aug-2012",
@@ -5843,6 +5868,11 @@ let champion={
 ],
 "Vi": [
 {
+  "name": "PsyOps Vi",
+  "date": "N/A",
+  "price": 1350
+},
+{
   "name": "Debonair Vi",
   "date": "05-Aug-2014",
   "price": 750
@@ -6254,12 +6284,12 @@ let champion={
 "Yone": [
 {
   "name": "Spirit Blossom Yone",
-  "date": "N/A",
+  "date": "06-Aug-2020",
   "price": 1350
 },
 {
   "name": "Original Yone",
-  "date": "N/A",
+  "date": "06-Aug-2020",
   "price": 975
 }
 ],
@@ -6367,6 +6397,11 @@ let champion={
 }
 ],
 "Ziggs": [
+{
+  "name": "Hextech Ziggs",
+  "date": "N/A",
+  "price": 9999
+},
 {
   "name": "Battle Boss Ziggs",
   "date": "08-Aug-2017",
