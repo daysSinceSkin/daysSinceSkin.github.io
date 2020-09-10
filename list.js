@@ -1226,12 +1226,12 @@ let champion={
 "Ezreal": [
 {
   "name": "PsyOps Ezreal",
-  "date": "N/A",
+  "date": "03-Sep-2020",
   "price": 1350
 },
 {
   "name": "PsyOps Ezreal Prestige Edition",
-  "date": "N/A",
+  "date": "03-Sep-2020",
   "price": 9999
 },
 {
@@ -2504,6 +2504,11 @@ let champion={
 ],
 "Kayle": [
 {
+  "name": "PsyOps Kayle",
+  "date": "17-Sep-2020",
+  "price": 1350
+},
+{
   "name": "Aether Wing Kayle",
   "date": "18-Jan-2013",
   "price": 1820
@@ -2757,6 +2762,11 @@ let champion={
 }
 ],
 "Leblanc": [
+{
+  "name": "Championship LeBlanc",
+  "date": "N/A",
+  "price": 9999
+},
 {
   "name": "Coven LeBlanc",
   "date": "16-Apr-2020",
@@ -3286,7 +3296,7 @@ let champion={
 "MasterYi": [
 {
   "name": "PsyOps Master Yi",
-  "date": "N/A",
+  "date": "03-Sep-2020",
   "price": 1350
 },
 {
@@ -4037,6 +4047,11 @@ let champion={
 ],
 "Pyke": [
 {
+  "name": "PsyOps Pyke",
+  "date": "17-Sep-2020",
+  "price": 1350
+},
+{
   "name": "Blood Moon Pyke",
   "date": "10-Jan-2019",
   "price": 1350
@@ -4472,6 +4487,18 @@ let champion={
   "price": 975
 }
 ],
+"Samira": [
+{
+  "name": "PsyOps Samira",
+  "date": "17-Sep-2020",
+  "price": 1350
+},
+{
+  "name": "Original Samira",
+  "date": "17-Sep-2020",
+  "price": 975
+}
+],
 "Sejuani": [
 {
   "name": "Bear Cavalry Sejuani",
@@ -4613,7 +4640,7 @@ let champion={
 "Shen": [
 {
   "name": "PsyOps Shen",
-  "date": "N/A",
+  "date": "03-Sep-2020",
   "price": 1350
 },
 {
@@ -4880,7 +4907,7 @@ let champion={
 "Sona": [
 {
   "name": "PsyOps Sona",
-  "date": "N/A",
+  "date": "03-Sep-2020",
   "price": 1820
 },
 {
@@ -5869,7 +5896,7 @@ let champion={
 "Vi": [
 {
   "name": "PsyOps Vi",
-  "date": "N/A",
+  "date": "03-Sep-2020",
   "price": 1350
 },
 {
@@ -5914,6 +5941,11 @@ let champion={
 }
 ],
 "Viktor": [
+{
+  "name": "PsyOps Viktor",
+  "date": "17-Sep-2020",
+  "price": 1350
+},
 {
   "name": "Creator Viktor",
   "date": "30-Sep-2013",
@@ -6361,6 +6393,11 @@ let champion={
 ],
 "Zed": [
 {
+  "name": "PsyOps Zed",
+  "date": "17-Sep-2020",
+  "price": 1350
+},
+{
   "name": "Championship Zed",
   "date": "25-Sep-2016",
   "price": 975
@@ -6399,7 +6436,7 @@ let champion={
 "Ziggs": [
 {
   "name": "Hextech Ziggs",
-  "date": "N/A",
+  "date": "03-Sep-2020",
   "price": 9999
 },
 {
