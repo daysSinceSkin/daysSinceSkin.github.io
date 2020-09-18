@@ -427,6 +427,11 @@ let champion={
 ],
 "Ashe": [
 {
+  "name": "Fae Dragon Ashe",
+  "date": "01-Oct-2020",
+  "price": 1350
+},
+{
   "name": "Amethyst Ashe",
   "date": "15-Nov-2011",
   "price": 975
@@ -488,6 +493,11 @@ let champion={
 }
 ],
 "AurelionSol": [
+{
+  "name": "Storm Dragon Aurelion Sol",
+  "date": "01-Oct-2020",
+  "price": 1350
+},
 {
   "name": "Ashen Lord Aurelion Sol",
   "date": "24-Mar-2016",
@@ -621,6 +631,11 @@ let champion={
 }
 ],
 "Brand": [
+{
+  "name": "Eternal Dragon Brand",
+  "date": "01-Oct-2020",
+  "price": 1350
+},
 {
   "name": "Apocalyptic Brand",
   "date": "12-Apr-2011",
@@ -2764,7 +2779,7 @@ let champion={
 "Leblanc": [
 {
   "name": "Championship LeBlanc",
-  "date": "N/A",
+  "date": "24-Sep-2020",
   "price": 9999
 },
 {
@@ -2815,9 +2830,14 @@ let champion={
 ],
 "LeeSin": [
 {
+  "name": "Storm Dragon Lee Sin",
+  "date": "01-Oct-2020",
+  "price": 1820
+},
+{
   "name": "Acolyte Lee Sin",
   "date": "01-Apr-2011",
-  "price": 75
+  "price": 750
 },
 {
   "name": "Dragon Fist Lee Sin",
@@ -4490,12 +4510,12 @@ let champion={
 "Samira": [
 {
   "name": "PsyOps Samira",
-  "date": "17-Sep-2020",
+  "date": "21-Sep-2020",
   "price": 1350
 },
 {
   "name": "Original Samira",
-  "date": "17-Sep-2020",
+  "date": "21-Sep-2020",
   "price": 975
 }
 ],
@@ -4574,6 +4594,16 @@ let champion={
 }
 ],
 "Sett": [
+{
+  "name": "Obsidian Dragon Sett",
+  "date": "01-Oct-2020",
+  "price": 1350
+},
+{
+  "name": "Obsidian Dragon Sett Prestige Edition",
+  "date": "01-Oct-2020",
+  "price": 9999
+},
 {
   "name": "Mecha Kingdoms Sett",
   "date": "14-Jan-2020",
@@ -6267,6 +6297,11 @@ let champion={
 }
 ],
 "Yasuo": [
+{
+  "name": "True Damage Yasuo Prestige Edition",
+  "date": "25-Sep-2020",
+  "price": 9999
+},
 {
   "name": "Spirit Blossom Yasuo",
   "date": "22-Jul-2020",
