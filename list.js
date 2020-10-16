@@ -1,6 +1,11 @@
 let champion={
 "Aatrox": [
 {
+  "name": "Odyssey Aatrox",
+  "date": "15-Oct-2020",
+  "price": 1350
+},
+{
   "name": "Blood Moon Aatrox",
   "date": "10-Jan-2019",
   "price": 1350
@@ -37,6 +42,11 @@ let champion={
 }
 ],
 "Ahri": [
+{
+  "name": "K/DA ALL OUT Ahri",
+  "date": "N/A",
+  "price": 1350
+},
 {
   "name": "Spirit Blossom Ahri",
   "date": "06-Aug-2020",
@@ -104,6 +114,11 @@ let champion={
 }
 ],
 "Akali": [
+{
+  "name": "K/DA ALL OUT Akali",
+  "date": "N/A",
+  "price": 1350
+},
 {
   "name": "All-star Akali",
   "date": "24-Jun-2010",
@@ -243,6 +258,11 @@ let champion={
 }
 ],
 "Amumu": [
+{
+  "name": "Pumpkin Prince Amumu",
+  "date": "22-Oct-2020",
+  "price": 1350
+},
 {
   "name": "Almost-Prom King Amumu",
   "date": "07-Feb-2011",
@@ -1161,6 +1181,11 @@ let champion={
 ],
 "Elise": [
 {
+  "name": "Bewitching Elise",
+  "date": "22-Oct-2020",
+  "price": 1350
+},
+{
   "name": "Blood Moon Elise",
   "date": "08-Jan-2015",
   "price": 975
@@ -1192,6 +1217,11 @@ let champion={
 }
 ],
 "Evelynn": [
+{
+  "name": "K/DA ALL OUT Evelynn",
+  "date": "N/A",
+  "price": 1350
+},
 {
   "name": "Blood Moon Evelynn",
   "date": "08-May-2018",
@@ -1425,6 +1455,11 @@ let champion={
 }
 ],
 "Fizz": [
+{
+  "name": "Little Devil Fizz",
+  "date": "22-Oct-2020",
+  "price": 1350
+},
 {
   "name": "Atlantean Fizz",
   "date": "15-Nov-2011",
@@ -2267,6 +2302,16 @@ let champion={
 ],
 "Kaisa": [
 {
+  "name": "K/DA ALL OUT KaiSa",
+  "date": "N/A",
+  "price": 1350
+},
+{
+  "name": "K/DA ALL OUT KaiSa Prestige Edition",
+  "date": "N/A",
+  "price": 9999
+},
+{
   "name": "Arcade KaiSa",
   "date": "28-Jun-2019",
   "price": 1350
@@ -2320,6 +2365,11 @@ let champion={
 }
 ],
 "Karma": [
+{
+  "name": "Odyssey Karma",
+  "date": "15-Oct-2020",
+  "price": 1350
+},
 {
   "name": "Conqueror Karma",
   "date": "23-Apr-2017",
@@ -2414,6 +2464,11 @@ let champion={
 }
 ],
 "Kassadin": [
+{
+  "name": "Hextech Kassadin",
+  "date": "15-Oct-2020",
+  "price": 9999
+},
 {
   "name": "Cosmic Reaver Kassadin",
   "date": "14-Oct-2015",
@@ -2644,6 +2699,11 @@ let champion={
 }
 ],
 "Khazix": [
+{
+  "name": "Odyssey KhaZix",
+  "date": "15-Oct-2020",
+  "price": 1350
+},
 {
   "name": "Championship KhaZix",
   "date": "27-Sep-2018",
@@ -3946,14 +4006,14 @@ let champion={
 ],
 "Ornn": [
 {
-  "name": "Original Ornn",
-  "date": "22-Aug-2017",
-  "price": 975
-},
-{
   "name": "Thunder Lord Ornn",
   "date": "22-Aug-2017",
   "price": 1350
+},
+{
+  "name": "Original Ornn",
+  "date": "22-Aug-2017",
+  "price": 975
 }
 ],
 "Pantheon": [
@@ -4593,6 +4653,28 @@ let champion={
   "price": 1350
 }
 ],
+"Seraphine": [
+{
+  "name": "KDA ALL OUT Seraphine Rising Star",
+  "date": "N/A",
+  "price": 9999
+},
+{
+  "name": "KDA ALL OUT Seraphine Superstar",
+  "date": "N/A",
+  "price": 9999
+},
+{
+  "name": "KDA ALL OUT Seraphine Indie",
+  "date": "N/A",
+  "price": 3250
+},
+{
+  "name": "Original Seraphine",
+  "date": "N/A",
+  "price": 0
+}
+],
 "Sett": [
 {
   "name": "Obsidian Dragon Sett",
@@ -4837,7 +4919,7 @@ let champion={
 {
   "name": "Warmonger Sion",
   "date": "18-Jul-2011",
-  "price": 97
+  "price": 975
 },
 {
   "name": "Worldbreaker Sion",
@@ -4847,9 +4929,14 @@ let champion={
 ],
 "Sivir": [
 {
+  "name": "Odyssey Sivir",
+  "date": "15-Oct-2020",
+  "price": 1350
+},
+{
   "name": "Bandit Sivir",
   "date": "21-Mar-2011",
-  "price": 75
+  "price": 750
 },
 {
   "name": "Blood Moon Sivir",
@@ -5538,6 +5625,11 @@ let champion={
 }
 ],
 "TwistedFate": [
+{
+  "name": "Odyssey Twisted Fate",
+  "date": "15-Oct-2020",
+  "price": 1350
+},
 {
   "name": "Blood Moon Twisted Fate",
   "date": "09-Feb-2017",
