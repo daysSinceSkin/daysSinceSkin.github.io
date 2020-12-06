@@ -321,6 +321,11 @@ let champion={
 ],
 "Anivia": [
 {
+  "name": "Cosmic Flight Anivia",
+  "date": "24-Nov-2020",
+  "price": 1350
+},
+{
   "name": "Bird of Prey Anivia",
   "date": "02-May-2010",
   "price": 520
@@ -535,6 +540,11 @@ let champion={
 }
 ],
 "Azir": [
+{
+  "name": "Elderwood Azir",
+  "date": "N/A",
+  "price": 1350
+},
 {
   "name": "Galactic Azir",
   "date": "15-Sep-2014",
@@ -997,6 +1007,16 @@ let champion={
 }
 ],
 "Diana": [
+{
+  "name": "Battle Queen Diana",
+  "date": "N/A",
+  "price": 1350
+},
+{
+  "name": "Battle Queen Diana Prestige Edition",
+  "date": "N/A",
+  "price": 9999
+},
 {
   "name": "Blood Moon Diana",
   "date": "09-Feb-2017",
@@ -1835,6 +1855,11 @@ let champion={
 ],
 "Hecarim": [
 {
+  "name": "Cosmic Charger Hecarim",
+  "date": "24-Nov-2020",
+  "price": 1350
+},
+{
   "name": "Arcade Hecarim",
   "date": "21-Aug-2013",
   "price": 1350
@@ -1924,6 +1949,11 @@ let champion={
 ],
 "Illaoi": [
 {
+  "name": "Cosmic Invoker Illaoi",
+  "date": "24-Nov-2020",
+  "price": 1350
+},
+{
   "name": "Original Illaoi",
   "date": "24-Nov-2015",
   "price": 975
@@ -1998,6 +2028,11 @@ let champion={
 ],
 "Ivern": [
 {
+  "name": "Elderwood Ivern",
+  "date": "N/A",
+  "price": 1350
+},
+{
   "name": "Candy King Ivern",
   "date": "04-Oct-2016",
   "price": 1350
@@ -2014,6 +2049,11 @@ let champion={
 }
 ],
 "Janna": [
+{
+  "name": "Battle Queen Janna",
+  "date": "N/A",
+  "price": 1350
+},
 {
   "name": "Bewitching Janna",
   "date": "24-Oct-2018",
@@ -2190,6 +2230,11 @@ let champion={
 }
 ],
 "Jayce": [
+{
+  "name": "Resistance Jayce",
+  "date": "12-Nov-2020",
+  "price": 1350
+},
 {
   "name": "Battle Academia Jayce",
   "date": "15-May-2019",
@@ -2506,6 +2551,11 @@ let champion={
 }
 ],
 "Katarina": [
+{
+  "name": "Battle Queen Katarina",
+  "date": "N/A",
+  "price": 1820
+},
 {
   "name": "Battle Academia Katarina",
   "date": "15-May-2019",
@@ -3026,6 +3076,11 @@ let champion={
 ],
 "Lissandra": [
 {
+  "name": "Dark Cosmic Lissandra",
+  "date": "24-Nov-2020",
+  "price": 1350
+},
+{
   "name": "Blade Queen Lissandra",
   "date": "26-May-2014",
   "price": 1350
@@ -3052,6 +3107,11 @@ let champion={
 }
 ],
 "Lucian": [
+{
+  "name": "Victorious Lucian",
+  "date": "11-Nov-2020",
+  "price": 9999
+},
 {
   "name": "Demacia Vice Lucian",
   "date": "18-Jul-2019",
@@ -3608,6 +3668,11 @@ let champion={
 ],
 "Nami": [
 {
+  "name": "Cosmic Destiny Nami",
+  "date": "24-Nov-2020",
+  "price": 1350
+},
+{
   "name": "Deep Sea Nami",
   "date": "29-Jun-2016",
   "price": 1350
@@ -3649,6 +3714,11 @@ let champion={
 }
 ],
 "Nasus": [
+{
+  "name": "Battlecast Nasus",
+  "date": "12-Nov-2020",
+  "price": 1350
+},
 {
   "name": "Archduke Nasus",
   "date": "31-Mar-2015",
@@ -3755,6 +3825,11 @@ let champion={
 }
 ],
 "Nidalee": [
+{
+  "name": "Cosmic Huntress Nidalee",
+  "date": "24-Nov-2020",
+  "price": 1350
+},
 {
   "name": "Bewitching Nidalee",
   "date": "19-Oct-2011",
@@ -4006,6 +4081,11 @@ let champion={
 ],
 "Ornn": [
 {
+  "name": "Elderwood Ornn",
+  "date": "N/A",
+  "price": 1350
+},
+{
   "name": "Thunder Lord Ornn",
   "date": "22-Aug-2017",
   "price": 1350
@@ -4154,6 +4234,11 @@ let champion={
 ],
 "Qiyana": [
 {
+  "name": "Battle Queen Qiyana",
+  "date": "N/A",
+  "price": 1350
+},
+{
   "name": "Battle Boss Qiyana",
   "date": "28-Jun-2019",
   "price": 1350
@@ -4202,6 +4287,11 @@ let champion={
 }
 ],
 "Rakan": [
+{
+  "name": "Elderwood Rakan",
+  "date": "N/A",
+  "price": 1350
+},
 {
   "name": "Cosmic Dawn Rakan",
   "date": "18-Apr-2017",
@@ -4305,6 +4395,18 @@ let champion={
   "name": "Pool Party RekSai",
   "date": "25-Jun-2015",
   "price": 1350
+}
+],
+"Rell": [
+{
+  "name": "Battle Queen Rell",
+  "date": "N/A",
+  "price": 1350
+},
+{
+  "name": "Original Rell",
+  "date": "N/A",
+  "price": 975
 }
 ],
 "Renekton": [
@@ -4840,6 +4942,11 @@ let champion={
 ],
 "Singed": [
 {
+  "name": "Resistance Singed",
+  "date": "12-Nov-2020",
+  "price": 1350
+},
+{
   "name": "Augmented Singed",
   "date": "09-Jul-2012",
   "price": 975
@@ -4996,6 +5103,11 @@ let champion={
 ],
 "Skarner": [
 {
+  "name": "Cosmic Sting Skarner",
+  "date": "24-Nov-2020",
+  "price": 1350
+},
+{
   "name": "Battlecast Alpha Skarner",
   "date": "25-Nov-2014",
   "price": 1820
@@ -5074,6 +5186,11 @@ let champion={
 }
 ],
 "Soraka": [
+{
+  "name": "Star Guardian Soraka Prestige Edition",
+  "date": "24-Nov-2020",
+  "price": 9999
+},
 {
   "name": "Celestine Soraka",
   "date": "05-Mar-2013",
@@ -5814,6 +5931,11 @@ let champion={
 ],
 "Varus": [
 {
+  "name": "Cosmic Hunter Varus",
+  "date": "24-Nov-2020",
+  "price": 1350
+},
+{
   "name": "Arclight Varus",
   "date": "05-Dec-2012",
   "price": 975
@@ -6096,6 +6218,11 @@ let champion={
 ],
 "Vladimir": [
 {
+  "name": "Cosmic Devourer Vladimir",
+  "date": "24-Nov-2020",
+  "price": 1350
+},
+{
   "name": "Academy Vladimir",
   "date": "26-Aug-2015",
   "price": 750
@@ -6284,6 +6411,11 @@ let champion={
 ],
 "Xayah": [
 {
+  "name": "Elderwood Xayah",
+  "date": "N/A",
+  "price": 1350
+},
+{
   "name": "Cosmic Dusk Xayah",
   "date": "18-Apr-2017",
   "price": 1350
@@ -6454,6 +6586,11 @@ let champion={
 ],
 "Yorick": [
 {
+  "name": "Resistance Yorick",
+  "date": "12-Nov-2020",
+  "price": 1350
+},
+{
   "name": "Arclight Yorick",
   "date": "02-Oct-2017",
   "price": 1350
@@ -6497,6 +6634,11 @@ let champion={
 }
 ],
 "Zac": [
+{
+  "name": "Battlecast Zac",
+  "date": "12-Nov-2020",
+  "price": 1350
+},
 {
   "name": "Original Zac",
   "date": "29-Mar-2013",
