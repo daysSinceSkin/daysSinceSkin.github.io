@@ -44,7 +44,7 @@ let champion={
 "Ahri": [
 {
   "name": "K/DA ALL OUT Ahri",
-  "date": "N/A",
+  "date": "29-Oct-2020",
   "price": 1350
 },
 {
@@ -116,7 +116,7 @@ let champion={
 "Akali": [
 {
   "name": "K/DA ALL OUT Akali",
-  "date": "N/A",
+  "date": "29-Oct-2020",
   "price": 1350
 },
 {
@@ -1239,7 +1239,7 @@ let champion={
 "Evelynn": [
 {
   "name": "K/DA ALL OUT Evelynn",
-  "date": "N/A",
+  "date": "29-Oct-2020",
   "price": 1350
 },
 {
@@ -2348,12 +2348,12 @@ let champion={
 "Kaisa": [
 {
   "name": "K/DA ALL OUT KaiSa",
-  "date": "N/A",
+  "date": "29-Oct-2020",
   "price": 1350
 },
 {
   "name": "K/DA ALL OUT KaiSa Prestige Edition",
-  "date": "N/A",
+  "date": "29-Oct-2020",
   "price": 9999
 },
 {
@@ -4758,22 +4758,22 @@ let champion={
 "Seraphine": [
 {
   "name": "KDA ALL OUT Seraphine Rising Star",
-  "date": "N/A",
+  "date": "29-Oct-2020",
   "price": 9999
 },
 {
   "name": "KDA ALL OUT Seraphine Superstar",
-  "date": "N/A",
+  "date": "29-Oct-2020",
   "price": 9999
 },
 {
   "name": "KDA ALL OUT Seraphine Indie",
-  "date": "N/A",
+  "date": "29-Oct-2020",
   "price": 3250
 },
 {
   "name": "Original Seraphine",
-  "date": "N/A",
+  "date": "29-Oct-2020",
   "price": 0
 }
 ],
