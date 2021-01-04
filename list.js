@@ -542,7 +542,7 @@ let champion={
 "Azir": [
 {
   "name": "Elderwood Azir",
-  "date": "N/A",
+  "date": "10-Dec-2020",
   "price": 1350
 },
 {
@@ -1009,12 +1009,12 @@ let champion={
 "Diana": [
 {
   "name": "Battle Queen Diana",
-  "date": "N/A",
+  "date": "10-Dec-2020",
   "price": 1350
 },
 {
   "name": "Battle Queen Diana Prestige Edition",
-  "date": "N/A",
+  "date": "10-Dec-2020",
   "price": 9999
 },
 {
@@ -1741,6 +1741,11 @@ let champion={
 ],
 "Gragas": [
 {
+  "name": "Warden Gragas",
+  "date": "N/A",
+  "price": 1350
+},
+{
   "name": "Arctic Ops Gragas",
   "date": "25-Jan-2018",
   "price": 1350
@@ -2029,7 +2034,7 @@ let champion={
 "Ivern": [
 {
   "name": "Elderwood Ivern",
-  "date": "N/A",
+  "date": "10-Dec-2020",
   "price": 1350
 },
 {
@@ -2051,7 +2056,7 @@ let champion={
 "Janna": [
 {
   "name": "Battle Queen Janna",
-  "date": "N/A",
+  "date": "10-Dec-2020",
   "price": 1350
 },
 {
@@ -2389,6 +2394,11 @@ let champion={
 ],
 "Kalista": [
 {
+  "name": "Marauder Kalista",
+  "date": "N/A",
+  "price": 1350
+},
+{
   "name": "Blood Moon Kalista",
   "date": "20-Nov-2014",
   "price": 975
@@ -2553,7 +2563,7 @@ let champion={
 "Katarina": [
 {
   "name": "Battle Queen Katarina",
-  "date": "N/A",
+  "date": "10-Dec-2020",
   "price": 1820
 },
 {
@@ -2808,6 +2818,11 @@ let champion={
 }
 ],
 "Kled": [
+{
+  "name": "Marauder Kled",
+  "date": "N/A",
+  "price": 1350
+},
 {
   "name": "Count Kledula",
   "date": "24-Oct-2018",
@@ -4082,7 +4097,7 @@ let champion={
 "Ornn": [
 {
   "name": "Elderwood Ornn",
-  "date": "N/A",
+  "date": "10-Dec-2020",
   "price": 1350
 },
 {
@@ -4235,7 +4250,7 @@ let champion={
 "Qiyana": [
 {
   "name": "Battle Queen Qiyana",
-  "date": "N/A",
+  "date": "10-Dec-2020",
   "price": 1350
 },
 {
@@ -4260,6 +4275,11 @@ let champion={
 }
 ],
 "Quinn": [
+{
+  "name": "Warden Quinn",
+  "date": "N/A",
+  "price": 1350
+},
 {
   "name": "Corsair Quinn",
   "date": "22-Jul-2015",
@@ -4289,7 +4309,7 @@ let champion={
 "Rakan": [
 {
   "name": "Elderwood Rakan",
-  "date": "N/A",
+  "date": "10-Dec-2020",
   "price": 1350
 },
 {
@@ -5035,6 +5055,11 @@ let champion={
 }
 ],
 "Sivir": [
+{
+  "name": "SKT T1 Sivir",
+  "date": "N/A",
+  "price": 750
+},
 {
   "name": "Odyssey Sivir",
   "date": "15-Oct-2020",
@@ -6412,7 +6437,7 @@ let champion={
 "Xayah": [
 {
   "name": "Elderwood Xayah",
-  "date": "N/A",
+  "date": "10-Dec-2020",
   "price": 1350
 },
 {
@@ -6474,6 +6499,11 @@ let champion={
 }
 ],
 "XinZhao": [
+{
+  "name": "Marauder Xin Zhao",
+  "date": "N/A",
+  "price": 1350
+},
 {
   "name": "Commando Xin Zhao",
   "date": "13-Jul-2010",
