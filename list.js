@@ -4420,12 +4420,12 @@ let champion={
 "Rell": [
 {
   "name": "Battle Queen Rell",
-  "date": "N/A",
+  "date": "10-Dec-2020",
   "price": 1350
 },
 {
   "name": "Original Rell",
-  "date": "N/A",
+  "date": "10-Dec-2020",
   "price": 975
 }
 ],
