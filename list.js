@@ -867,6 +867,11 @@ let champion={
 ],
 "Chogath": [
 {
+  "name": "Shan Hai Scrolls ChoGath",
+  "date": "N/A",
+  "price": 1350
+},
+{
   "name": "Battlecast Prime ChoGath",
   "date": "03-Aug-2012",
   "price": 1820
@@ -1111,6 +1116,11 @@ let champion={
 }
 ],
 "Draven": [
+{
+  "name": "Ruined Draven",
+  "date": "N/A",
+  "price": 1350
+},
 {
   "name": "Beast Hunter Draven",
   "date": "04-Feb-2016",
@@ -1742,7 +1752,7 @@ let champion={
 "Gragas": [
 {
   "name": "Warden Gragas",
-  "date": "N/A",
+  "date": "07-Jan-2021",
   "price": 1350
 },
 {
@@ -2273,6 +2283,11 @@ let champion={
 ],
 "Jhin": [
 {
+  "name": "Shan Hai Scrolls Jhin",
+  "date": "N/A",
+  "price": 1350
+},
+{
   "name": "Blood Moon Jhin",
   "date": "09-Feb-2017",
   "price": 1350
@@ -2395,7 +2410,7 @@ let champion={
 "Kalista": [
 {
   "name": "Marauder Kalista",
-  "date": "N/A",
+  "date": "07-Jan-2021",
   "price": 1350
 },
 {
@@ -2420,6 +2435,11 @@ let champion={
 }
 ],
 "Karma": [
+{
+  "name": "Ruined Karma",
+  "date": "N/A",
+  "price": 1350
+},
 {
   "name": "Odyssey Karma",
   "date": "15-Oct-2020",
@@ -2820,7 +2840,7 @@ let champion={
 "Kled": [
 {
   "name": "Marauder Kled",
-  "date": "N/A",
+  "date": "07-Jan-2021",
   "price": 1350
 },
 {
@@ -3782,6 +3802,11 @@ let champion={
 ],
 "Nautilus": [
 {
+  "name": "Shan Hai Scrolls Nautilus",
+  "date": "N/A",
+  "price": 1350
+},
+{
   "name": "Abyssal Nautilus",
   "date": "14-Feb-2012",
   "price": 975
@@ -3818,6 +3843,11 @@ let champion={
 }
 ],
 "Neeko": [
+{
+  "name": "Shan Hai Scrolls Neeko",
+  "date": "N/A",
+  "price": 1350
+},
 {
   "name": "Original Neeko",
   "date": "05-Dec-2018",
@@ -4277,7 +4307,7 @@ let champion={
 "Quinn": [
 {
   "name": "Warden Quinn",
-  "date": "N/A",
+  "date": "07-Jan-2021",
   "price": 1350
 },
 {
@@ -4924,6 +4954,11 @@ let champion={
 }
 ],
 "Shyvana": [
+{
+  "name": "Ruined Shyvana",
+  "date": "N/A",
+  "price": 1350
+},
 {
   "name": "Boneclaw Shyvana",
   "date": "01-Nov-2011",
@@ -6501,7 +6536,7 @@ let champion={
 "XinZhao": [
 {
   "name": "Marauder Xin Zhao",
-  "date": "N/A",
+  "date": "07-Jan-2021",
   "price": 1350
 },
 {
