@@ -187,6 +187,11 @@ let champion={
 ],
 "Alistar": [
 {
+  "name": "Lunar Beast Alistar",
+  "date": "N/A",
+  "price": 1350
+},
+{
   "name": "Black Alistar",
   "date": "13-Jun-2009",
   "price": 9999
@@ -373,6 +378,11 @@ let champion={
 ],
 "Annie": [
 {
+  "name": "Lunar Beast Annie",
+  "date": "N/A",
+  "price": 1350
+},
+{
   "name": "Annie in Wonderland",
   "date": "16-Aug-2010",
   "price": 1820
@@ -439,6 +449,11 @@ let champion={
 }
 ],
 "Aphelios": [
+{
+  "name": "Lunar Beast Aphelios",
+  "date": "N/A",
+  "price": 1350
+},
 {
   "name": "Nightbringer Aphelios",
   "date": "11-Dec-2019",
@@ -966,6 +981,11 @@ let champion={
 ],
 "Darius": [
 {
+  "name": "Lunar Beast Darius",
+  "date": "N/A",
+  "price": 1350
+},
+{
   "name": "Academy Darius",
   "date": "26-Aug-2015",
   "price": 750
@@ -1118,7 +1138,7 @@ let champion={
 "Draven": [
 {
   "name": "Ruined Draven",
-  "date": "N/A",
+  "date": "21-Jan-2021",
   "price": 1350
 },
 {
@@ -1433,6 +1453,16 @@ let champion={
 }
 ],
 "Fiora": [
+{
+  "name": "Lunar Beast Fiora",
+  "date": "N/A",
+  "price": 1350
+},
+{
+  "name": "Lunar Beast Fiora Prestige Edition",
+  "date": "N/A",
+  "price": 9999
+},
 {
   "name": "Headmistress Fiora",
   "date": "26-Oct-2012",
@@ -2127,6 +2157,11 @@ let champion={
 ],
 "JarvanIV": [
 {
+  "name": "Lunar Beast Jarvan IV",
+  "date": "N/A",
+  "price": 1350
+},
+{
   "name": "Commando Jarvan IV",
   "date": "01-Mar-2011",
   "price": 520
@@ -2437,7 +2472,7 @@ let champion={
 "Karma": [
 {
   "name": "Ruined Karma",
-  "date": "N/A",
+  "date": "21-Jan-2021",
   "price": 1350
 },
 {
@@ -4956,7 +4991,7 @@ let champion={
 "Shyvana": [
 {
   "name": "Ruined Shyvana",
-  "date": "N/A",
+  "date": "21-Jan-2021",
   "price": 1350
 },
 {
@@ -6242,6 +6277,18 @@ let champion={
   "name": "Warring Kingdoms Vi",
   "date": "19-Jan-2017",
   "price": 1350
+}
+],
+"Viego": [
+{
+  "name": "Lunar Beast Viego",
+  "date": "21-Jan-2021",
+  "price": 1350
+},
+{
+  "name": "Original Viego",
+  "date": "21-Jan-2021",
+  "price": 975
 }
 ],
 "Viktor": [
