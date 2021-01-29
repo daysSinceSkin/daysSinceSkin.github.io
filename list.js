@@ -5126,11 +5126,6 @@ let champion={
 ],
 "Sivir": [
 {
-  "name": "SKT T1 Sivir",
-  "date": "N/A",
-  "price": 750
-},
-{
   "name": "Odyssey Sivir",
   "date": "15-Oct-2020",
   "price": 1350
@@ -5349,6 +5344,11 @@ let champion={
 ],
 "Swain": [
 {
+  "name": "Crystal Rose Swain",
+  "date": "N/A",
+  "price": 1350
+},
+{
   "name": "Bilgewater Swain",
   "date": "05-Oct-2010",
   "price": 520
@@ -5397,6 +5397,11 @@ let champion={
 }
 ],
 "Syndra": [
+{
+  "name": "Withered Rose Syndra",
+  "date": "N/A",
+  "price": 1350
+},
 {
   "name": "Atlantean Syndra",
   "date": "29-Apr-2014",
@@ -5483,6 +5488,11 @@ let champion={
 }
 ],
 "Talon": [
+{
+  "name": "Withered Rose Talon",
+  "date": "N/A",
+  "price": 1350
+},
 {
   "name": "Blood Moon Talon",
   "date": "09-Feb-2017",
@@ -6936,6 +6946,11 @@ let champion={
 }
 ],
 "Zyra": [
+{
+  "name": "Crystal Rose Zyra",
+  "date": "N/A",
+  "price": 1350
+},
 {
   "name": "Coven Zyra",
   "date": "16-Apr-2020",
