@@ -883,7 +883,7 @@ let champion={
 "Chogath": [
 {
   "name": "Shan Hai Scrolls ChoGath",
-  "date": "N/A",
+  "date": "28-Jan-2021",
   "price": 1350
 },
 {
@@ -2319,7 +2319,7 @@ let champion={
 "Jhin": [
 {
   "name": "Shan Hai Scrolls Jhin",
-  "date": "N/A",
+  "date": "28-Jan-2021",
   "price": 1350
 },
 {
@@ -3838,7 +3838,7 @@ let champion={
 "Nautilus": [
 {
   "name": "Shan Hai Scrolls Nautilus",
-  "date": "N/A",
+  "date": "28-Jan-2021",
   "price": 1350
 },
 {
@@ -3880,7 +3880,7 @@ let champion={
 "Neeko": [
 {
   "name": "Shan Hai Scrolls Neeko",
-  "date": "N/A",
+  "date": "28-Jan-2021",
   "price": 1350
 },
 {
