@@ -188,7 +188,7 @@ let champion={
 "Alistar": [
 {
   "name": "Lunar Beast Alistar",
-  "date": "N/A",
+  "date": "04-Feb-2021",
   "price": 1350
 },
 {
@@ -379,7 +379,7 @@ let champion={
 "Annie": [
 {
   "name": "Lunar Beast Annie",
-  "date": "N/A",
+  "date": "04-Feb-2021",
   "price": 1350
 },
 {
@@ -451,7 +451,7 @@ let champion={
 "Aphelios": [
 {
   "name": "Lunar Beast Aphelios",
-  "date": "N/A",
+  "date": "04-Feb-2021",
   "price": 1350
 },
 {
@@ -777,7 +777,7 @@ let champion={
 },
 {
   "name": "Lunar Wraith Caitlyn",
-  "date": "  27-Jan-2016",
+  "date": "27-Jan-2016",
   "price": 1350
 },
 {
@@ -982,7 +982,7 @@ let champion={
 "Darius": [
 {
   "name": "Lunar Beast Darius",
-  "date": "N/A",
+  "date": "04-Feb-2021",
   "price": 1350
 },
 {
@@ -1455,12 +1455,12 @@ let champion={
 "Fiora": [
 {
   "name": "Lunar Beast Fiora",
-  "date": "N/A",
+  "date": "04-Feb-2021",
   "price": 1350
 },
 {
   "name": "Lunar Beast Fiora Prestige Edition",
-  "date": "N/A",
+  "date": "04-Feb-2021",
   "price": 9999
 },
 {
@@ -2158,7 +2158,7 @@ let champion={
 "JarvanIV": [
 {
   "name": "Lunar Beast Jarvan IV",
-  "date": "N/A",
+  "date": "04-Feb-2021",
   "price": 1350
 },
 {
@@ -5345,7 +5345,7 @@ let champion={
 "Swain": [
 {
   "name": "Crystal Rose Swain",
-  "date": "N/A",
+  "date": "11-Feb-2021",
   "price": 1350
 },
 {
@@ -5399,7 +5399,7 @@ let champion={
 "Syndra": [
 {
   "name": "Withered Rose Syndra",
-  "date": "N/A",
+  "date": "11-Feb-2021",
   "price": 1350
 },
 {
@@ -5490,7 +5490,7 @@ let champion={
 "Talon": [
 {
   "name": "Withered Rose Talon",
-  "date": "N/A",
+  "date": "11-Feb-2021",
   "price": 1350
 },
 {
@@ -6948,7 +6948,7 @@ let champion={
 "Zyra": [
 {
   "name": "Crystal Rose Zyra",
-  "date": "N/A",
+  "date": "11-Feb-2021",
   "price": 1350
 },
 {
