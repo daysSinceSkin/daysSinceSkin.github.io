@@ -26,21 +26,17 @@ for (let c in champion) {
     // sort skins by release date
     champion[c] = champion[c].sort((b,a) => new moment(a.date, "DD-MMM-YYYY") - new moment(b.date, "DD-MMM-YYYY"))
 
-    // calculate time since last skins
     champion[c].lastDate = champion[c][0].date
-
     // really dirty hack to set the "now" date to always be midnight. otherwise the difference behaves weird.
     let daysDiff = moment(moment().format("DD-MMM-YYYY"), "DD-MMM-YYYY").diff(moment(champion[c][0].date, "DD-MMM-YYYY"), 'days')
     champion[c].daysSinceLast = formatDaysText(daysDiff)
-    champion[c].relativeTime = moment(champion[c][0].date, "DD-MMM-YYYY").fromNow()
+    // champion[c].relativeTime = moment(champion[c][0].date, "DD-MMM-YYYY").fromNow()
   }
   
   // append inital to DOM
   createNodes(c)
 }
 lazyWrapper()
-
-
 
 // ---- functions ----  \\
 
@@ -58,8 +54,6 @@ function formatDaysText (days) {
   }
   return "Error"
 }
-
-
 
 function createNodes(c) {
     let content = document.createElement("div")
