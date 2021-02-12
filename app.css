@@ -195,6 +195,7 @@ img {
 .textbg {
   background-color: rgba(0,0,0,0.4);
   border-radius: 15px;
+  width: 100%;
 }
  .date {
   top: -50px;
@@ -235,7 +236,7 @@ select {
 .select {
   position: relative;
   display: flex;
-  width: 25em;
+  width: 15em;
   height: 3em;
   line-height: 3;
   background: #343434;
