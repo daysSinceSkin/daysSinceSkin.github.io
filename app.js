@@ -12,6 +12,10 @@ const champTemplate = a => `<img class='champIcon lazy' src="img/lazy.jpg" data-
 for (let c in champion) {
   champion[c].amountSkins = champion[c].length-1
 
+
+  champion[c].champReleaseDate = champion[c].filter(a => a.name.includes("Original"))[0].date
+  console.log(champion[c].champReleaseDate)
+
   // Sort is not working when a champion has an "N/A" release date, so we need to take care of these edges cases first!
   if (champion[c].some(skin => skin.date == "N/A")) {
     // find N/A skin and move it to be the first element
@@ -40,6 +44,10 @@ lazyWrapper()
 
 // ---- functions ----  \\
 
+function calculateChampReleaseDate(champ) {
+
+}
+
 function formatDaysText (days) {
   if (days == -1 ) {
     return "Tomorrow"
@@ -63,15 +71,18 @@ function createNodes(c) {
 }
 
 function select(selectedValue) {
+  let fmt = "DD-MMM-YYYY"
   if (selectedValue == "most") sortFunc = (b,a) => champion[a].amountSkins - champion[b].amountSkins
   if (selectedValue == "least") sortFunc = (a,b) => champion[a].amountSkins - champion[b].amountSkins
-  if (selectedValue == "newest") sortFunc = (b,a) => new moment(champion[a].lastDate, "DD-MMM-YYYY") - new moment(champion[b].lastDate, "DD-MMM-YYYY")
-  if (selectedValue == "oldest") sortFunc = (a,b) => new moment(champion[a].lastDate, "DD-MMM-YYYY") - new moment(champion[b].lastDate, "DD-MMM-YYYY")
+  if (selectedValue == "newest") sortFunc = (b,a) => new moment(champion[a].lastDate, fmt) - new moment(champion[b].lastDate, fmt)
+  if (selectedValue == "oldest") sortFunc = (a,b) => new moment(champion[a].lastDate, fmt) - new moment(champion[b].lastDate, fmt)
   // if (selectedValue == "za") sortFunc = (a,b) => a - b
   // sort function for za is broken in chrome / edge, but works in firefox...
   // that's why i use the same sort func for both az and za, but reverse the array if za is selected
   if (selectedValue == "za") sortFunc = (a,b) => a + b
   if (selectedValue == "az") sortFunc = (a,b) => a + b
+  if (selectedValue == "champReleaseAsc") sortFunc = (a,b) => new moment(champion[a].champReleaseDate, fmt) - new moment(champion[b].champReleaseDate, fmt)
+  if (selectedValue == "champReleaseDesc") sortFunc = (b,a) => new moment(champion[a].champReleaseDate, fmt) - new moment(champion[b].champReleaseDate, fmt)
 
   keySorted = Object.keys(champion).sort(sortFunc)
   ul.innerHTML = '';

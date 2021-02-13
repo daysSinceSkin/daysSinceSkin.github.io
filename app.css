@@ -246,7 +246,7 @@ select {
 .select {
   position: relative;
   display: flex;
-  width: 15em;
+  width: 16.5em;
   height: 3em;
   line-height: 3;
   background: #343434;
