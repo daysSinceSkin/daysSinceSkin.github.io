@@ -71,6 +71,14 @@ var options = {
       height: 40
     }
   },
+  tooltip: {
+      x: {
+          formatter: (a) => "Last skin: "+ a + " days ago"
+      },
+      y: {
+          formatter: (a) => a + " skins"
+      }
+  },
   legend: {
       show: false,
     labels: {
