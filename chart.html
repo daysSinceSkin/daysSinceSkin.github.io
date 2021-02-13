@@ -5,6 +5,7 @@
     <title>days Since Skin</title>
     <script src="list.js" charset="utf-8"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js" charset="utf-8"></script>
+    <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
     <link href="app.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
@@ -25,23 +26,8 @@
     <div class="about">
       <p> made with <span style="color: #e25555;">&hearts;</span> by <a href="https://twitter.com/lasergunspew">@LasergunsPew</a></p>
     </div>
-    <nav>
-      <div class="select">
-        <select class="menu" onchange="select(this.value)" name="select">
-          <option value="" disabled selected> Sort by </option>
-          <option value="az">Name ↑</option>
-          <option value="za">Name ↓</option>
-          <option value="oldest">Day since skin ↑</option>
-          <option value="newest">Days since skin ↓</option>
-          <option value="most">Most skins</option>
-          <option value="least">Least skins</option>
-          <option value="champReleaseAsc">Champion release ↑</option>
-          <option value="champReleaseDesc">Champion release ↓</option>
-        </select>
-      </div>
-    </nav>
 
-    <div class="content listGrid" id="list"></div>
+    <div class="chart" id="chart"></div>
 
 
     <div class="footer">
@@ -51,6 +37,6 @@
       </p>
     </div>
 
-    <script src="app.js" charset="utf-8"></script>
+    <script src="chart.js" charset="utf-8"></script>
   </body>
 </html>

@@ -277,3 +277,17 @@ select {
 .select:hover::after {
   color: #eee;
 }
+
+
+
+/* Chart CSS */
+.chart {
+  display: flex;
+  justify-content: center;
+  max-width: 1700px;
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.09), 0 6px 6px rgba(0,0,0,0.13);
+}
