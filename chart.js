@@ -28,14 +28,7 @@ for (let c in champion) {
    imgArr.push('img/championIcon/'+c+'.png')
 }
 
-console.log(imgArr)
-console.log(dataArr)
-
-
 // ---------------------- Chart Config -----------------------\\ 
-
-
-      
 var options = {
   series: dataArr,
   chart: {
