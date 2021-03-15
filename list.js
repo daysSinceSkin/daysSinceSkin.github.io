@@ -1,270 +1,270 @@
 let champion={
   "Aatrox": [
     {
-      "name": "Blood Moon Aatrox",
+      "name": "BloodMoonAatrox",
       "date": "10-Jan-2019",
       "price": "1350"
     },
     {
-      "name": "Justicar Aatrox",
+      "name": "JusticarAatrox",
       "date": "12-Jun-2013",
       "price": "975"
     },
     {
-      "name": "Mecha Aatrox",
+      "name": "MechaAatrox",
       "date": "23-Jul-2014",
       "price": "1350"
     },
     {
-      "name": "Odyssey Aatrox",
+      "name": "OdysseyAatrox",
       "date": "15-Oct-2020",
       "price": "1350"
     },
     {
-      "name": "Original Aatrox",
+      "name": "OriginalAatrox",
       "date": "12-Jun-2013",
       "price": "975"
     },
     {
-      "name": "Blood Moon Aatrox Prestige Edition",
+      "name": "BloodMoonAatroxPrestigeEdition",
       "date": "10-Jan-2019",
       "price": "special"
     },
     {
-      "name": "Sea Hunter Aatrox",
+      "name": "SeaHunterAatrox",
       "date": "22-Jul-2015",
       "price": "750"
     },
     {
-      "name": "Victorious Aatrox",
+      "name": "VictoriousAatrox",
       "date": "21-Nov-2019",
       "price": "special"
     }
   ],
   "Ahri": [
     {
-      "name": "Academy Ahri",
+      "name": "AcademyAhri",
       "date": "26-Aug-2015",
       "price": "750"
     },
     {
-      "name": "Arcade Ahri",
+      "name": "ArcadeAhri",
       "date": "24-Aug-2016",
       "price": "1350"
     },
     {
-      "name": "Challenger Ahri",
+      "name": "ChallengerAhri",
       "date": "15-Jan-2015",
       "price": "975"
     },
     {
-      "name": "Dynasty Ahri",
+      "name": "DynastyAhri",
       "date": "14-Dec-2011",
       "price": "975"
     },
     {
-      "name": "Elderwood Ahri",
+      "name": "ElderwoodAhri",
       "date": "29-Aug-2019",
       "price": "1350"
     },
     {
-      "name": "Foxfire Ahri",
+      "name": "FoxfireAhri",
       "date": "11-Jul-2012",
       "price": "975"
     },
     {
-      "name": "K/DA Ahri",
+      "name": "K/DAAhri",
       "date": "03-Nov-2018",
       "price": "1350"
     },
     {
-      "name": "K/DA ALL OUT Ahri",
+      "name": "K/DAALLOUTAhri",
       "date": "29-Oct-2020",
       "price": "1350"
     },
     {
-      "name": "Midnight Ahri",
+      "name": "MidnightAhri",
       "date": "14-Dec-2011",
       "price": "750"
     },
     {
-      "name": "Original Ahri",
+      "name": "OriginalAhri",
       "date": "14-Dec-2011",
       "price": "880"
     },
     {
-      "name": "Popstar Ahri",
+      "name": "PopstarAhri",
       "date": "25-Nov-2013",
       "price": "975"
     },
     {
-      "name": "K/DA Ahri Prestige Edition",
+      "name": "K/DAAhriPrestigeEdition",
       "date": "07-Mar-2019",
       "price": "special"
     },
     {
-      "name": "Spirit Blossom Ahri",
+      "name": "SpiritBlossomAhri",
       "date": "06-Aug-2020",
       "price": "1820"
     },
     {
-      "name": "Star Guardian Ahri",
+      "name": "StarGuardianAhri",
       "date": "06-Sep-2017",
       "price": "1820"
     }
   ],
   "Akali": [
     {
-      "name": "All-star Akali",
+      "name": "All-starAkali",
       "date": "24-Jun-2010",
       "price": "975"
     },
     {
-      "name": "Blood Moon Akali",
+      "name": "BloodMoonAkali",
       "date": "07-Jun-2011",
       "price": "975"
     },
     {
-      "name": "Headhunter Akali",
+      "name": "HeadhunterAkali",
       "date": "23-Mar-2015",
       "price": "1350"
     },
     {
-      "name": "Infernal Akali",
+      "name": "InfernalAkali",
       "date": "11-May-2010",
       "price": "520"
     },
     {
-      "name": "K/DA Akali",
+      "name": "K/DAAkali",
       "date": "03-Nov-2018",
       "price": "1350"
     },
     {
-      "name": "K/DA ALL OUT Akali",
+      "name": "K/DAALLOUTAkali",
       "date": "29-Oct-2020",
       "price": "1350"
     },
     {
-      "name": "Nurse Akali",
+      "name": "NurseAkali",
       "date": "04-Jan-2011",
       "price": "975"
     },
     {
-      "name": "Original Akali",
+      "name": "OriginalAkali",
       "date": "11-May-2010",
       "price": "790"
     },
     {
-      "name": "PROJECT: Akali",
+      "name": "PROJECT:Akali",
       "date": "01-Aug-2019",
       "price": "1350"
     },
     {
-      "name": "K/DA Akali Prestige Edition",
+      "name": "K/DAAkaliPrestigeEdition",
       "date": "06-Dec-2018",
       "price": "special"
     },
     {
-      "name": "Sashimi Akali",
+      "name": "SashimiAkali",
       "date": "07-Sep-2016",
       "price": "750"
     },
     {
-      "name": "Silverfang Akali",
+      "name": "SilverfangAkali",
       "date": "29-Nov-2011",
       "price": "975"
     },
     {
-      "name": "Stinger Akali",
+      "name": "StingerAkali",
       "date": "11-May-2010",
       "price": "520"
     },
     {
-      "name": "True Damage Akali",
+      "name": "TrueDamageAkali",
       "date": "10-Nov-2019",
       "price": "1350"
     }
   ],
   "Alistar": [
     {
-      "name": "Black Alistar",
+      "name": "BlackAlistar",
       "date": "13-Jun-2009",
       "price": "special"
     },
     {
-      "name": "Blackfrost Alistar",
+      "name": "BlackfrostAlistar",
       "date": "05-Mar-2020",
       "price": "1350"
     },
     {
-      "name": "Conqueror Alistar",
+      "name": "ConquerorAlistar",
       "date": "30-Apr-2019",
       "price": "975"
     },
     {
-      "name": "Golden Alistar",
+      "name": "GoldenAlistar",
       "date": "13-Jan-2010",
       "price": "390"
     },
     {
-      "name": "Hextech Alistar",
+      "name": "HextechAlistar",
       "date": "26-Mar-2018",
       "price": "special"
     },
     {
-      "name": "Infernal Alistar",
+      "name": "InfernalAlistar",
       "date": "13-Jul-2012",
       "price": "975"
     },
     {
-      "name": "Longhorn Alistar",
+      "name": "LonghornAlistar",
       "date": "16-Feb-2011",
       "price": "520"
     },
     {
-      "name": "Lunar Beast Alistar",
+      "name": "LunarBeastAlistar",
       "date": "04-Feb-2021",
       "price": "1350"
     },
     {
-      "name": "Marauder Alistar",
+      "name": "MarauderAlistar",
       "date": "30-Sep-2015",
       "price": "750"
     },
     {
-      "name": "Matador Alistar",
+      "name": "MatadorAlistar",
       "date": "11-May-2010",
       "price": "975"
     },
     {
-      "name": "Moo Cow Alistar",
+      "name": "MooCowAlistar",
       "date": "29-Mar-2017",
       "price": "975"
     },
     {
-      "name": "Original Alistar",
+      "name": "OriginalAlistar",
       "date": "21-Feb-2009",
       "price": "585"
     },
     {
-      "name": "SKT T1 Alistar",
+      "name": "SKTT1Alistar",
       "date": "17-Aug-2016",
       "price": "975"
     },
     {
-      "name": "Sweeper Alistar",
+      "name": "SweeperAlistar",
       "date": "18-Jun-2014",
       "price": "750"
     },
     {
-      "name": "Unchained Alistar",
+      "name": "UnchainedAlistar",
       "date": "22-Sep-2011",
       "price": "special"
     }
   ],
   "Amumu": [
     {
-      "name": "Almost-Prom King Amumu",
+      "name": "Almost-PromKingAmumu",
       "date": "07-Feb-2011",
       "price": "520"
     },
@@ -274,111 +274,111 @@ let champion={
       "price": "520"
     },
     {
-      "name": "Hextech Amumu",
+      "name": "HextechAmumu",
       "date": "26-Sep-2019",
       "price": "special"
     },
     {
-      "name": "Infernal Amumu",
+      "name": "InfernalAmumu",
       "date": "16-Oct-2018",
       "price": "1350"
     },
     {
-      "name": "Little Knight Amumu",
+      "name": "LittleKnightAmumu",
       "date": "18-Jul-2011",
       "price": "750"
     },
     {
-      "name": "Original Amumu",
+      "name": "OriginalAmumu",
       "date": "25-Jun-2009",
       "price": "260"
     },
     {
-      "name": "Pharaoh Amumu",
+      "name": "PharaohAmumu",
       "date": "02-Feb-2010",
       "price": "520"
     },
     {
-      "name": "Pumpkin Prince Amumu",
+      "name": "PumpkinPrinceAmumu",
       "date": "22-Oct-2020",
       "price": "1350"
     },
     {
-      "name": "Re-Gifted Amumu",
+      "name": "Re-GiftedAmumu",
       "date": "14-Dec-2010",
       "price": "520"
     },
     {
-      "name": "Sad Robot Amumu",
+      "name": "SadRobotAmumu",
       "date": "28-May-2012",
       "price": "1350"
     },
     {
-      "name": "Surprise Party Amumu",
+      "name": "SurprisePartyAmumu",
       "date": "31-Mar-2015",
       "price": "1350"
     },
     {
-      "name": "Vancouver Amumu",
+      "name": "VancouverAmumu",
       "date": "12-Feb-2010",
       "price": "520"
     }
   ],
   "Anivia": [
     {
-      "name": "Bird of Prey Anivia",
+      "name": "BirdofPreyAnivia",
       "date": "02-May-2010",
       "price": "520"
     },
     {
-      "name": "Blackfrost Anivia",
+      "name": "BlackfrostAnivia",
       "date": "29-Apr-2013",
       "price": "1820"
     },
     {
-      "name": "Cosmic Flight Anivia",
+      "name": "CosmicFlightAnivia",
       "date": "24-Nov-2020",
       "price": "1350"
     },
     {
-      "name": "Festival Queen Anivia",
+      "name": "FestivalQueenAnivia",
       "date": "23-Feb-2017",
       "price": "975"
     },
     {
-      "name": "Hextech Anivia",
+      "name": "HextechAnivia",
       "date": "01-Mar-2011",
       "price": "750"
     },
     {
-      "name": "Noxus Hunter Anivia",
+      "name": "NoxusHunterAnivia",
       "date": "24-Aug-2010",
       "price": "520"
     },
     {
-      "name": "Original Anivia",
+      "name": "OriginalAnivia",
       "date": "09-Jul-2009",
       "price": "790"
     },
     {
-      "name": "Papercraft Anivia",
+      "name": "PapercraftAnivia",
       "date": "21-Feb-2019",
       "price": "1350"
     },
     {
-      "name": "Prehistoric Anivia",
+      "name": "PrehistoricAnivia",
       "date": "14-Jun-2015",
       "price": "750"
     },
     {
-      "name": "Team Spirit Anivia",
+      "name": "TeamSpiritAnivia",
       "date": "12-Feb-2010",
       "price": "520"
     }
   ],
   "Annie": [
     {
-      "name": "Annie in Wonderland",
+      "name": "AnnieinWonderland",
       "date": "16-Aug-2010",
       "price": "1820"
     },
@@ -388,284 +388,284 @@ let champion={
       "price": "special"
     },
     {
-      "name": "FrankenTibbers Annie",
+      "name": "FrankenTibbersAnnie",
       "date": "19-Oct-2011",
       "price": "975"
     },
     {
-      "name": "Frostfire Annie",
+      "name": "FrostfireAnnie",
       "date": "24-May-2011",
       "price": "975"
     },
     {
-      "name": "Goth Annie",
+      "name": "GothAnnie",
       "date": "27-Oct-2009",
       "price": "special"
     },
     {
-      "name": "Hextech Annie",
+      "name": "HextechAnnie",
       "date": "15-Mar-2016",
       "price": "special"
     },
     {
-      "name": "Lunar Beast Annie",
+      "name": "LunarBeastAnnie",
       "date": "04-Feb-2021",
       "price": "1350"
     },
     {
-      "name": "Original Annie",
+      "name": "OriginalAnnie",
       "date": "21-Feb-2009",
       "price": "260"
     },
     {
-      "name": "Panda Annie",
+      "name": "PandaAnnie",
       "date": "08-Feb-2013",
       "price": "975"
     },
     {
-      "name": "Prom Queen Annie",
+      "name": "PromQueenAnnie",
       "date": "07-Feb-2011",
       "price": "520"
     },
     {
-      "name": "Red Riding Annie",
+      "name": "RedRidingAnnie",
       "date": "27-Apr-2010",
       "price": "520"
     },
     {
-      "name": "Reverse Annie",
+      "name": "ReverseAnnie",
       "date": "06-Sep-2011",
       "price": "975"
     },
     {
-      "name": "Super Galaxy Annie",
+      "name": "SuperGalaxyAnnie",
       "date": "16-Oct-2017",
       "price": "1350"
     },
     {
-      "name": "Sweetheart Annie",
+      "name": "SweetheartAnnie",
       "date": "13-Feb-2015",
       "price": "750"
     }
   ],
   "Aphelios": [
     {
-      "name": "Lunar Beast Aphelios",
+      "name": "LunarBeastAphelios",
       "date": "04-Feb-2021",
       "price": "1350"
     },
     {
-      "name": "Nightbringer Aphelios",
+      "name": "NightbringerAphelios",
       "date": "11-Dec-2019",
       "price": "1350"
     },
     {
-      "name": "Original Aphelios",
+      "name": "OriginalAphelios",
       "date": "11-Dec-2019",
       "price": "975"
     }
   ],
   "Ashe": [
     {
-      "name": "Amethyst Ashe",
+      "name": "AmethystAshe",
       "date": "15-Nov-2011",
       "price": "975"
     },
     {
-      "name": "Championship Ashe",
+      "name": "ChampionshipAshe",
       "date": "12-Sep-2017",
       "price": "1350"
     },
     {
-      "name": "Cosmic Queen Ashe",
+      "name": "CosmicQueenAshe",
       "date": "21-Aug-2018",
       "price": "1350"
     },
     {
-      "name": "Fae Dragon Ashe",
+      "name": "FaeDragonAshe",
       "date": "01-Oct-2020",
       "price": "1350"
     },
     {
-      "name": "Freljord Ashe",
+      "name": "FreljordAshe",
       "date": "20-Nov-2009",
       "price": "520"
     },
     {
-      "name": "Heartseeker Ashe",
+      "name": "HeartseekerAshe",
       "date": "14-Feb-2014",
       "price": "975"
     },
     {
-      "name": "High Noon Ashe",
+      "name": "HighNoonAshe",
       "date": "10-Oct-2019",
       "price": "1820"
     },
     {
-      "name": "Marauder Ashe",
+      "name": "MarauderAshe",
       "date": "17-Feb-2015",
       "price": "750"
     },
     {
-      "name": "Original Ashe",
+      "name": "OriginalAshe",
       "date": "21-Feb-2009",
       "price": "260"
     },
     {
-      "name": "PROJECT: Ashe",
+      "name": "PROJECT:Ashe",
       "date": "01-Aug-2016",
       "price": "1820"
     },
     {
-      "name": "Queen Ashe",
+      "name": "QueenAshe",
       "date": "21-Sep-2010",
       "price": "975"
     },
     {
-      "name": "Sherwood Forest Ashe",
+      "name": "SherwoodForestAshe",
       "date": "08-Apr-2010",
       "price": "520"
     },
     {
-      "name": "Woad Ashe",
+      "name": "WoadAshe",
       "date": "18-Jul-2010",
       "price": "520"
     }
   ],
-  "Aurelion Sol": [
+  "AurelionSol": [
     {
-      "name": "Ashen Lord Aurelion Sol",
+      "name": "AshenLordAurelionSol",
       "date": "24-Mar-2016",
       "price": "1350"
     },
     {
-      "name": "Mecha Aurelion Sol",
+      "name": "MechaAurelionSol",
       "date": "16-Aug-2018",
       "price": "1350"
     },
     {
-      "name": "Original Aurelion Sol",
+      "name": "OriginalAurelionSol",
       "date": "24-Mar-2016",
       "price": "975"
     },
     {
-      "name": "Storm Dragon Aurelion Sol",
+      "name": "StormDragonAurelionSol",
       "date": "01-Oct-2020",
       "price": "1350"
     }
   ],
   "Azir": [
     {
-      "name": "Elderwood Azir",
+      "name": "ElderwoodAzir",
       "date": "10-Dec-2020",
       "price": "1350"
     },
     {
-      "name": "Galactic Azir",
+      "name": "GalacticAzir",
       "date": "15-Sep-2014",
       "price": "975"
     },
     {
-      "name": "Gravelord Azir",
+      "name": "GravelordAzir",
       "date": "01-Dec-2015",
       "price": "1350"
     },
     {
-      "name": "Original Azir",
+      "name": "OriginalAzir",
       "date": "15-Sep-2014",
       "price": "975"
     },
     {
-      "name": "SKT T1 Azir",
+      "name": "SKTT1Azir",
       "date": "17-Aug-2016",
       "price": "975"
     },
     {
-      "name": "Warring Kingdoms Azir",
+      "name": "WarringKingdomsAzir",
       "date": "19-Jan-2017",
       "price": "1350"
     }
   ],
   "Bard": [
     {
-      "name": "Astronaut Bard",
+      "name": "AstronautBard",
       "date": "28-May-2020",
       "price": "1350"
     },
     {
-      "name": "Bard Bard",
+      "name": "BardBard",
       "date": "17-Nov-2016",
       "price": "750"
     },
     {
-      "name": "Elderwood Bard",
+      "name": "ElderwoodBard",
       "date": "12-Mar-2015",
       "price": "975"
     },
     {
-      "name": "Original Bard",
+      "name": "OriginalBard",
       "date": "12-Mar-2015",
       "price": "975"
     },
     {
-      "name": "Snow Day Bard",
+      "name": "SnowDayBard",
       "date": "10-Dec-2015",
       "price": "1350"
     }
   ],
   "Blitzcrank": [
     {
-      "name": "Battle Boss Blitzcrank",
+      "name": "BattleBossBlitzcrank",
       "date": "19-Aug-2015",
       "price": "1350"
     },
     {
-      "name": "Boom Boom Blitzcrank",
+      "name": "BoomBoomBlitzcrank",
       "date": "29-Aug-2010",
       "price": "520"
     },
     {
-      "name": "Definitely Not Blitzcrank",
+      "name": "DefinitelyNotBlitzcrank",
       "date": "19-Oct-2011",
       "price": "975"
     },
     {
-      "name": "Goalkeeper Blitzcrank",
+      "name": "GoalkeeperBlitzcrank",
       "date": "24-Jun-2010",
       "price": "520"
     },
     {
-      "name": "Lancer Paragon Blitzcrank",
+      "name": "LancerParagonBlitzcrank",
       "date": "16-Nov-2017",
       "price": "1350"
     },
     {
-      "name": "Lancer Rogue Blitzcrank",
+      "name": "LancerRogueBlitzcrank",
       "date": "16-Nov-2017",
       "price": "1350"
     },
     {
-      "name": "Original Blitzcrank",
+      "name": "OriginalBlitzcrank",
       "date": "01-Sep-2009",
       "price": "790"
     },
     {
-      "name": "Piltover Customs Blitzcrank",
+      "name": "PiltoverCustomsBlitzcrank",
       "date": "07-Mar-2011",
       "price": "1350"
     },
     {
-      "name": "Riot Blitzcrank",
+      "name": "RiotBlitzcrank",
       "date": "21-Oct-2013",
       "price": "975"
     },
     {
-      "name": "Rusty Blitzcrank",
+      "name": "RustyBlitzcrank",
       "date": "20-Nov-2009",
       "price": "520"
     },
     {
-      "name": "Witch's Brew Blitzcrank",
+      "name": "Witch'sBrewBlitzcrank",
       "date": "24-Oct-2019",
       "price": "1350"
     },
@@ -677,896 +677,896 @@ let champion={
   ],
   "Brand": [
     {
-      "name": "Apocalyptic Brand",
+      "name": "ApocalypticBrand",
       "date": "12-Apr-2011",
       "price": "750"
     },
     {
-      "name": "Arclight Brand",
+      "name": "ArclightBrand",
       "date": "07-Mar-2019",
       "price": "1350"
     },
     {
-      "name": "Battle Boss Brand",
+      "name": "BattleBossBrand",
       "date": "08-Aug-2017",
       "price": "1350"
     },
     {
-      "name": "Cryocore Brand",
+      "name": "CryocoreBrand",
       "date": "05-Oct-2011",
       "price": "975"
     },
     {
-      "name": "Eternal Dragon Brand",
+      "name": "EternalDragonBrand",
       "date": "01-Oct-2020",
       "price": "1350"
     },
     {
-      "name": "Original Brand",
+      "name": "OriginalBrand",
       "date": "12-Apr-2011",
       "price": "880"
     },
     {
-      "name": "Spirit Fire Brand",
+      "name": "SpiritFireBrand",
       "date": "21-Oct-2015",
       "price": "1350"
     },
     {
-      "name": "Vandal Brand",
+      "name": "VandalBrand",
       "date": "12-Apr-2011",
       "price": "520"
     },
     {
-      "name": "Zombie Brand",
+      "name": "ZombieBrand",
       "date": "26-Oct-2012",
       "price": "1820"
     }
   ],
   "Braum": [
     {
-      "name": "Braum Lionheart",
+      "name": "BraumLionheart",
       "date": "07-Dec-2015",
       "price": "750"
     },
     {
-      "name": "Crime City Braum",
+      "name": "CrimeCityBraum",
       "date": "23-Aug-2018",
       "price": "1350"
     },
     {
-      "name": "Dragonslayer Braum",
+      "name": "DragonslayerBraum",
       "date": "11-May-2014",
       "price": "975"
     },
     {
-      "name": "El Tigre Braum",
+      "name": "ElTigreBraum",
       "date": "21-Jan-2015",
       "price": "1350"
     },
     {
-      "name": "Original Braum",
+      "name": "OriginalBraum",
       "date": "11-May-2014",
       "price": "975"
     },
     {
-      "name": "Santa Braum",
+      "name": "SantaBraum",
       "date": "14-Dec-2016",
       "price": "1350"
     },
     {
-      "name": "Sugar Rush Braum",
+      "name": "SugarRushBraum",
       "date": "17-Dec-2019",
       "price": "1350"
     }
   ],
   "Caitlyn": [
     {
-      "name": "Arcade Caitlyn",
+      "name": "ArcadeCaitlyn",
       "date": "28-Jun-2019",
       "price": "1350"
     },
     {
-      "name": "Arctic Warfare Caitlyn",
+      "name": "ArcticWarfareCaitlyn",
       "date": "29-Dec-2011",
       "price": "750"
     },
     {
-      "name": "Headhunter Caitlyn",
+      "name": "HeadhunterCaitlyn",
       "date": "03-Sep-2014",
       "price": "975"
     },
     {
-      "name": "Lunar Wraith Caitlyn",
+      "name": "LunarWraithCaitlyn",
       "date": "27-Jan-2016",
       "price": "1350"
     },
     {
-      "name": "Officer Caitlyn",
+      "name": "OfficerCaitlyn",
       "date": "05-Oct-2011",
       "price": "975"
     },
     {
-      "name": "Original Caitlyn",
+      "name": "OriginalCaitlyn",
       "date": "04-Jan-2011",
       "price": "880"
     },
     {
-      "name": "Pool Party Caitlyn",
+      "name": "PoolPartyCaitlyn",
       "date": "02-Aug-2018",
       "price": "1350"
     },
     {
-      "name": "Arcade Caitlyn Prestige Edition",
+      "name": "ArcadeCaitlynPrestigeEdition",
       "date": "28-Jun-2019",
       "price": "special"
     },
     {
-      "name": "Pulsefire Caitlyn",
+      "name": "PulsefireCaitlyn",
       "date": "24-May-2017",
       "price": "1820"
     },
     {
-      "name": "Resistance Caitlyn",
+      "name": "ResistanceCaitlyn",
       "date": "04-Jan-2011",
       "price": "520"
     },
     {
-      "name": "Safari Caitlyn",
+      "name": "SafariCaitlyn",
       "date": "10-May-2011",
       "price": "975"
     },
     {
-      "name": "Sheriff Caitlyn",
+      "name": "SheriffCaitlyn",
       "date": "04-Jan-2011",
       "price": "520"
     }
   ],
   "Camille": [
     {
-      "name": "Coven Camille",
+      "name": "CovenCamille",
       "date": "27-Nov-2018",
       "price": "1350"
     },
     {
-      "name": "Original Camille",
+      "name": "OriginalCamille",
       "date": "07-Dec-2016",
       "price": "975"
     },
     {
-      "name": "Program Camille",
+      "name": "ProgramCamille",
       "date": "12-Dec-2016",
       "price": "1350"
     },
     {
-      "name": "iG Camille",
+      "name": "iGCamille",
       "date": "23-Apr-2019",
       "price": "1350"
     }
   ],
   "Cassiopeia": [
     {
-      "name": "Desperada Cassiopeia",
+      "name": "DesperadaCassiopeia",
       "date": "14-Dec-2010",
       "price": "520"
     },
     {
-      "name": "Eternum Cassiopeia",
+      "name": "EternumCassiopeia",
       "date": "20-Sep-2017",
       "price": "1350"
     },
     {
-      "name": "Jade Fang Cassiopeia",
+      "name": "JadeFangCassiopeia",
       "date": "08-Feb-2013",
       "price": "975"
     },
     {
-      "name": "Mythic Cassiopeia",
+      "name": "MythicCassiopeia",
       "date": "18-Jul-2012",
       "price": "975"
     },
     {
-      "name": "Original Cassiopeia",
+      "name": "OriginalCassiopeia",
       "date": "14-Dec-2010",
       "price": "880"
     },
     {
-      "name": "Siren Cassiopeia",
+      "name": "SirenCassiopeia",
       "date": "14-Dec-2010",
       "price": "520"
     },
     {
-      "name": "Spirit Blossom Cassiopeia",
+      "name": "SpiritBlossomCassiopeia",
       "date": "06-Aug-2020",
       "price": "1350"
     }
   ],
   "ChoGath": [
     {
-      "name": "Battlecast Prime Cho'Gath",
+      "name": "BattlecastPrimeCho'Gath",
       "date": "03-Aug-2012",
       "price": "1820"
     },
     {
-      "name": "Dark Star Cho'Gath",
+      "name": "DarkStarCho'Gath",
       "date": "13-Jul-2018",
       "price": "special"
     },
     {
-      "name": "Gentleman Cho'Gath",
+      "name": "GentlemanCho'Gath",
       "date": "11-May-2010",
       "price": "1820"
     },
     {
-      "name": "Jurassic Cho'Gath",
+      "name": "JurassicCho'Gath",
       "date": "01-Nov-2011",
       "price": "975"
     },
     {
-      "name": "Loch Ness Cho'Gath",
+      "name": "LochNessCho'Gath",
       "date": "01-Mar-2011",
       "price": "520"
     },
     {
-      "name": "Nightmare Cho'Gath",
+      "name": "NightmareCho'Gath",
       "date": "20-Nov-2009",
       "price": "520"
     },
     {
-      "name": "Original Cho'Gath",
+      "name": "OriginalCho'Gath",
       "date": "25-Jun-2009",
       "price": "585"
     },
     {
-      "name": "Prehistoric Cho'Gath",
+      "name": "PrehistoricCho'Gath",
       "date": "14-Jun-2015",
       "price": "750"
     },
     {
-      "name": "Shan Hai Scrolls Cho'Gath",
+      "name": "ShanHaiScrollsCho'Gath",
       "date": "28-Jan-2021",
       "price": "1350"
     }
   ],
   "Corki": [
     {
-      "name": "Arcade Corki",
+      "name": "ArcadeCorki",
       "date": "24-Aug-2016",
       "price": "1350"
     },
     {
-      "name": "Corgi Corki",
+      "name": "CorgiCorki",
       "date": "27-Mar-2019",
       "price": "1350"
     },
     {
-      "name": "Dragonwing Corki",
+      "name": "DragonwingCorki",
       "date": "08-Feb-2013",
       "price": "975"
     },
     {
-      "name": "Fnatic Corki",
+      "name": "FnaticCorki",
       "date": "24-Sep-2014",
       "price": "750"
     },
     {
-      "name": "Hot Rod Corki",
+      "name": "HotRodCorki",
       "date": "27-Jul-2010",
       "price": "520"
     },
     {
-      "name": "Ice Toboggan Corki",
+      "name": "IceTobogganCorki",
       "date": "12-Feb-2010",
       "price": "1820"
     },
     {
-      "name": "Original Corki",
+      "name": "OriginalCorki",
       "date": "18-Sep-2009",
       "price": "790"
     },
     {
-      "name": "Red Baron Corki",
+      "name": "RedBaronCorki",
       "date": "24-Mar-2010",
       "price": "1820"
     },
     {
-      "name": "UFO Corki",
+      "name": "UFOCorki",
       "date": "01-Jan-2010",
       "price": "special"
     },
     {
-      "name": "Urfrider Corki",
+      "name": "UrfriderCorki",
       "date": "04-Apr-2011",
       "price": "975"
     }
   ],
   "Darius": [
     {
-      "name": "Academy Darius",
+      "name": "AcademyDarius",
       "date": "26-Aug-2015",
       "price": "750"
     },
     {
-      "name": "Bioforge Darius",
+      "name": "BioforgeDarius",
       "date": "13-Nov-2012",
       "price": "975"
     },
     {
-      "name": "Dreadnova Darius",
+      "name": "DreadnovaDarius",
       "date": "12-Apr-2017",
       "price": "special"
     },
     {
-      "name": "Dunkmaster Darius",
+      "name": "DunkmasterDarius",
       "date": "12-Oct-2014",
       "price": "1820"
     },
     {
-      "name": "God-King Darius",
+      "name": "God-KingDarius",
       "date": "27-Jun-2018",
       "price": "1820"
     },
     {
-      "name": "High Noon Darius",
+      "name": "HighNoonDarius",
       "date": "10-Oct-2019",
       "price": "1350"
     },
     {
-      "name": "Lord Darius",
+      "name": "LordDarius",
       "date": "22-May-2012",
       "price": "975"
     },
     {
-      "name": "Lunar Beast Darius",
+      "name": "LunarBeastDarius",
       "date": "04-Feb-2021",
       "price": "1350"
     },
     {
-      "name": "Original Darius",
+      "name": "OriginalDarius",
       "date": "22-May-2012",
       "price": "880"
     },
     {
-      "name": "Woad King Darius",
+      "name": "WoadKingDarius",
       "date": "16-Jun-2013",
       "price": "975"
     }
   ],
   "Diana": [
     {
-      "name": "Battle Queen Diana",
+      "name": "BattleQueenDiana",
       "date": "10-Dec-2020",
       "price": "1350"
     },
     {
-      "name": "Blood Moon Diana",
+      "name": "BloodMoonDiana",
       "date": "09-Feb-2017",
       "price": "1350"
     },
     {
-      "name": "Dark Valkyrie Diana",
+      "name": "DarkValkyrieDiana",
       "date": "07-Aug-2012",
       "price": "975"
     },
     {
-      "name": "Dark Waters Diana",
+      "name": "DarkWatersDiana",
       "date": "31-May-2018",
       "price": "1350"
     },
     {
-      "name": "Dragonslayer Diana",
+      "name": "DragonslayerDiana",
       "date": "30-Jan-2020",
       "price": "1350"
     },
     {
-      "name": "Infernal Diana",
+      "name": "InfernalDiana",
       "date": "20-Apr-2016",
       "price": "1350"
     },
     {
-      "name": "Lunar Goddess Diana",
+      "name": "LunarGoddessDiana",
       "date": "28-Jan-2014",
       "price": "975"
     },
     {
-      "name": "Original Diana",
+      "name": "OriginalDiana",
       "date": "07-Aug-2012",
       "price": "880"
     },
     {
-      "name": "Battle Queen Diana Prestige Edition",
+      "name": "BattleQueenDianaPrestigeEdition",
       "date": "10-Dec-2020",
       "price": "special"
     }
   ],
-  "Dr. Mundo": [
+  "Dr.Mundo": [
     {
-      "name": "Corporate Mundo",
+      "name": "CorporateMundo",
       "date": "12-Sep-2010",
       "price": "1820"
     },
     {
-      "name": "El Macho Mundo",
+      "name": "ElMachoMundo",
       "date": "01-Jun-2016",
       "price": "1350"
     },
     {
-      "name": "Executioner Mundo",
+      "name": "ExecutionerMundo",
       "date": "17-Jun-2011",
       "price": "520"
     },
     {
-      "name": "Frozen Prince Mundo",
+      "name": "FrozenPrinceMundo",
       "date": "06-Dec-2018",
       "price": "1350"
     },
     {
-      "name": "Mr. Mundoverse",
+      "name": "Mr.Mundoverse",
       "date": "24-Mar-2010",
       "price": "520"
     },
     {
-      "name": "Mundo Mundo",
+      "name": "MundoMundo",
       "date": "19-Oct-2010",
       "price": "975"
     },
     {
-      "name": "Original Dr. Mundo",
+      "name": "OriginalDr.Mundo",
       "date": "01-Sep-2009",
       "price": "260"
     },
     {
-      "name": "Pool Party Mundo",
+      "name": "PoolPartyMundo",
       "date": "25-Jun-2015",
       "price": "975"
     },
     {
-      "name": "Rageborn Mundo",
+      "name": "RagebornMundo",
       "date": "27-Jul-2012",
       "price": "975"
     },
     {
-      "name": "TPA Mundo",
+      "name": "TPAMundo",
       "date": "23-May-2013",
       "price": "750"
     },
     {
-      "name": "Toxic Dr. Mundo",
+      "name": "ToxicDr.Mundo",
       "date": "17-Dec-2009",
       "price": "520"
     }
   ],
   "Draven": [
     {
-      "name": "Beast Hunter Draven",
+      "name": "BeastHunterDraven",
       "date": "04-Feb-2016",
       "price": "750"
     },
     {
-      "name": "Draven Draven",
+      "name": "DravenDraven",
       "date": "31-Mar-2016",
       "price": "500"
     },
     {
-      "name": "Gladiator Draven",
+      "name": "GladiatorDraven",
       "date": "25-Mar-2013",
       "price": "975"
     },
     {
-      "name": "Mecha Kingdoms Draven",
+      "name": "MechaKingdomsDraven",
       "date": "15-Jan-2020",
       "price": "1350"
     },
     {
-      "name": "Original Draven",
+      "name": "OriginalDraven",
       "date": "05-Jun-2012",
       "price": "880"
     },
     {
-      "name": "Pool Party Draven",
+      "name": "PoolPartyDraven",
       "date": "25-Jun-2015",
       "price": "975"
     },
     {
-      "name": "Primetime Draven",
+      "name": "PrimetimeDraven",
       "date": "20-Jun-2014",
       "price": "975"
     },
     {
-      "name": "Ruined Draven",
+      "name": "RuinedDraven",
       "date": "21-Jan-2021",
       "price": "1350"
     },
     {
-      "name": "Santa Draven",
+      "name": "SantaDraven",
       "date": "12-Dec-2017",
       "price": "1350"
     },
     {
-      "name": "Soul Reaver Draven",
+      "name": "SoulReaverDraven",
       "date": "05-Jun-2012",
       "price": "1350"
     }
   ],
   "Ekko": [
     {
-      "name": "Academy Ekko",
+      "name": "AcademyEkko",
       "date": "26-Aug-2015",
       "price": "750"
     },
     {
-      "name": "Original Ekko",
+      "name": "OriginalEkko",
       "date": "27-May-2015",
       "price": "975"
     },
     {
-      "name": "PROJECT: Ekko",
+      "name": "PROJECT:Ekko",
       "date": "01-Aug-2016",
       "price": "1350"
     },
     {
-      "name": "Pulsefire Ekko",
+      "name": "PulsefireEkko",
       "date": "14-May-2020",
       "price": "1350"
     },
     {
-      "name": "SKT T1 Ekko",
+      "name": "SKTT1Ekko",
       "date": "27-Jun-2017",
       "price": "1350"
     },
     {
-      "name": "Sandstorm Ekko",
+      "name": "SandstormEkko",
       "date": "27-May-2015",
       "price": "975"
     },
     {
-      "name": "Trick or Treat Ekko",
+      "name": "TrickorTreatEkko",
       "date": "24-Oct-2018",
       "price": "1350"
     },
     {
-      "name": "True Damage Ekko",
+      "name": "TrueDamageEkko",
       "date": "10-Nov-2019",
       "price": "1820"
     }
   ],
   "Elise": [
     {
-      "name": "Bewitching Elise",
+      "name": "BewitchingElise",
       "date": "22-Oct-2020",
       "price": "1350"
     },
     {
-      "name": "Blood Moon Elise",
+      "name": "BloodMoonElise",
       "date": "08-Jan-2015",
       "price": "975"
     },
     {
-      "name": "Death Blossom Elise",
+      "name": "DeathBlossomElise",
       "date": "26-Oct-2012",
       "price": "975"
     },
     {
-      "name": "Original Elise",
+      "name": "OriginalElise",
       "date": "26-Oct-2012",
       "price": "880"
     },
     {
-      "name": "SKT T1 Elise",
+      "name": "SKTT1Elise",
       "date": "17-Aug-2016",
       "price": "975"
     },
     {
-      "name": "Super Galaxy Elise",
+      "name": "SuperGalaxyElise",
       "date": "16-Oct-2017",
       "price": "1350"
     },
     {
-      "name": "Victorious Elise",
+      "name": "VictoriousElise",
       "date": "20-Dec-2013",
       "price": "special"
     }
   ],
   "Evelynn": [
     {
-      "name": "Blood Moon Evelynn",
+      "name": "BloodMoonEvelynn",
       "date": "08-May-2018",
       "price": "975"
     },
     {
-      "name": "K/DA Evelynn",
+      "name": "K/DAEvelynn",
       "date": "03-Nov-2018",
       "price": "1350"
     },
     {
-      "name": "K/DA ALL OUT Evelynn",
+      "name": "K/DAALLOUTEvelynn",
       "date": "29-Oct-2020",
       "price": "1350"
     },
     {
-      "name": "Masquerade Evelynn",
+      "name": "MasqueradeEvelynn",
       "date": "17-May-2010",
       "price": "520"
     },
     {
-      "name": "Original Evelynn",
+      "name": "OriginalEvelynn",
       "date": "30-Apr-2009",
       "price": "585"
     },
     {
-      "name": "K/DA Evelynn Prestige Edition",
+      "name": "K/DAEvelynnPrestigeEdition",
       "date": "18-Apr-2019",
       "price": "special"
     },
     {
-      "name": "Safecracker Evelynn",
+      "name": "SafecrackerEvelynn",
       "date": "28-Nov-2014",
       "price": "750"
     },
     {
-      "name": "Shadow Evelynn",
+      "name": "ShadowEvelynn",
       "date": "20-Nov-2009",
       "price": "520"
     },
     {
-      "name": "Sugar Rush Evelynn",
+      "name": "SugarRushEvelynn",
       "date": "17-Dec-2019",
       "price": "1350"
     },
     {
-      "name": "Tango Evelynn",
+      "name": "TangoEvelynn",
       "date": "05-Oct-2010",
       "price": "520"
     }
   ],
   "Ezreal": [
     {
-      "name": "Ace of Spades Ezreal",
+      "name": "AceofSpadesEzreal",
       "date": "20-May-2015",
       "price": "750"
     },
     {
-      "name": "Arcade Ezreal",
+      "name": "ArcadeEzreal",
       "date": "24-Aug-2016",
       "price": "1350"
     },
     {
-      "name": "Battle Academia Ezreal",
+      "name": "BattleAcademiaEzreal",
       "date": "15-May-2019",
       "price": "1820"
     },
     {
-      "name": "Debonair Ezreal",
+      "name": "DebonairEzreal",
       "date": "05-Aug-2014",
       "price": "750"
     },
     {
-      "name": "Explorer Ezreal",
+      "name": "ExplorerEzreal",
       "date": "13-Oct-2010",
       "price": "750"
     },
     {
-      "name": "Frosted Ezreal",
+      "name": "FrostedEzreal",
       "date": "18-Jul-2010",
       "price": "520"
     },
     {
-      "name": "Nottingham Ezreal",
+      "name": "NottinghamEzreal",
       "date": "16-Mar-2010",
       "price": "520"
     },
     {
-      "name": "Original Ezreal",
+      "name": "OriginalEzreal",
       "date": "16-Mar-2010",
       "price": "880"
     },
     {
-      "name": "Pajama Guardian Ezreal",
+      "name": "PajamaGuardianEzreal",
       "date": "21-Nov-2018",
       "price": "1350"
     },
     {
-      "name": "PsyOps Ezreal Prestige Edition",
+      "name": "PsyOpsEzrealPrestigeEdition",
       "date": "03-Sep-2020",
       "price": "special"
     },
     {
-      "name": "PsyOps Ezreal",
+      "name": "PsyOpsEzreal",
       "date": "03-Sep-2020",
       "price": "1350"
     },
     {
-      "name": "Pulsefire Ezreal",
+      "name": "PulsefireEzreal",
       "date": "29-Jun-2012",
       "price": "3250"
     },
     {
-      "name": "SSG Ezreal",
+      "name": "SSGEzreal",
       "date": "20-Jul-2018",
       "price": "1350"
     },
     {
-      "name": "Star Guardian Ezreal",
+      "name": "StarGuardianEzreal",
       "date": "06-Sep-2017",
       "price": "1350"
     },
     {
-      "name": "Striker Ezreal",
+      "name": "StrikerEzreal",
       "date": "24-Jun-2010",
       "price": "520"
     },
     {
-      "name": "TPA Ezreal",
+      "name": "TPAEzreal",
       "date": "23-May-2013",
       "price": "750"
     }
   ],
   "Fiddlesticks": [
     {
-      "name": "Bandito Fiddlesticks",
+      "name": "BanditoFiddlesticks",
       "date": "10-Aug-2010",
       "price": "520"
     },
     {
-      "name": "Dark Candy Fiddlesticks",
+      "name": "DarkCandyFiddlesticks",
       "date": "14-Dec-2012",
       "price": "975"
     },
     {
-      "name": "Fiddle Me Timbers",
+      "name": "FiddleMeTimbers",
       "date": "26-Apr-2010",
       "price": "750"
     },
     {
-      "name": "Original Fiddlesticks",
+      "name": "OriginalFiddlesticks",
       "date": "21-Feb-2009",
       "price": "585"
     },
     {
-      "name": "Praetorian Fiddlesticks",
+      "name": "PraetorianFiddlesticks",
       "date": "08-Nov-2018",
       "price": "1350"
     },
     {
-      "name": "Pumpkinhead Fiddlesticks",
+      "name": "PumpkinheadFiddlesticks",
       "date": "19-Oct-2010",
       "price": "520"
     },
     {
-      "name": "Risen Fiddlesticks",
+      "name": "RisenFiddlesticks",
       "date": "29-Apr-2015",
       "price": "1350"
     },
     {
-      "name": "Spectral Fiddlesticks",
+      "name": "SpectralFiddlesticks",
       "date": "16-Mar-2010",
       "price": "520"
     },
     {
-      "name": "Surprise Party Fiddlesticks",
+      "name": "SurprisePartyFiddlesticks",
       "date": "27-Oct-2011",
       "price": "975"
     },
     {
-      "name": "Union Jack Fiddlesticks",
+      "name": "UnionJackFiddlesticks",
       "date": "12-Feb-2010",
       "price": "520"
     }
   ],
   "Fiora": [
     {
-      "name": "Headmistress Fiora",
+      "name": "HeadmistressFiora",
       "date": "26-Oct-2012",
       "price": "975"
     },
     {
-      "name": "Heartpiercer Fiora",
+      "name": "HeartpiercerFiora",
       "date": "11-Feb-2019",
       "price": "1350"
     },
     {
-      "name": "Lunar Beast Fiora",
+      "name": "LunarBeastFiora",
       "date": "04-Feb-2021",
       "price": "1350"
     },
     {
-      "name": "Nightraven Fiora",
+      "name": "NightravenFiora",
       "date": "29-Feb-2012",
       "price": "750"
     },
     {
-      "name": "Original Fiora",
+      "name": "OriginalFiora",
       "date": "29-Feb-2012",
       "price": "880"
     },
     {
-      "name": "PROJECT: Fiora",
+      "name": "PROJECT:Fiora",
       "date": "07-Sep-2015",
       "price": "1350"
     },
     {
-      "name": "Pool Party Fiora",
+      "name": "PoolPartyFiora",
       "date": "13-Jul-2016",
       "price": "1350"
     },
     {
-      "name": "Lunar Beast Fiora Prestige Edition",
+      "name": "LunarBeastFioraPrestigeEdition",
       "date": "04-Feb-2021",
       "price": "special"
     },
     {
-      "name": "Pulsefire Fiora",
+      "name": "PulsefireFiora",
       "date": "14-May-2020",
       "price": "1350"
     },
     {
-      "name": "Royal Guard Fiora",
+      "name": "RoyalGuardFiora",
       "date": "29-Feb-2012",
       "price": "520"
     },
     {
-      "name": "Soaring Sword Fiora",
+      "name": "SoaringSwordFiora",
       "date": "27-Sep-2017",
       "price": "1350"
     },
     {
-      "name": "iG Fiora",
+      "name": "iGFiora",
       "date": "23-Apr-2019",
       "price": "1350"
     }
   ],
   "Fizz": [
     {
-      "name": "Atlantean Fizz",
+      "name": "AtlanteanFizz",
       "date": "15-Nov-2011",
       "price": "520"
     },
     {
-      "name": "Cottontail Fizz",
+      "name": "CottontailFizz",
       "date": "09-Aug-2015",
       "price": "975"
     },
     {
-      "name": "Fisherman Fizz",
+      "name": "FishermanFizz",
       "date": "01-Apr-2012",
       "price": "975"
     },
     {
-      "name": "Fuzz Fizz",
+      "name": "FuzzFizz",
       "date": "27-Mar-2019",
       "price": "1350"
     },
     {
-      "name": "Little Devil Fizz",
+      "name": "LittleDevilFizz",
       "date": "22-Oct-2020",
       "price": "1350"
     },
     {
-      "name": "Omega Squad Fizz",
+      "name": "OmegaSquadFizz",
       "date": "26-Jul-2017",
       "price": "1350"
     },
     {
-      "name": "Original Fizz",
+      "name": "OriginalFizz",
       "date": "15-Nov-2011",
       "price": "880"
     },
     {
-      "name": "Fuzz Fizz Prestige Edition",
+      "name": "FuzzFizzPrestigeEdition",
       "date": "27-Mar-2019",
       "price": "special"
     },
     {
-      "name": "Super Galaxy Fizz",
+      "name": "SuperGalaxyFizz",
       "date": "25-May-2016",
       "price": "1350"
     },
     {
-      "name": "Tundra Fizz",
+      "name": "TundraFizz",
       "date": "15-Nov-2011",
       "price": "750"
     },
     {
-      "name": "Void Fizz",
+      "name": "VoidFizz",
       "date": "06-Apr-2014",
       "price": "1350"
     }
@@ -1578,411 +1578,411 @@ let champion={
       "price": "975"
     },
     {
-      "name": "Commando Galio",
+      "name": "CommandoGalio",
       "date": "18-Jan-2011",
       "price": "520"
     },
     {
-      "name": "Debonair Galio",
+      "name": "DebonairGalio",
       "date": "13-Apr-2015",
       "price": "750"
     },
     {
-      "name": "Enchanted Galio",
+      "name": "EnchantedGalio",
       "date": "10-Aug-2010",
       "price": "520"
     },
     {
-      "name": "Gatekeeper Galio",
+      "name": "GatekeeperGalio",
       "date": "23-Apr-2012",
       "price": "1820"
     },
     {
-      "name": "Hextech Galio",
+      "name": "HextechGalio",
       "date": "10-Aug-2010",
       "price": "520"
     },
     {
-      "name": "Infernal Galio",
+      "name": "InfernalGalio",
       "date": "05-Sep-2019",
       "price": "1350"
     },
     {
-      "name": "Original Galio",
+      "name": "OriginalGalio",
       "date": "10-Aug-2010",
       "price": "790"
     }
   ],
   "Gangplank": [
     {
-      "name": "Captain Gangplank",
+      "name": "CaptainGangplank",
       "date": "09-Aug-2015",
       "price": "975"
     },
     {
-      "name": "Dreadnova Gangplank",
+      "name": "DreadnovaGangplank",
       "date": "12-Jan-2017",
       "price": "1350"
     },
     {
-      "name": "FPX Gangplank",
+      "name": "FPXGangplank",
       "date": "30-Apr-2020",
       "price": "1350"
     },
     {
-      "name": "Minuteman Gangplank",
+      "name": "MinutemanGangplank",
       "date": "03-Jul-2010",
       "price": "520"
     },
     {
-      "name": "Original Gangplank",
+      "name": "OriginalGangplank",
       "date": "18-Aug-2009",
       "price": "790"
     },
     {
-      "name": "Pool Party Gangplank",
+      "name": "PoolPartyGangplank",
       "date": "02-Aug-2018",
       "price": "1350"
     },
     {
-      "name": "Sailor Gangplank",
+      "name": "SailorGangplank",
       "date": "10-Jan-2011",
       "price": "750"
     },
     {
-      "name": "Special Forces Gangplank",
+      "name": "SpecialForcesGangplank",
       "date": "12-Sep-2012",
       "price": "975"
     },
     {
-      "name": "Spooky Gangplank",
+      "name": "SpookyGangplank",
       "date": "16-Mar-2010",
       "price": "520"
     },
     {
-      "name": "Sultan Gangplank",
+      "name": "SultanGangplank",
       "date": "13-Nov-2013",
       "price": "975"
     },
     {
-      "name": "Toy Soldier Gangplank",
+      "name": "ToySoldierGangplank",
       "date": "14-Dec-2011",
       "price": "975"
     }
   ],
   "Garen": [
     {
-      "name": "Commando Garen",
+      "name": "CommandoGaren",
       "date": "08-Sep-2010",
       "price": "520"
     },
     {
-      "name": "Demacia Vice Garen",
+      "name": "DemaciaViceGaren",
       "date": "18-Jul-2019",
       "price": "1350"
     },
     {
-      "name": "Desert Trooper Garen",
+      "name": "DesertTrooperGaren",
       "date": "27-Apr-2010",
       "price": "520"
     },
     {
-      "name": "Dreadknight Garen",
+      "name": "DreadknightGaren",
       "date": "18-Jan-2011",
       "price": "975"
     },
     {
-      "name": "God-King Garen",
+      "name": "God-KingGaren",
       "date": "27-Jun-2018",
       "price": "1820"
     },
     {
-      "name": "Mecha Kingdoms Garen",
+      "name": "MechaKingdomsGaren",
       "date": "15-Jan-2020",
       "price": "1350"
     },
     {
-      "name": "Original Garen",
+      "name": "OriginalGaren",
       "date": "27-Apr-2010",
       "price": "260"
     },
     {
-      "name": "Mecha Kingdoms Garen Prestige Edition",
+      "name": "MechaKingdomsGarenPrestigeEdition",
       "date": "15-Jan-2020",
       "price": "special"
     },
     {
-      "name": "Rogue Admiral Garen",
+      "name": "RogueAdmiralGaren",
       "date": "22-Jul-2015",
       "price": "750"
     },
     {
-      "name": "Rugged Garen",
+      "name": "RuggedGaren",
       "date": "15-Aug-2011",
       "price": "750"
     },
     {
-      "name": "Sanguine Garen",
+      "name": "SanguineGaren",
       "date": "27-Apr-2010",
       "price": "520"
     },
     {
-      "name": "Steel Legion Garen",
+      "name": "SteelLegionGaren",
       "date": "01-Feb-2013",
       "price": "1350"
     },
     {
-      "name": "Warring Kingdoms Garen",
+      "name": "WarringKingdomsGaren",
       "date": "19-Jan-2017",
       "price": "1350"
     }
   ],
   "Gnar": [
     {
-      "name": "Astronaut Gnar",
+      "name": "AstronautGnar",
       "date": "28-May-2020",
       "price": "1350"
     },
     {
-      "name": "Dino Gnar",
+      "name": "DinoGnar",
       "date": "13-Aug-2014",
       "price": "975"
     },
     {
-      "name": "El León Gnar",
+      "name": "ElLeónGnar",
       "date": "01-Jun-2016",
       "price": "750"
     },
     {
-      "name": "Gentleman Gnar",
+      "name": "GentlemanGnar",
       "date": "14-Jul-2015",
       "price": "975"
     },
     {
-      "name": "Original Gnar",
+      "name": "OriginalGnar",
       "date": "13-Aug-2014",
       "price": "975"
     },
     {
-      "name": "SSG Gnar",
+      "name": "SSGGnar",
       "date": "20-Jul-2018",
       "price": "1350"
     },
     {
-      "name": "Snow Day Gnar",
+      "name": "SnowDayGnar",
       "date": "10-Dec-2015",
       "price": "975"
     },
     {
-      "name": "Super Galaxy Gnar",
+      "name": "SuperGalaxyGnar",
       "date": "16-Oct-2017",
       "price": "1350"
     }
   ],
   "Gragas": [
     {
-      "name": "Arctic Ops Gragas",
+      "name": "ArcticOpsGragas",
       "date": "25-Jan-2018",
       "price": "1350"
     },
     {
-      "name": "Fnatic Gragas",
+      "name": "FnaticGragas",
       "date": "24-Sep-2014",
       "price": "750"
     },
     {
-      "name": "Gragas Caskbreaker",
+      "name": "GragasCaskbreaker",
       "date": "07-Dec-2015",
       "price": "750"
     },
     {
-      "name": "Gragas, Esq.",
+      "name": "Gragas,Esq.",
       "date": "12-Apr-2011",
       "price": "975"
     },
     {
-      "name": "Hillbilly Gragas",
+      "name": "HillbillyGragas",
       "date": "01-Aug-2010",
       "price": "520"
     },
     {
-      "name": "Oktoberfest Gragas",
+      "name": "OktoberfestGragas",
       "date": "21-Sep-2012",
       "price": "975"
     },
     {
-      "name": "Original Gragas",
+      "name": "OriginalGragas",
       "date": "02-Feb-2010",
       "price": "790"
     },
     {
-      "name": "Santa Gragas",
+      "name": "SantaGragas",
       "date": "14-Dec-2010",
       "price": "975"
     },
     {
-      "name": "Scuba Gragas",
+      "name": "ScubaGragas",
       "date": "03-May-2010",
       "price": "975"
     },
     {
-      "name": "Superfan Gragas",
+      "name": "SuperfanGragas",
       "date": "18-Jun-2014",
       "price": "750"
     },
     {
-      "name": "Vandal Gragas",
+      "name": "VandalGragas",
       "date": "02-Mar-2012",
       "price": "975"
     },
     {
-      "name": "Warden Gragas",
+      "name": "WardenGragas",
       "date": "07-Jan-2021",
       "price": "1350"
     }
   ],
   "Graves": [
     {
-      "name": "Battle Professor Graves",
+      "name": "BattleProfessorGraves",
       "date": "15-May-2019",
       "price": "1350"
     },
     {
-      "name": "Crime City Graves",
+      "name": "CrimeCityGraves",
       "date": "02-Apr-2012",
       "price": "975"
     },
     {
-      "name": "Cutthroat Graves",
+      "name": "CutthroatGraves",
       "date": "21-Jul-2015",
       "price": "750"
     },
     {
-      "name": "Hired Gun Graves",
+      "name": "HiredGunGraves",
       "date": "19-Oct-2011",
       "price": "520"
     },
     {
-      "name": "Jailbreak Graves",
+      "name": "JailbreakGraves",
       "date": "19-Oct-2011",
       "price": "975"
     },
     {
-      "name": "Original Graves",
+      "name": "OriginalGraves",
       "date": "19-Oct-2011",
       "price": "880"
     },
     {
-      "name": "Pool Party Graves",
+      "name": "PoolPartyGraves",
       "date": "09-Sep-2013",
       "price": "1350"
     },
     {
-      "name": "Praetorian Graves",
+      "name": "PraetorianGraves",
       "date": "08-Nov-2018",
       "price": "1350"
     },
     {
-      "name": "Riot Graves",
+      "name": "RiotGraves",
       "date": "16-Aug-2012",
       "price": "975"
     },
     {
-      "name": "Snow Day Graves",
+      "name": "SnowDayGraves",
       "date": "14-Dec-2016",
       "price": "1350"
     },
     {
-      "name": "Victorious Graves",
+      "name": "VictoriousGraves",
       "date": "08-Nov-2017",
       "price": "special"
     }
   ],
   "Hecarim": [
     {
-      "name": "Arcade Hecarim",
+      "name": "ArcadeHecarim",
       "date": "21-Aug-2013",
       "price": "1350"
     },
     {
-      "name": "Blood Knight Hecarim",
+      "name": "BloodKnightHecarim",
       "date": "17-Apr-2012",
       "price": "975"
     },
     {
-      "name": "Cosmic Charger Hecarim",
+      "name": "CosmicChargerHecarim",
       "date": "24-Nov-2020",
       "price": "1350"
     },
     {
-      "name": "Elderwood Hecarim",
+      "name": "ElderwoodHecarim",
       "date": "25-Nov-2015",
       "price": "1350"
     },
     {
-      "name": "Headless Hecarim",
+      "name": "HeadlessHecarim",
       "date": "26-Oct-2012",
       "price": "975"
     },
     {
-      "name": "High Noon Hecarim",
+      "name": "HighNoonHecarim",
       "date": "10-Oct-2019",
       "price": "1350"
     },
     {
-      "name": "Lancer Zero Hecarim",
+      "name": "LancerZeroHecarim",
       "date": "16-Aug-2017",
       "price": "special"
     },
     {
-      "name": "Original Hecarim",
+      "name": "OriginalHecarim",
       "date": "17-Apr-2012",
       "price": "880"
     },
     {
-      "name": "Reaper Hecarim",
+      "name": "ReaperHecarim",
       "date": "17-Apr-2012",
       "price": "975"
     },
     {
-      "name": "Worldbreaker Hecarim",
+      "name": "WorldbreakerHecarim",
       "date": "10-Nov-2016",
       "price": "750"
     }
   ],
   "Heimerdinger": [
     {
-      "name": "Alien Invader Heimerdinger",
+      "name": "AlienInvaderHeimerdinger",
       "date": "13-Jul-2010",
       "price": "1820"
     },
     {
-      "name": "Blast Zone Heimerdinger",
+      "name": "BlastZoneHeimerdinger",
       "date": "24-Jun-2010",
       "price": "520"
     },
     {
-      "name": "Dragon Trainer Heimerdinger",
+      "name": "DragonTrainerHeimerdinger",
       "date": "11-Oct-2018",
       "price": "1820"
     },
     {
-      "name": "Hazmat Heimerdinger",
+      "name": "HazmatHeimerdinger",
       "date": "13-Jul-2014",
       "price": "975"
     },
     {
-      "name": "Original Heimerdinger",
+      "name": "OriginalHeimerdinger",
       "date": "09-Oct-2009",
       "price": "790"
     },
     {
-      "name": "Piltover Customs Heimerdinger",
+      "name": "PiltoverCustomsHeimerdinger",
       "date": "22-Nov-2010",
       "price": "975"
     },
     {
-      "name": "Pool Party Heimerdinger",
+      "name": "PoolPartyHeimerdinger",
       "date": "02-Jul-2020",
       "price": "1350"
     },
@@ -1994,237 +1994,237 @@ let champion={
   ],
   "Illaoi": [
     {
-      "name": "Cosmic Invoker Illaoi",
+      "name": "CosmicInvokerIllaoi",
       "date": "24-Nov-2020",
       "price": "1350"
     },
     {
-      "name": "Original Illaoi",
+      "name": "OriginalIllaoi",
       "date": "24-Nov-2015",
       "price": "975"
     },
     {
-      "name": "Resistance Illaoi",
+      "name": "ResistanceIllaoi",
       "date": "15-Mar-2018",
       "price": "1350"
     },
     {
-      "name": "Void Bringer Illaoi",
+      "name": "VoidBringerIllaoi",
       "date": "24-Nov-2015",
       "price": "1350"
     }
   ],
   "Irelia": [
     {
-      "name": "Aviator Irelia",
+      "name": "AviatorIrelia",
       "date": "16-Nov-2010",
       "price": "520"
     },
     {
-      "name": "Divine Sword Irelia",
+      "name": "DivineSwordIrelia",
       "date": "04-Sep-2018",
       "price": "1350"
     },
     {
-      "name": "Frostblade Irelia",
+      "name": "FrostbladeIrelia",
       "date": "30-Apr-2012",
       "price": "975"
     },
     {
-      "name": "High Noon Irelia",
+      "name": "HighNoonIrelia",
       "date": "18-Jun-2020",
       "price": "1350"
     },
     {
-      "name": "Infiltrator Irelia",
+      "name": "InfiltratorIrelia",
       "date": "11-Oct-2011",
       "price": "975"
     },
     {
-      "name": "Nightblade Irelia",
+      "name": "NightbladeIrelia",
       "date": "16-Nov-2010",
       "price": "520"
     },
     {
-      "name": "Order of the Lotus Irelia",
+      "name": "OrderoftheLotusIrelia",
       "date": "03-Jun-2015",
       "price": "750"
     },
     {
-      "name": "Original Irelia",
+      "name": "OriginalIrelia",
       "date": "16-Nov-2010",
       "price": "880"
     },
     {
-      "name": "PROJECT: Irelia",
+      "name": "PROJECT:Irelia",
       "date": "01-Aug-2019",
       "price": "1350"
     },
     {
-      "name": "PROJECT: Irelia Prestige Edition",
+      "name": "PROJECT:IreliaPrestigeEdition",
       "date": "01-Aug-2019",
       "price": "special"
     },
     {
-      "name": "iG Irelia",
+      "name": "iGIrelia",
       "date": "23-Apr-2019",
       "price": "1350"
     }
   ],
   "Ivern": [
     {
-      "name": "Candy King Ivern",
+      "name": "CandyKingIvern",
       "date": "04-Oct-2016",
       "price": "1350"
     },
     {
-      "name": "Dunkmaster Ivern",
+      "name": "DunkmasterIvern",
       "date": "04-Apr-2019",
       "price": "1350"
     },
     {
-      "name": "Elderwood Ivern",
+      "name": "ElderwoodIvern",
       "date": "10-Dec-2020",
       "price": "1350"
     },
     {
-      "name": "Original Ivern",
+      "name": "OriginalIvern",
       "date": "04-Oct-2016",
       "price": "975"
     }
   ],
   "Janna": [
     {
-      "name": "Battle Queen Janna",
+      "name": "BattleQueenJanna",
       "date": "10-Dec-2020",
       "price": "1350"
     },
     {
-      "name": "Bewitching Janna",
+      "name": "BewitchingJanna",
       "date": "24-Oct-2018",
       "price": "1350"
     },
     {
-      "name": "Fnatic Janna",
+      "name": "FnaticJanna",
       "date": "24-Sep-2014",
       "price": "750"
     },
     {
-      "name": "Forecast Janna",
+      "name": "ForecastJanna",
       "date": "04-Sep-2013",
       "price": "1820"
     },
     {
-      "name": "Frost Queen Janna",
+      "name": "FrostQueenJanna",
       "date": "05-Dec-2011",
       "price": "975"
     },
     {
-      "name": "Guardian of the Sands Janna",
+      "name": "GuardianoftheSandsJanna",
       "date": "22-Jan-2020",
       "price": "1350"
     },
     {
-      "name": "Hextech Janna",
+      "name": "HextechJanna",
       "date": "08-Nov-2010",
       "price": "975"
     },
     {
-      "name": "Original Janna",
+      "name": "OriginalJanna",
       "date": "01-Sep-2009",
       "price": "585"
     },
     {
-      "name": "Sacred Sword Janna",
+      "name": "SacredSwordJanna",
       "date": "27-Sep-2017",
       "price": "1350"
     },
     {
-      "name": "Star Guardian Janna",
+      "name": "StarGuardianJanna",
       "date": "05-Oct-2016",
       "price": "1350"
     },
     {
-      "name": "Tempest Janna",
+      "name": "TempestJanna",
       "date": "13-Jul-2010",
       "price": "520"
     },
     {
-      "name": "Victorious Janna",
+      "name": "VictoriousJanna",
       "date": "06-Nov-2012",
       "price": "special"
     }
   ],
-  "Jarvan IV": [
+  "JarvanIV": [
     {
-      "name": "Commando Jarvan IV",
+      "name": "CommandoJarvanIV",
       "date": "01-Mar-2011",
       "price": "520"
     },
     {
-      "name": "Dark Star Jarvan IV",
+      "name": "DarkStarJarvanIV",
       "date": "01-Mar-2018",
       "price": "1350"
     },
     {
-      "name": "Darkforge Jarvan IV",
+      "name": "DarkforgeJarvanIV",
       "date": "26-Jul-2011",
       "price": "975"
     },
     {
-      "name": "Dragonslayer Jarvan IV",
+      "name": "DragonslayerJarvanIV",
       "date": "01-Mar-2011",
       "price": "750"
     },
     {
-      "name": "Fnatic Jarvan IV",
+      "name": "FnaticJarvanIV",
       "date": "24-Sep-2014",
       "price": "750"
     },
     {
-      "name": "Hextech Jarvan IV",
+      "name": "HextechJarvanIV",
       "date": "04-Apr-2019",
       "price": "special"
     },
     {
-      "name": "Lunar Beast Jarvan IV",
+      "name": "LunarBeastJarvanIV",
       "date": "04-Feb-2021",
       "price": "1350"
     },
     {
-      "name": "Original Jarvan IV",
+      "name": "OriginalJarvanIV",
       "date": "01-Mar-2011",
       "price": "880"
     },
     {
-      "name": "Pool Party Jarvan IV",
+      "name": "PoolPartyJarvanIV",
       "date": "02-Jul-2020",
       "price": "1350"
     },
     {
-      "name": "SSG Jarvan IV",
+      "name": "SSGJarvanIV",
       "date": "20-Jul-2018",
       "price": "1350"
     },
     {
-      "name": "Victorious Jarvan IV",
+      "name": "VictoriousJarvanIV",
       "date": "14-Sep-2011",
       "price": "special"
     },
     {
-      "name": "Warring Kingdoms Jarvan IV",
+      "name": "WarringKingdomsJarvanIV",
       "date": "08-Feb-2013",
       "price": "1350"
     }
   ],
   "Jax": [
     {
-      "name": "Angler Jax",
+      "name": "AnglerJax",
       "date": "08-Jun-2010",
       "price": "975"
     },
     {
-      "name": "God Staff Jax",
+      "name": "GodStaffJax",
       "date": "11-Jan-2018",
       "price": "1350"
     },
@@ -2234,674 +2234,674 @@ let champion={
       "price": "975"
     },
     {
-      "name": "Mecha Kingdoms Jax",
+      "name": "MechaKingdomsJax",
       "date": "15-Jan-2020",
       "price": "1820"
     },
     {
-      "name": "Nemesis Jax",
+      "name": "NemesisJax",
       "date": "14-Sep-2012",
       "price": "975"
     },
     {
-      "name": "Original Jax",
+      "name": "OriginalJax",
       "date": "21-Feb-2009",
       "price": "585"
     },
     {
-      "name": "PAX Jax",
+      "name": "PAXJax",
       "date": "26-Mar-2010",
       "price": "special"
     },
     {
-      "name": "SKT T1 Jax",
+      "name": "SKTT1Jax",
       "date": "04-May-2014",
       "price": "750"
     },
     {
-      "name": "Temple Jax",
+      "name": "TempleJax",
       "date": "15-Nov-2011",
       "price": "750"
     },
     {
-      "name": "The Mighty Jax",
+      "name": "TheMightyJax",
       "date": "12-Feb-2010",
       "price": "520"
     },
     {
-      "name": "Vandal Jax",
+      "name": "VandalJax",
       "date": "24-Feb-2010",
       "price": "520"
     },
     {
-      "name": "Warden Jax",
+      "name": "WardenJax",
       "date": "30-Sep-2015",
       "price": "750"
     }
   ],
   "Jayce": [
     {
-      "name": "Battle Academia Jayce",
+      "name": "BattleAcademiaJayce",
       "date": "15-May-2019",
       "price": "1350"
     },
     {
-      "name": "Debonair Jayce",
+      "name": "DebonairJayce",
       "date": "14-Feb-2013",
       "price": "975"
     },
     {
-      "name": "Forsaken Jayce",
+      "name": "ForsakenJayce",
       "date": "03-May-2015",
       "price": "1350"
     },
     {
-      "name": "Full Metal Jayce",
+      "name": "FullMetalJayce",
       "date": "06-Jul-2012",
       "price": "1350"
     },
     {
-      "name": "Jayce Brighthammer",
+      "name": "JayceBrighthammer",
       "date": "17-Nov-2016",
       "price": "750"
     },
     {
-      "name": "Original Jayce",
+      "name": "OriginalJayce",
       "date": "06-Jul-2012",
       "price": "880"
     },
     {
-      "name": "Resistance Jayce",
+      "name": "ResistanceJayce",
       "date": "12-Nov-2020",
       "price": "1350"
     }
   ],
   "Jhin": [
     {
-      "name": "Blood Moon Jhin",
+      "name": "BloodMoonJhin",
       "date": "09-Feb-2017",
       "price": "1350"
     },
     {
-      "name": "Dark Cosmic Jhin",
+      "name": "DarkCosmicJhin",
       "date": "13-Jun-2019",
       "price": "1820"
     },
     {
-      "name": "High Noon Jhin",
+      "name": "HighNoonJhin",
       "date": "01-Feb-2016",
       "price": "1350"
     },
     {
-      "name": "Original Jhin",
+      "name": "OriginalJhin",
       "date": "01-Feb-2016",
       "price": "975"
     },
     {
-      "name": "PROJECT: Jhin",
+      "name": "PROJECT:Jhin",
       "date": "22-Nov-2017",
       "price": "1350"
     },
     {
-      "name": "SKT T1 Jhin",
+      "name": "SKTT1Jhin",
       "date": "27-Jun-2017",
       "price": "1350"
     },
     {
-      "name": "Shan Hai Scrolls Jhin",
+      "name": "ShanHaiScrollsJhin",
       "date": "28-Jan-2021",
       "price": "1350"
     }
   ],
   "Jinx": [
     {
-      "name": "Ambitious Elf Jinx",
+      "name": "AmbitiousElfJinx",
       "date": "12-Dec-2017",
       "price": "1350"
     },
     {
-      "name": "Crime City Jinx",
+      "name": "CrimeCityJinx",
       "date": "09-Oct-2013",
       "price": "975"
     },
     {
-      "name": "Firecracker Jinx",
+      "name": "FirecrackerJinx",
       "date": "10-Feb-2015",
       "price": "1350"
     },
     {
-      "name": "Heartseeker Jinx",
+      "name": "HeartseekerJinx",
       "date": "04-Feb-2020",
       "price": "1350"
     },
     {
-      "name": "Odyssey Jinx",
+      "name": "OdysseyJinx",
       "date": "12-Sep-2018",
       "price": "1350"
     },
     {
-      "name": "Original Jinx",
+      "name": "OriginalJinx",
       "date": "09-Oct-2013",
       "price": "975"
     },
     {
-      "name": "PROJECT: Jinx",
+      "name": "PROJECT:Jinx",
       "date": "01-Aug-2019",
       "price": "1350"
     },
     {
-      "name": "Star Guardian Jinx",
+      "name": "StarGuardianJinx",
       "date": "05-Oct-2016",
       "price": "1820"
     },
     {
-      "name": "Zombie Slayer Jinx",
+      "name": "ZombieSlayerJinx",
       "date": "05-Nov-2015",
       "price": "1350"
     }
   ],
   "KaiSa": [
     {
-      "name": "Arcade Kai'Sa",
+      "name": "ArcadeKai'Sa",
       "date": "28-Jun-2019",
       "price": "1350"
     },
     {
-      "name": "Bullet Angel Kai'Sa",
+      "name": "BulletAngelKai'Sa",
       "date": "07-Mar-2018",
       "price": "1350"
     },
     {
-      "name": "K/DA Kai'Sa",
+      "name": "K/DAKai'Sa",
       "date": "03-Nov-2018",
       "price": "1350"
     },
     {
-      "name": "K/DA ALL OUT Kai'Sa",
+      "name": "K/DAALLOUTKai'Sa",
       "date": "29-Oct-2020",
       "price": "1350"
     },
     {
-      "name": "Original Kai'Sa",
+      "name": "OriginalKai'Sa",
       "date": "07-Mar-2018",
       "price": "975"
     },
     {
-      "name": "K/DA Kai'Sa Prestige Edition",
+      "name": "K/DAKai'SaPrestigeEdition",
       "date": "03-Nov-2018",
       "price": "special"
     },
     {
-      "name": "K/DA ALL OUT Kai'Sa Prestige Edition",
+      "name": "K/DAALLOUTKai'SaPrestigeEdition",
       "date": "29-Oct-2020",
       "price": "special"
     },
     {
-      "name": "iG Kai'Sa",
+      "name": "iGKai'Sa",
       "date": "23-Apr-2019",
       "price": "1350"
     }
   ],
   "Kalista": [
     {
-      "name": "Blood Moon Kalista",
+      "name": "BloodMoonKalista",
       "date": "20-Nov-2014",
       "price": "975"
     },
     {
-      "name": "Championship Kalista",
+      "name": "ChampionshipKalista",
       "date": "27-Sep-2015",
       "price": "975"
     },
     {
-      "name": "Marauder Kalista",
+      "name": "MarauderKalista",
       "date": "07-Jan-2021",
       "price": "1350"
     },
     {
-      "name": "Original Kalista",
+      "name": "OriginalKalista",
       "date": "20-Nov-2014",
       "price": "975"
     },
     {
-      "name": "SKT T1 Kalista",
+      "name": "SKTT1Kalista",
       "date": "17-Aug-2016",
       "price": "975"
     }
   ],
   "Karma": [
     {
-      "name": "Conqueror Karma",
+      "name": "ConquerorKarma",
       "date": "23-Apr-2017",
       "price": "975"
     },
     {
-      "name": "Dark Star Karma",
+      "name": "DarkStarKarma",
       "date": "13-Jun-2019",
       "price": "1350"
     },
     {
-      "name": "Dawnbringer Karma",
+      "name": "DawnbringerKarma",
       "date": "12-Dec-2019",
       "price": "special"
     },
     {
-      "name": "Odyssey Karma",
+      "name": "OdysseyKarma",
       "date": "15-Oct-2020",
       "price": "1350"
     },
     {
-      "name": "Order of the Lotus Karma",
+      "name": "OrderoftheLotusKarma",
       "date": "01-Oct-2014",
       "price": "975"
     },
     {
-      "name": "Original Karma",
+      "name": "OriginalKarma",
       "date": "01-Feb-2011",
       "price": "790"
     },
     {
-      "name": "Ruined Karma",
+      "name": "RuinedKarma",
       "date": "21-Jan-2021",
       "price": "1350"
     },
     {
-      "name": "Sakura Karma",
+      "name": "SakuraKarma",
       "date": "01-Feb-2011",
       "price": "520"
     },
     {
-      "name": "Sun Goddess Karma",
+      "name": "SunGoddessKarma",
       "date": "01-Feb-2011",
       "price": "750"
     },
     {
-      "name": "Traditional Karma",
+      "name": "TraditionalKarma",
       "date": "29-Mar-2013",
       "price": "975"
     },
     {
-      "name": "Warden Karma",
+      "name": "WardenKarma",
       "date": "30-Sep-2015",
       "price": "750"
     },
     {
-      "name": "Winter Wonder Karma",
+      "name": "WinterWonderKarma",
       "date": "14-Dec-2016",
       "price": "1350"
     }
   ],
   "Karthus": [
     {
-      "name": "Fnatic Karthus",
+      "name": "FnaticKarthus",
       "date": "24-Sep-2014",
       "price": "750"
     },
     {
-      "name": "Grim Reaper Karthus",
+      "name": "GrimReaperKarthus",
       "date": "26-Sep-2010",
       "price": "975"
     },
     {
-      "name": "Infernal Karthus",
+      "name": "InfernalKarthus",
       "date": "16-Jul-2020",
       "price": "1350"
     },
     {
-      "name": "Karthus Lightsbane",
+      "name": "KarthusLightsbane",
       "date": "17-Nov-2016",
       "price": "975"
     },
     {
-      "name": "Original Karthus",
+      "name": "OriginalKarthus",
       "date": "11-Jun-2009",
       "price": "790"
     },
     {
-      "name": "Pentakill Karthus",
+      "name": "PentakillKarthus",
       "date": "29-Aug-2011",
       "price": "750"
     },
     {
-      "name": "Phantom Karthus",
+      "name": "PhantomKarthus",
       "date": "13-Jan-2010",
       "price": "460"
     },
     {
-      "name": "Statue of Karthus",
+      "name": "StatueofKarthus",
       "date": "03-Jul-2010",
       "price": "520"
     }
   ],
   "Kassadin": [
     {
-      "name": "Cosmic Reaver Kassadin",
+      "name": "CosmicReaverKassadin",
       "date": "14-Oct-2015",
       "price": "1350"
     },
     {
-      "name": "Count Kassadin",
+      "name": "CountKassadin",
       "date": "24-Oct-2019",
       "price": "1350"
     },
     {
-      "name": "Deep One Kassadin",
+      "name": "DeepOneKassadin",
       "date": "01-Aug-2010",
       "price": "520"
     },
     {
-      "name": "Festival Kassadin",
+      "name": "FestivalKassadin",
       "date": "12-Feb-2010",
       "price": "520"
     },
     {
-      "name": "Harbinger Kassadin",
+      "name": "HarbingerKassadin",
       "date": "13-Jul-2011",
       "price": "975"
     },
     {
-      "name": "Hextech Kassadin",
+      "name": "HextechKassadin",
       "date": "15-Oct-2020",
       "price": "special"
     },
     {
-      "name": "Original Kassadin",
+      "name": "OriginalKassadin",
       "date": "06-Aug-2009",
       "price": "790"
     },
     {
-      "name": "Pre-Void Kassadin",
+      "name": "Pre-VoidKassadin",
       "date": "26-Sep-2010",
       "price": "520"
     }
   ],
   "Katarina": [
     {
-      "name": "Battle Academia Katarina",
+      "name": "BattleAcademiaKatarina",
       "date": "15-May-2019",
       "price": "1350"
     },
     {
-      "name": "Battle Queen Katarina",
+      "name": "BattleQueenKatarina",
       "date": "10-Dec-2020",
       "price": "1820"
     },
     {
-      "name": "Bilgewater Katarina",
+      "name": "BilgewaterKatarina",
       "date": "29-Aug-2010",
       "price": "975"
     },
     {
-      "name": "Blood Moon Katarina",
+      "name": "BloodMoonKatarina",
       "date": "20-Feb-2020",
       "price": "1350"
     },
     {
-      "name": "Death Sworn Katarina",
+      "name": "DeathSwornKatarina",
       "date": "25-Oct-2017",
       "price": "1350"
     },
     {
-      "name": "High Command Katarina",
+      "name": "HighCommandKatarina",
       "date": "22-Feb-2011",
       "price": "750"
     },
     {
-      "name": "Kitty Cat Katarina",
+      "name": "KittyCatKatarina",
       "date": "19-Oct-2010",
       "price": "975"
     },
     {
-      "name": "Mercenary Katarina",
+      "name": "MercenaryKatarina",
       "date": "20-Nov-2009",
       "price": "520"
     },
     {
-      "name": "Original Katarina",
+      "name": "OriginalKatarina",
       "date": "18-Sep-2009",
       "price": "790"
     },
     {
-      "name": "PROJECT: Katarina",
+      "name": "PROJECT:Katarina",
       "date": "01-Aug-2016",
       "price": "1350"
     },
     {
-      "name": "Red Card Katarina",
+      "name": "RedCardKatarina",
       "date": "24-Jun-2010",
       "price": "975"
     },
     {
-      "name": "Sandstorm Katarina",
+      "name": "SandstormKatarina",
       "date": "02-Jan-2012",
       "price": "975"
     },
     {
-      "name": "Slay Belle Katarina",
+      "name": "SlayBelleKatarina",
       "date": "14-Dec-2012",
       "price": "975"
     },
     {
-      "name": "Warring Kingdoms Katarina",
+      "name": "WarringKingdomsKatarina",
       "date": "10-Feb-2015",
       "price": "975"
     }
   ],
   "Kayle": [
     {
-      "name": "Aether Wing Kayle",
+      "name": "AetherWingKayle",
       "date": "18-Jan-2013",
       "price": "1820"
     },
     {
-      "name": "Battleborn Kayle",
+      "name": "BattlebornKayle",
       "date": "18-Apr-2011",
       "price": "975"
     },
     {
-      "name": "Iron Inquisitor Kayle",
+      "name": "IronInquisitorKayle",
       "date": "04-May-2016",
       "price": "750"
     },
     {
-      "name": "Judgment Kayle",
+      "name": "JudgmentKayle",
       "date": "22-Aug-2011",
       "price": "special"
     },
     {
-      "name": "Original Kayle",
+      "name": "OriginalKayle",
       "date": "21-Feb-2009",
       "price": "260"
     },
     {
-      "name": "Pentakill Kayle",
+      "name": "PentakillKayle",
       "date": "08-Aug-2017",
       "price": "1350"
     },
     {
-      "name": "PsyOps Kayle",
+      "name": "PsyOpsKayle",
       "date": "17-Sep-2020",
       "price": "1350"
     },
     {
-      "name": "Riot Kayle",
+      "name": "RiotKayle",
       "date": "12-Aug-2014",
       "price": "975"
     },
     {
-      "name": "Silver Kayle",
+      "name": "SilverKayle",
       "date": "13-Nov-2009",
       "price": "special"
     },
     {
-      "name": "Transcended Kayle",
+      "name": "TranscendedKayle",
       "date": "13-Jul-2010",
       "price": "975"
     },
     {
-      "name": "Unmasked Kayle",
+      "name": "UnmaskedKayle",
       "date": "13-Jul-2010",
       "price": "975"
     },
     {
-      "name": "Viridian Kayle",
+      "name": "ViridianKayle",
       "date": "01-Jun-2010",
       "price": "520"
     }
   ],
   "Kayn": [
     {
-      "name": "Odyssey Kayn",
+      "name": "OdysseyKayn",
       "date": "12-Sep-2018",
       "price": "1820"
     },
     {
-      "name": "Original Kayn",
+      "name": "OriginalKayn",
       "date": "11-Jul-2017",
       "price": "975"
     },
     {
-      "name": "Soulhunter Kayn",
+      "name": "SoulhunterKayn",
       "date": "11-Jul-2017",
       "price": "1350"
     }
   ],
   "Kennen": [
     {
-      "name": "Arctic Ops Kennen",
+      "name": "ArcticOpsKennen",
       "date": "29-Dec-2011",
       "price": "975"
     },
     {
-      "name": "Blood Moon Kennen",
+      "name": "BloodMoonKennen",
       "date": "25-Feb-2016",
       "price": "975"
     },
     {
-      "name": "Deadly Kennen",
+      "name": "DeadlyKennen",
       "date": "08-Apr-2010",
       "price": "520"
     },
     {
-      "name": "Infernal Kennen",
+      "name": "InfernalKennen",
       "date": "16-Jul-2020",
       "price": "1350"
     },
     {
-      "name": "Karate Kennen",
+      "name": "KarateKennen",
       "date": "08-Nov-2010",
       "price": "520"
     },
     {
-      "name": "Kennen M.D.",
+      "name": "KennenM.D.",
       "date": "29-Mar-2011",
       "price": "975"
     },
     {
-      "name": "Original Kennen",
+      "name": "OriginalKennen",
       "date": "08-Apr-2010",
       "price": "880"
     },
     {
-      "name": "Super Kennen",
+      "name": "SuperKennen",
       "date": "29-Mar-2017",
       "price": "750"
     },
     {
-      "name": "Swamp Master Kennen",
+      "name": "SwampMasterKennen",
       "date": "08-Apr-2010",
       "price": "520"
     }
   ],
   "KhaZix": [
     {
-      "name": "Championship Kha'Zix",
+      "name": "ChampionshipKha'Zix",
       "date": "27-Sep-2018",
       "price": "1350"
     },
     {
-      "name": "Dark Star Kha'Zix",
+      "name": "DarkStarKha'Zix",
       "date": "03-May-2017",
       "price": "1350"
     },
     {
-      "name": "Death Blossom Kha'Zix",
+      "name": "DeathBlossomKha'Zix",
       "date": "17-Mar-2016",
       "price": "975"
     },
     {
-      "name": "Guardian of the Sands Kha'Zix",
+      "name": "GuardianoftheSandsKha'Zix",
       "date": "09-Sep-2014",
       "price": "975"
     },
     {
-      "name": "Mecha Kha'Zix",
+      "name": "MechaKha'Zix",
       "date": "26-Sep-2012",
       "price": "1350"
     },
     {
-      "name": "Odyssey Kha'Zix",
+      "name": "OdysseyKha'Zix",
       "date": "15-Oct-2020",
       "price": "1350"
     },
     {
-      "name": "Original Kha'Zix",
+      "name": "OriginalKha'Zix",
       "date": "26-Sep-2012",
       "price": "880"
     }
   ],
   "Kindred": [
     {
-      "name": "Original Kindred",
+      "name": "OriginalKindred",
       "date": "13-Oct-2015",
       "price": "975"
     },
     {
-      "name": "Shadowfire Kindred",
+      "name": "ShadowfireKindred",
       "date": "13-Oct-2015",
       "price": "1350"
     },
     {
-      "name": "Spirit Blossom Kindred",
+      "name": "SpiritBlossomKindred",
       "date": "06-Aug-2020",
       "price": "1350"
     },
     {
-      "name": "Super Galaxy Kindred",
+      "name": "SuperGalaxyKindred",
       "date": "25-May-2016",
       "price": "1350"
     }
   ],
   "Kled": [
     {
-      "name": "Count Kledula",
+      "name": "CountKledula",
       "date": "24-Oct-2018",
       "price": "1350"
     },
     {
-      "name": "Marauder Kled",
+      "name": "MarauderKled",
       "date": "07-Jan-2021",
       "price": "1350"
     },
     {
-      "name": "Original Kled",
+      "name": "OriginalKled",
       "date": "09-Aug-2016",
       "price": "975"
     },
     {
-      "name": "Sir Kled",
+      "name": "SirKled",
       "date": "09-Aug-2016",
       "price": "975"
     }
   ],
   "KogMaw": [
     {
-      "name": "Arcanist Kog'Maw",
+      "name": "ArcanistKog'Maw",
       "date": "09-Jul-2020",
       "price": "1350"
     },
     {
-      "name": "Battlecast Kog'Maw",
+      "name": "BattlecastKog'Maw",
       "date": "25-Nov-2014",
       "price": "1350"
     },
@@ -2911,37 +2911,37 @@ let champion={
       "price": "1350"
     },
     {
-      "name": "Caterpillar Kog'Maw",
+      "name": "CaterpillarKog'Maw",
       "date": "24-Jun-2010",
       "price": "520"
     },
     {
-      "name": "Deep Sea Kog'Maw",
+      "name": "DeepSeaKog'Maw",
       "date": "19-Sep-2011",
       "price": "975"
     },
     {
-      "name": "Hextech Kog'Maw",
+      "name": "HextechKog'Maw",
       "date": "07-Dec-2017",
       "price": "special"
     },
     {
-      "name": "Jurassic Kog'Maw",
+      "name": "JurassicKog'Maw",
       "date": "23-Mar-2012",
       "price": "975"
     },
     {
-      "name": "Lion Dance Kog'Maw",
+      "name": "LionDanceKog'Maw",
       "date": "01-Feb-2011",
       "price": "1350"
     },
     {
-      "name": "Monarch Kog'Maw",
+      "name": "MonarchKog'Maw",
       "date": "16-Nov-2010",
       "price": "520"
     },
     {
-      "name": "Original Kog'Maw",
+      "name": "OriginalKog'Maw",
       "date": "24-Jun-2010",
       "price": "880"
     },
@@ -2951,472 +2951,472 @@ let champion={
       "price": "975"
     },
     {
-      "name": "Reindeer Kog'Maw",
+      "name": "ReindeerKog'Maw",
       "date": "14-Dec-2010",
       "price": "975"
     },
     {
-      "name": "Sonoran Kog'Maw",
+      "name": "SonoranKog'Maw",
       "date": "24-Jun-2010",
       "price": "520"
     }
   ],
   "LeBlanc": [
     {
-      "name": "Championship LeBlanc",
+      "name": "ChampionshipLeBlanc",
       "date": "24-Sep-2020",
       "price": "1350"
     },
     {
-      "name": "Coven LeBlanc",
+      "name": "CovenLeBlanc",
       "date": "16-Apr-2020",
       "price": "1350"
     },
     {
-      "name": "Elderwood LeBlanc",
+      "name": "ElderwoodLeBlanc",
       "date": "10-Mar-2016",
       "price": "1350"
     },
     {
-      "name": "Mistletoe LeBlanc",
+      "name": "MistletoeLeBlanc",
       "date": "14-Dec-2011",
       "price": "975"
     },
     {
-      "name": "Original LeBlanc",
+      "name": "OriginalLeBlanc",
       "date": "02-Nov-2010",
       "price": "790"
     },
     {
-      "name": "Prestigious LeBlanc",
+      "name": "PrestigiousLeBlanc",
       "date": "02-Nov-2010",
       "price": "520"
     },
     {
-      "name": "Program LeBlanc",
+      "name": "ProgramLeBlanc",
       "date": "15-Nov-2018",
       "price": "1350"
     },
     {
-      "name": "Ravenborn LeBlanc",
+      "name": "RavenbornLeBlanc",
       "date": "28-Oct-2014",
       "price": "975"
     },
     {
-      "name": "Wicked LeBlanc",
+      "name": "WickedLeBlanc",
       "date": "02-Nov-2010",
       "price": "750"
     },
     {
-      "name": "iG LeBlanc",
+      "name": "iGLeBlanc",
       "date": "23-Apr-2019",
       "price": "1350"
     }
   ],
-  "Lee Sin": [
+  "LeeSin": [
     {
-      "name": "Acolyte Lee Sin",
+      "name": "AcolyteLeeSin",
       "date": "01-Apr-2011",
       "price": "750"
     },
     {
-      "name": "Dragon Fist Lee Sin",
+      "name": "DragonFistLeeSin",
       "date": "10-Jan-2012",
       "price": "975"
     },
     {
-      "name": "FPX Lee Sin",
+      "name": "FPXLeeSin",
       "date": "30-Apr-2020",
       "price": "1350"
     },
     {
-      "name": "God Fist Lee Sin",
+      "name": "GodFistLeeSin",
       "date": "05-Apr-2017",
       "price": "1820"
     },
     {
-      "name": "Knockout Lee Sin",
+      "name": "KnockoutLeeSin",
       "date": "31-May-2015",
       "price": "1350"
     },
     {
-      "name": "Muay Thai Lee Sin",
+      "name": "MuayThaiLeeSin",
       "date": "24-Jul-2012",
       "price": "975"
     },
     {
-      "name": "Nightbringer Lee Sin",
+      "name": "NightbringerLeeSin",
       "date": "12-Dec-2019",
       "price": "1350"
     },
     {
-      "name": "Original Lee Sin",
+      "name": "OriginalLeeSin",
       "date": "01-Apr-2011",
       "price": "880"
     },
     {
-      "name": "Playmaker Lee Sin",
+      "name": "PlaymakerLeeSin",
       "date": "14-Jun-2018",
       "price": "975"
     },
     {
-      "name": "Pool Party Lee Sin",
+      "name": "PoolPartyLeeSin",
       "date": "09-Sep-2013",
       "price": "975"
     },
     {
-      "name": "Nightbringer Lee Sin Prestige Edition",
+      "name": "NightbringerLeeSinPrestigeEdition",
       "date": "12-Dec-2019",
       "price": "special"
     },
     {
-      "name": "SKT T1 Lee Sin",
+      "name": "SKTT1LeeSin",
       "date": "04-May-2014",
       "price": "750"
     },
     {
-      "name": "Storm Dragon Lee Sin",
+      "name": "StormDragonLeeSin",
       "date": "01-Oct-2020",
       "price": "1820"
     },
     {
-      "name": "Traditional Lee Sin",
+      "name": "TraditionalLeeSin",
       "date": "01-Apr-2011",
       "price": "520"
     }
   ],
   "Leona": [
     {
-      "name": "Barbecue Leona",
+      "name": "BarbecueLeona",
       "date": "07-Sep-2016",
       "price": "750"
     },
     {
-      "name": "Defender Leona",
+      "name": "DefenderLeona",
       "date": "13-Jul-2011",
       "price": "750"
     },
     {
-      "name": "Iron Solari Leona",
+      "name": "IronSolariLeona",
       "date": "10-Feb-2012",
       "price": "975"
     },
     {
-      "name": "Lunar Eclipse Leona",
+      "name": "LunarEclipseLeona",
       "date": "27-Nov-2018",
       "price": "1820"
     },
     {
-      "name": "Mecha Kingdoms Leona",
+      "name": "MechaKingdomsLeona",
       "date": "15-Jan-2020",
       "price": "1350"
     },
     {
-      "name": "Original Leona",
+      "name": "OriginalLeona",
       "date": "13-Jul-2011",
       "price": "880"
     },
     {
-      "name": "PROJECT: Leona",
+      "name": "PROJECT:Leona",
       "date": "07-Sep-2015",
       "price": "1350"
     },
     {
-      "name": "Pool Party Leona",
+      "name": "PoolPartyLeona",
       "date": "09-Sep-2013",
       "price": "975"
     },
     {
-      "name": "Solar Eclipse Leona",
+      "name": "SolarEclipseLeona",
       "date": "27-Nov-2018",
       "price": "1820"
     },
     {
-      "name": "Valkyrie Leona",
+      "name": "ValkyrieLeona",
       "date": "13-Jul-2011",
       "price": "520"
     }
   ],
   "Lillia": [
     {
-      "name": "Original Lillia",
+      "name": "OriginalLillia",
       "date": "22-Jul-2020",
       "price": "975"
     },
     {
-      "name": "Spirit Blossom Lillia",
+      "name": "SpiritBlossomLillia",
       "date": "22-Jul-2020",
       "price": "1350"
     }
   ],
   "Lissandra": [
     {
-      "name": "Blade Queen Lissandra",
+      "name": "BladeQueenLissandra",
       "date": "26-May-2014",
       "price": "1350"
     },
     {
-      "name": "Bloodstone Lissandra",
+      "name": "BloodstoneLissandra",
       "date": "29-Apr-2013",
       "price": "975"
     },
     {
-      "name": "Coven Lissandra",
+      "name": "CovenLissandra",
       "date": "27-Nov-2018",
       "price": "1350"
     },
     {
-      "name": "Dark Cosmic Lissandra",
+      "name": "DarkCosmicLissandra",
       "date": "24-Nov-2020",
       "price": "1350"
     },
     {
-      "name": "Original Lissandra",
+      "name": "OriginalLissandra",
       "date": "29-Apr-2013",
       "price": "975"
     },
     {
-      "name": "Program Lissandra",
+      "name": "ProgramLissandra",
       "date": "06-Apr-2016",
       "price": "1350"
     }
   ],
   "Lucian": [
     {
-      "name": "Demacia Vice Lucian",
+      "name": "DemaciaViceLucian",
       "date": "18-Jul-2019",
       "price": "1350"
     },
     {
-      "name": "Heartseeker Lucian",
+      "name": "HeartseekerLucian",
       "date": "02-Feb-2017",
       "price": "1350"
     },
     {
-      "name": "High Noon Lucian",
+      "name": "HighNoonLucian",
       "date": "30-Aug-2018",
       "price": "1820"
     },
     {
-      "name": "Hired Gun Lucian",
+      "name": "HiredGunLucian",
       "date": "21-Aug-2013",
       "price": "975"
     },
     {
-      "name": "Original Lucian",
+      "name": "OriginalLucian",
       "date": "21-Aug-2013",
       "price": "975"
     },
     {
-      "name": "PROJECT: Lucian",
+      "name": "PROJECT:Lucian",
       "date": "07-Sep-2015",
       "price": "1350"
     },
     {
-      "name": "Pulsefire Lucian Prestige Edition",
+      "name": "PulsefireLucianPrestigeEdition",
       "date": "14-May-2020",
       "price": "special"
     },
     {
-      "name": "Pulsefire Lucian",
+      "name": "PulsefireLucian",
       "date": "14-May-2020",
       "price": "1350"
     },
     {
-      "name": "Striker Lucian",
+      "name": "StrikerLucian",
       "date": "18-Jun-2014",
       "price": "750"
     },
     {
-      "name": "Victorious Lucian",
+      "name": "VictoriousLucian",
       "date": "11-Nov-2020",
       "price": "special"
     }
   ],
   "Lulu": [
     {
-      "name": "Bittersweet Lulu",
+      "name": "BittersweetLulu",
       "date": "20-Mar-2012",
       "price": "975"
     },
     {
-      "name": "Cosmic Enchantress Lulu",
+      "name": "CosmicEnchantressLulu",
       "date": "21-Aug-2018",
       "price": "1350"
     },
     {
-      "name": "Dragon Trainer Lulu",
+      "name": "DragonTrainerLulu",
       "date": "13-Nov-2012",
       "price": "1350"
     },
     {
-      "name": "Original Lulu",
+      "name": "OriginalLulu",
       "date": "20-Mar-2012",
       "price": "880"
     },
     {
-      "name": "Pajama Guardian Lulu",
+      "name": "PajamaGuardianLulu",
       "date": "21-Nov-2018",
       "price": "1350"
     },
     {
-      "name": "Pool Party Lulu",
+      "name": "PoolPartyLulu",
       "date": "25-Jun-2015",
       "price": "1350"
     },
     {
-      "name": "Star Guardian Lulu",
+      "name": "StarGuardianLulu",
       "date": "05-Oct-2016",
       "price": "1350"
     },
     {
-      "name": "Wicked Lulu",
+      "name": "WickedLulu",
       "date": "20-Mar-2012",
       "price": "975"
     },
     {
-      "name": "Winter Wonder Lulu",
+      "name": "WinterWonderLulu",
       "date": "19-Dec-2013",
       "price": "1350"
     }
   ],
   "Lux": [
     {
-      "name": "Battle Academia Lux",
+      "name": "BattleAcademiaLux",
       "date": "15-May-2019",
       "price": "1350"
     },
     {
-      "name": "Commando Lux",
+      "name": "CommandoLux",
       "date": "17-Jun-2011",
       "price": "520"
     },
     {
-      "name": "Cosmic Lux",
+      "name": "CosmicLux",
       "date": "26-Mar-2020",
       "price": "1820"
     },
     {
-      "name": "Dark Cosmic Lux",
+      "name": "DarkCosmicLux",
       "date": "26-Mar-2020",
       "price": "1820"
     },
     {
-      "name": "Elementalist Lux",
+      "name": "ElementalistLux",
       "date": "28-Nov-2016",
       "price": "3250"
     },
     {
-      "name": "Imperial Lux",
+      "name": "ImperialLux",
       "date": "29-Nov-2011",
       "price": "975"
     },
     {
-      "name": "Lunar Empress Lux",
+      "name": "LunarEmpressLux",
       "date": "08-Feb-2018",
       "price": "1350"
     },
     {
-      "name": "Original Lux",
+      "name": "OriginalLux",
       "date": "19-Oct-2010",
       "price": "790"
     },
     {
-      "name": "Pajama Guardian Lux",
+      "name": "PajamaGuardianLux",
       "date": "21-Nov-2018",
       "price": "1350"
     },
     {
-      "name": "Battle Academia Lux Prestige Edition",
+      "name": "BattleAcademiaLuxPrestigeEdition",
       "date": "15-May-2019",
       "price": "special"
     },
     {
-      "name": "Sorceress Lux",
+      "name": "SorceressLux",
       "date": "19-Oct-2010",
       "price": "520"
     },
     {
-      "name": "Spellthief Lux",
+      "name": "SpellthiefLux",
       "date": "19-Oct-2010",
       "price": "750"
     },
     {
-      "name": "Star Guardian Lux",
+      "name": "StarGuardianLux",
       "date": "17-May-2015",
       "price": "1350"
     },
     {
-      "name": "Steel Legion Lux",
+      "name": "SteelLegionLux",
       "date": "01-Feb-2013",
       "price": "975"
     }
   ],
   "Malphite": [
     {
-      "name": "Coral Reef Malphite",
+      "name": "CoralReefMalphite",
       "date": "08-Nov-2010",
       "price": "750"
     },
     {
-      "name": "Dark Star Malphite",
+      "name": "DarkStarMalphite",
       "date": "26-Mar-2020",
       "price": "1350"
     },
     {
-      "name": "FPX Malphite",
+      "name": "FPXMalphite",
       "date": "30-Apr-2020",
       "price": "1350"
     },
     {
-      "name": "Glacial Malphite",
+      "name": "GlacialMalphite",
       "date": "11-Jul-2012",
       "price": "1350"
     },
     {
-      "name": "Ironside Malphite",
+      "name": "IronsideMalphite",
       "date": "07-Oct-2015",
       "price": "975"
     },
     {
-      "name": "Marble Malphite",
+      "name": "MarbleMalphite",
       "date": "21-Mar-2011",
       "price": "520"
     },
     {
-      "name": "Mecha Malphite",
+      "name": "MechaMalphite",
       "date": "23-Jul-2014",
       "price": "1350"
     },
     {
-      "name": "Obsidian Malphite",
+      "name": "ObsidianMalphite",
       "date": "15-Aug-2011",
       "price": "975"
     },
     {
-      "name": "Odyssey Malphite",
+      "name": "OdysseyMalphite",
       "date": "12-Sep-2018",
       "price": "1350"
     },
     {
-      "name": "Original Malphite",
+      "name": "OriginalMalphite",
       "date": "01-Sep-2009",
       "price": "585"
     },
     {
-      "name": "Dark Star Malphite Prestige Edition",
+      "name": "DarkStarMalphitePrestigeEdition",
       "date": "26-Mar-2020",
       "price": "special"
     },
     {
-      "name": "Shamrock Malphite",
+      "name": "ShamrockMalphite",
       "date": "16-Mar-2010",
       "price": "520"
     }
   ],
   "Malzahar": [
     {
-      "name": "Battle Boss Malzahar",
+      "name": "BattleBossMalzahar",
       "date": "08-Aug-2017",
       "price": "1350"
     },
@@ -3426,64 +3426,64 @@ let champion={
       "price": "1350"
     },
     {
-      "name": "Djinn Malzahar",
+      "name": "DjinnMalzahar",
       "date": "01-Feb-2011",
       "price": "520"
     },
     {
-      "name": "Hextech Malzahar",
+      "name": "HextechMalzahar",
       "date": "18-Oct-2018",
       "price": "special"
     },
     {
-      "name": "Original Malzahar",
+      "name": "OriginalMalzahar",
       "date": "01-Jun-2010",
       "price": "880"
     },
     {
-      "name": "Overlord Malzahar",
+      "name": "OverlordMalzahar",
       "date": "19-Sep-2011",
       "price": "975"
     },
     {
-      "name": "Shadow Prince Malzahar",
+      "name": "ShadowPrinceMalzahar",
       "date": "01-Jun-2010",
       "price": "520"
     },
     {
-      "name": "Snow Day Malzahar",
+      "name": "SnowDayMalzahar",
       "date": "15-Dec-2014",
       "price": "975"
     },
     {
-      "name": "Vizier Malzahar",
+      "name": "VizierMalzahar",
       "date": "01-Jun-2010",
       "price": "520"
     },
     {
-      "name": "Worldbreaker Malzahar",
+      "name": "WorldbreakerMalzahar",
       "date": "09-Apr-2020",
       "price": "1350"
     }
   ],
   "Maokai": [
     {
-      "name": "Charred Maokai",
+      "name": "CharredMaokai",
       "date": "16-Feb-2011",
       "price": "975"
     },
     {
-      "name": "Festive Maokai",
+      "name": "FestiveMaokai",
       "date": "14-Dec-2011",
       "price": "975"
     },
     {
-      "name": "Goalkeeper Maokai",
+      "name": "GoalkeeperMaokai",
       "date": "18-Jun-2014",
       "price": "750"
     },
     {
-      "name": "Haunted Maokai",
+      "name": "HauntedMaokai",
       "date": "26-Oct-2012",
       "price": "975"
     },
@@ -3493,361 +3493,361 @@ let champion={
       "price": "1350"
     },
     {
-      "name": "Original Maokai",
+      "name": "OriginalMaokai",
       "date": "16-Feb-2011",
       "price": "880"
     },
     {
-      "name": "Totemic Maokai",
+      "name": "TotemicMaokai",
       "date": "16-Feb-2011",
       "price": "520"
     },
     {
-      "name": "Victorious Maokai",
+      "name": "VictoriousMaokai",
       "date": "08-Nov-2016",
       "price": "special"
     },
     {
-      "name": "Worldbreaker Maokai",
+      "name": "WorldbreakerMaokai",
       "date": "09-Apr-2020",
       "price": "1350"
     }
   ],
-  "Master Yi": [
+  "MasterYi": [
     {
-      "name": "Assassin Master Yi",
+      "name": "AssassinMasterYi",
       "date": "17-Dec-2009",
       "price": "390"
     },
     {
-      "name": "Blood Moon Master Yi",
+      "name": "BloodMoonMasterYi",
       "date": "20-Feb-2020",
       "price": "1350"
     },
     {
-      "name": "Chosen Master Yi",
+      "name": "ChosenMasterYi",
       "date": "03-Jun-2010",
       "price": "520"
     },
     {
-      "name": "Cosmic Blade Master Yi",
+      "name": "CosmicBladeMasterYi",
       "date": "26-Apr-2017",
       "price": "1350"
     },
     {
-      "name": "Eternal Sword Yi",
+      "name": "EternalSwordYi",
       "date": "27-Sep-2017",
       "price": "1350"
     },
     {
-      "name": "Headhunter Master Yi",
+      "name": "HeadhunterMasterYi",
       "date": "08-Feb-2012",
       "price": "975"
     },
     {
-      "name": "Ionia Master Yi",
+      "name": "IoniaMasterYi",
       "date": "12-Sep-2010",
       "price": "975"
     },
     {
-      "name": "Original Master Yi",
+      "name": "OriginalMasterYi",
       "date": "21-Feb-2009",
       "price": "260"
     },
     {
-      "name": "PROJECT: Yi",
+      "name": "PROJECT:Yi",
       "date": "07-Sep-2015",
       "price": "1820"
     },
     {
-      "name": "PsyOps Master Yi",
+      "name": "PsyOpsMasterYi",
       "date": "03-Sep-2020",
       "price": "1350"
     },
     {
-      "name": "Samurai Yi",
+      "name": "SamuraiYi",
       "date": "07-Mar-2011",
       "price": "520"
     },
     {
-      "name": "Snow Man Yi",
+      "name": "SnowManYi",
       "date": "06-Dec-2018",
       "price": "1350"
     }
   ],
-  "Miss Fortune": [
+  "MissFortune": [
     {
-      "name": "Arcade Miss Fortune",
+      "name": "ArcadeMissFortune",
       "date": "12-Aug-2014",
       "price": "1350"
     },
     {
-      "name": "Bewitching Miss Fortune",
+      "name": "BewitchingMissFortune",
       "date": "24-Oct-2019",
       "price": "1350"
     },
     {
-      "name": "Candy Cane Miss Fortune",
+      "name": "CandyCaneMissFortune",
       "date": "14-Dec-2010",
       "price": "975"
     },
     {
-      "name": "Captain Fortune",
+      "name": "CaptainFortune",
       "date": "30-Jul-2015",
       "price": "975"
     },
     {
-      "name": "Cowgirl Miss Fortune",
+      "name": "CowgirlMissFortune",
       "date": "08-Sep-2010",
       "price": "750"
     },
     {
-      "name": "Crime City Miss Fortune",
+      "name": "CrimeCityMissFortune",
       "date": "01-Nov-2011",
       "price": "975"
     },
     {
-      "name": "Gun Goddess Miss Fortune",
+      "name": "GunGoddessMissFortune",
       "date": "22-Mar-2018",
       "price": "2775"
     },
     {
-      "name": "Original Miss Fortune",
+      "name": "OriginalMissFortune",
       "date": "08-Sep-2010",
       "price": "790"
     },
     {
-      "name": "Pajama Guardian Miss Fortune",
+      "name": "PajamaGuardianMissFortune",
       "date": "21-Nov-2018",
       "price": "1350"
     },
     {
-      "name": "Pool Party Miss Fortune",
+      "name": "PoolPartyMissFortune",
       "date": "13-Jul-2016",
       "price": "1350"
     },
     {
-      "name": "Bewitching Miss Fortune Prestige Edition",
+      "name": "BewitchingMissFortunePrestigeEdition",
       "date": "24-Oct-2019",
       "price": "special"
     },
     {
-      "name": "Road Warrior Miss Fortune",
+      "name": "RoadWarriorMissFortune",
       "date": "24-May-2011",
       "price": "520"
     },
     {
-      "name": "Secret Agent Miss Fortune",
+      "name": "SecretAgentMissFortune",
       "date": "16-Nov-2010",
       "price": "975"
     },
     {
-      "name": "Star Guardian Miss Fortune",
+      "name": "StarGuardianMissFortune",
       "date": "06-Sep-2017",
       "price": "1350"
     },
     {
-      "name": "Waterloo Miss Fortune",
+      "name": "WaterlooMissFortune",
       "date": "08-Sep-2010",
       "price": "520"
     }
   ],
   "Mordekaiser": [
     {
-      "name": "Dark Star Mordekaiser",
+      "name": "DarkStarMordekaiser",
       "date": "26-Mar-2020",
       "price": "1350"
     },
     {
-      "name": "Dragon Knight Mordekaiser",
+      "name": "DragonKnightMordekaiser",
       "date": "24-Feb-2010",
       "price": "520"
     },
     {
-      "name": "Infernal Mordekaiser",
+      "name": "InfernalMordekaiser",
       "date": "24-Feb-2010",
       "price": "520"
     },
     {
-      "name": "King of Clubs Mordekaiser",
+      "name": "KingofClubsMordekaiser",
       "date": "20-May-2015",
       "price": "750"
     },
     {
-      "name": "Lord Mordekaiser",
+      "name": "LordMordekaiser",
       "date": "10-May-2011",
       "price": "975"
     },
     {
-      "name": "Original Mordekaiser",
+      "name": "OriginalMordekaiser",
       "date": "24-Feb-2010",
       "price": "585"
     },
     {
-      "name": "Pentakill Mordekaiser",
+      "name": "PentakillMordekaiser",
       "date": "21-Sep-2010",
       "price": "975"
     }
   ],
   "Morgana": [
     {
-      "name": "Bewitching Morgana",
+      "name": "BewitchingMorgana",
       "date": "19-Oct-2016",
       "price": "975"
     },
     {
-      "name": "Blackthorn Morgana",
+      "name": "BlackthornMorgana",
       "date": "23-May-2012",
       "price": "1350"
     },
     {
-      "name": "Blade Mistress Morgana",
+      "name": "BladeMistressMorgana",
       "date": "01-Dec-2010",
       "price": "750"
     },
     {
-      "name": "Coven Morgana",
+      "name": "CovenMorgana",
       "date": "16-Apr-2020",
       "price": "1820"
     },
     {
-      "name": "Exiled Morgana",
+      "name": "ExiledMorgana",
       "date": "01-Jun-2010",
       "price": "975"
     },
     {
-      "name": "Ghost Bride Morgana",
+      "name": "GhostBrideMorgana",
       "date": "13-Jun-2013",
       "price": "975"
     },
     {
-      "name": "Lunar Wraith Morgana",
+      "name": "LunarWraithMorgana",
       "date": "27-Jan-2016",
       "price": "975"
     },
     {
-      "name": "Majestic Empress Morgana",
+      "name": "MajesticEmpressMorgana",
       "date": "26-Sep-2019",
       "price": "1350"
     },
     {
-      "name": "Original Morgana",
+      "name": "OriginalMorgana",
       "date": "21-Feb-2009",
       "price": "585"
     },
     {
-      "name": "Sinful Succulence Morgana",
+      "name": "SinfulSucculenceMorgana",
       "date": "02-Sep-2010",
       "price": "975"
     },
     {
-      "name": "Victorious Morgana",
+      "name": "VictoriousMorgana",
       "date": "11-Nov-2014",
       "price": "special"
     }
   ],
   "Nami": [
     {
-      "name": "Cosmic Destiny Nami",
+      "name": "CosmicDestinyNami",
       "date": "24-Nov-2020",
       "price": "1350"
     },
     {
-      "name": "Deep Sea Nami",
+      "name": "DeepSeaNami",
       "date": "29-Jun-2016",
       "price": "1350"
     },
     {
-      "name": "Koi Nami",
+      "name": "KoiNami",
       "date": "07-Dec-2012",
       "price": "975"
     },
     {
-      "name": "Original Nami",
+      "name": "OriginalNami",
       "date": "07-Dec-2012",
       "price": "880"
     },
     {
-      "name": "Program Nami",
+      "name": "ProgramNami",
       "date": "15-Nov-2018",
       "price": "1350"
     },
     {
-      "name": "River Spirit Nami",
+      "name": "RiverSpiritNami",
       "date": "01-Jun-2014",
       "price": "975"
     },
     {
-      "name": "SKT T1 Nami",
+      "name": "SKTT1Nami",
       "date": "27-Jun-2017",
       "price": "1350"
     },
     {
-      "name": "Splendid Staff Nami",
+      "name": "SplendidStaffNami",
       "date": "26-Sep-2019",
       "price": "1350"
     },
     {
-      "name": "Urf the Nami-tee",
+      "name": "UrftheNami-tee",
       "date": "31-Mar-2015",
       "price": "750"
     }
   ],
   "Nasus": [
     {
-      "name": "Archduke Nasus",
+      "name": "ArchdukeNasus",
       "date": "31-Mar-2015",
       "price": "750"
     },
     {
-      "name": "Battlecast Nasus",
+      "name": "BattlecastNasus",
       "date": "12-Nov-2020",
       "price": "1350"
     },
     {
-      "name": "Dreadknight Nasus",
+      "name": "DreadknightNasus",
       "date": "26-Apr-2011",
       "price": "975"
     },
     {
-      "name": "Galactic Nasus",
+      "name": "GalacticNasus",
       "date": "13-Jul-2010",
       "price": "520"
     },
     {
-      "name": "Infernal Nasus",
+      "name": "InfernalNasus",
       "date": "20-Nov-2013",
       "price": "1820"
     },
     {
-      "name": "Lunar Guardian Nasus",
+      "name": "LunarGuardianNasus",
       "date": "08-Feb-2018",
       "price": "1350"
     },
     {
-      "name": "Original Nasus",
+      "name": "OriginalNasus",
       "date": "30-Sep-2009",
       "price": "585"
     },
     {
-      "name": "Pharaoh Nasus",
+      "name": "PharaohNasus",
       "date": "02-Nov-2010",
       "price": "520"
     },
     {
-      "name": "Riot K-9 Nasus",
+      "name": "RiotK-9Nasus",
       "date": "16-Aug-2011",
       "price": "975"
     },
     {
-      "name": "Worldbreaker Nasus",
+      "name": "WorldbreakerNasus",
       "date": "10-Nov-2016",
       "price": "750"
     }
   ],
   "Nautilus": [
     {
-      "name": "Abyssal Nautilus",
+      "name": "AbyssalNautilus",
       "date": "14-Feb-2012",
       "price": "975"
     },
@@ -3857,215 +3857,215 @@ let champion={
       "price": "1350"
     },
     {
-      "name": "Conqueror Nautilus",
+      "name": "ConquerorNautilus",
       "date": "09-Jul-2020",
       "price": "975"
     },
     {
-      "name": "Original Nautilus",
+      "name": "OriginalNautilus",
       "date": "14-Feb-2012",
       "price": "880"
     },
     {
-      "name": "Shan Hai Scrolls Nautilus",
+      "name": "ShanHaiScrollsNautilus",
       "date": "28-Jan-2021",
       "price": "1350"
     },
     {
-      "name": "Subterranean Nautilus",
+      "name": "SubterraneanNautilus",
       "date": "14-Feb-2012",
       "price": "975"
     },
     {
-      "name": "Warden Nautilus",
+      "name": "WardenNautilus",
       "date": "17-Feb-2015",
       "price": "750"
     },
     {
-      "name": "Worldbreaker Nautilus",
+      "name": "WorldbreakerNautilus",
       "date": "10-Nov-2016",
       "price": "750"
     }
   ],
   "Neeko": [
     {
-      "name": "Original Neeko",
+      "name": "OriginalNeeko",
       "date": "05-Dec-2018",
       "price": "975"
     },
     {
-      "name": "Star Guardian Neeko Prestige Edition",
+      "name": "StarGuardianNeekoPrestigeEdition",
       "date": "12-Sep-2019",
       "price": "special"
     },
     {
-      "name": "Shan Hai Scrolls Neeko",
+      "name": "ShanHaiScrollsNeeko",
       "date": "28-Jan-2021",
       "price": "1350"
     },
     {
-      "name": "Star Guardian Neeko",
+      "name": "StarGuardianNeeko",
       "date": "12-Sep-2019",
       "price": "1350"
     },
     {
-      "name": "Winter Wonder Neeko",
+      "name": "WinterWonderNeeko",
       "date": "05-Dec-2018",
       "price": "1350"
     }
   ],
   "Nidalee": [
     {
-      "name": "Bewitching Nidalee",
+      "name": "BewitchingNidalee",
       "date": "19-Oct-2011",
       "price": "975"
     },
     {
-      "name": "Challenger Nidalee",
+      "name": "ChallengerNidalee",
       "date": "14-Jan-2016",
       "price": "975"
     },
     {
-      "name": "Cosmic Huntress Nidalee",
+      "name": "CosmicHuntressNidalee",
       "date": "24-Nov-2020",
       "price": "1350"
     },
     {
-      "name": "Dawnbringer Nidalee",
+      "name": "DawnbringerNidalee",
       "date": "12-Dec-2019",
       "price": "1350"
     },
     {
-      "name": "French Maid Nidalee",
+      "name": "FrenchMaidNidalee",
       "date": "24-Jun-2010",
       "price": "520"
     },
     {
-      "name": "Headhunter Nidalee",
+      "name": "HeadhunterNidalee",
       "date": "20-Mar-2013",
       "price": "975"
     },
     {
-      "name": "Leopard Nidalee",
+      "name": "LeopardNidalee",
       "date": "24-Feb-2010",
       "price": "520"
     },
     {
-      "name": "Original Nidalee",
+      "name": "OriginalNidalee",
       "date": "17-Dec-2009",
       "price": "790"
     },
     {
-      "name": "Pharaoh Nidalee",
+      "name": "PharaohNidalee",
       "date": "10-Jan-2011",
       "price": "520"
     },
     {
-      "name": "Snow Bunny Nidalee",
+      "name": "SnowBunnyNidalee",
       "date": "17-Dec-2009",
       "price": "520"
     },
     {
-      "name": "Super Galaxy Nidalee",
+      "name": "SuperGalaxyNidalee",
       "date": "16-Oct-2017",
       "price": "1350"
     },
     {
-      "name": "Warring Kingdoms Nidalee",
+      "name": "WarringKingdomsNidalee",
       "date": "10-Feb-2015",
       "price": "975"
     }
   ],
   "Nocturne": [
     {
-      "name": "Cursed Revenant Nocturne",
+      "name": "CursedRevenantNocturne",
       "date": "04-May-2016",
       "price": "750"
     },
     {
-      "name": "Elderwood Nocturne",
+      "name": "ElderwoodNocturne",
       "date": "29-Aug-2019",
       "price": "1350"
     },
     {
-      "name": "Eternum Nocturne",
+      "name": "EternumNocturne",
       "date": "05-Dec-2012",
       "price": "1820"
     },
     {
-      "name": "Frozen Terror Nocturne",
+      "name": "FrozenTerrorNocturne",
       "date": "15-Mar-2011",
       "price": "975"
     },
     {
-      "name": "Haunting Nocturne",
+      "name": "HauntingNocturne",
       "date": "19-Oct-2011",
       "price": "975"
     },
     {
-      "name": "Hextech Nocturne",
+      "name": "HextechNocturne",
       "date": "11-Jun-2020",
       "price": "special"
     },
     {
-      "name": "Original Nocturne",
+      "name": "OriginalNocturne",
       "date": "15-Mar-2011",
       "price": "880"
     },
     {
-      "name": "Ravager Nocturne",
+      "name": "RavagerNocturne",
       "date": "13-Jul-2011",
       "price": "520"
     },
     {
-      "name": "Void Nocturne",
+      "name": "VoidNocturne",
       "date": "15-Mar-2011",
       "price": "520"
     }
   ],
-  "Nunu & Willump": [
+  "Nunu&Willump": [
     {
-      "name": "Demolisher Nunu & Willump",
+      "name": "DemolisherNunu&Willump",
       "date": "24-Aug-2011",
       "price": "975"
     },
     {
-      "name": "Grungy Nunu & Willump",
+      "name": "GrungyNunu&Willump",
       "date": "10-Aug-2010",
       "price": "750"
     },
     {
-      "name": "Nunu & Willump Bot",
+      "name": "Nunu&WillumpBot",
       "date": "05-May-2011",
       "price": "1820"
     },
     {
-      "name": "Original Nunu & Willump",
+      "name": "OriginalNunu&Willump",
       "date": "21-Feb-2009",
       "price": "260"
     },
     {
-      "name": "Papercraft Nunu & Willump",
+      "name": "PapercraftNunu&Willump",
       "date": "21-Feb-2019",
       "price": "1350"
     },
     {
-      "name": "Sasquatch Nunu & Willump",
+      "name": "SasquatchNunu&Willump",
       "date": "20-Nov-2009",
       "price": "520"
     },
     {
-      "name": "TPA Nunu & Willump",
+      "name": "TPANunu&Willump",
       "date": "23-May-2013",
       "price": "750"
     },
     {
-      "name": "Workshop Nunu & Willump",
+      "name": "WorkshopNunu&Willump",
       "date": "17-Dec-2009",
       "price": "520"
     },
     {
-      "name": "Zombie Nunu & Willump",
+      "name": "ZombieNunu&Willump",
       "date": "05-Nov-2015",
       "price": "1350"
     }
@@ -4077,185 +4077,185 @@ let champion={
       "price": "1820"
     },
     {
-      "name": "Butcher Olaf",
+      "name": "ButcherOlaf",
       "date": "07-Sep-2016",
       "price": "750"
     },
     {
-      "name": "Dragonslayer Olaf",
+      "name": "DragonslayerOlaf",
       "date": "30-Jan-2020",
       "price": "1350"
     },
     {
-      "name": "Forsaken Olaf",
+      "name": "ForsakenOlaf",
       "date": "08-Jun-2010",
       "price": "520"
     },
     {
-      "name": "Glacial Olaf",
+      "name": "GlacialOlaf",
       "date": "08-Jun-2010",
       "price": "520"
     },
     {
-      "name": "Marauder Olaf",
+      "name": "MarauderOlaf",
       "date": "30-Sep-2015",
       "price": "750"
     },
     {
-      "name": "Original Olaf",
+      "name": "OriginalOlaf",
       "date": "08-Jun-2010",
       "price": "790"
     },
     {
-      "name": "Pentakill Olaf",
+      "name": "PentakillOlaf",
       "date": "01-Oct-2012",
       "price": "975"
     },
     {
-      "name": "SKT T1 Olaf",
+      "name": "SKTT1Olaf",
       "date": "27-Jun-2017",
       "price": "1350"
     }
   ],
   "Orianna": [
     {
-      "name": "Bladecraft Orianna",
+      "name": "BladecraftOrianna",
       "date": "29-Feb-2012",
       "price": "975"
     },
     {
-      "name": "Dark Star Orianna",
+      "name": "DarkStarOrianna",
       "date": "03-May-2017",
       "price": "1350"
     },
     {
-      "name": "Gothic Orianna",
+      "name": "GothicOrianna",
       "date": "01-Jun-2011",
       "price": "520"
     },
     {
-      "name": "Heartseeker Orianna",
+      "name": "HeartseekerOrianna",
       "date": "11-Feb-2016",
       "price": "1350"
     },
     {
-      "name": "Original Orianna",
+      "name": "OriginalOrianna",
       "date": "01-Jun-2011",
       "price": "880"
     },
     {
-      "name": "Pool Party Orianna",
+      "name": "PoolPartyOrianna",
       "date": "02-Jul-2020",
       "price": "1350"
     },
     {
-      "name": "Sewn Chaos Orianna",
+      "name": "SewnChaosOrianna",
       "date": "01-Jun-2011",
       "price": "520"
     },
     {
-      "name": "TPA Orianna",
+      "name": "TPAOrianna",
       "date": "23-May-2013",
       "price": "750"
     },
     {
-      "name": "Victorious Orianna",
+      "name": "VictoriousOrianna",
       "date": "21-Nov-2018",
       "price": "special"
     },
     {
-      "name": "Winter Wonder Orianna",
+      "name": "WinterWonderOrianna",
       "date": "15-Dec-2014",
       "price": "975"
     }
   ],
   "Ornn": [
     {
-      "name": "Elderwood Ornn",
+      "name": "ElderwoodOrnn",
       "date": "10-Dec-2020",
       "price": "1350"
     },
     {
-      "name": "Original Ornn",
+      "name": "OriginalOrnn",
       "date": "22-Aug-2017",
       "price": "975"
     },
     {
-      "name": "Thunder Lord Ornn",
+      "name": "ThunderLordOrnn",
       "date": "22-Aug-2017",
       "price": "1350"
     }
   ],
   "Pantheon": [
     {
-      "name": "Baker Pantheon",
+      "name": "BakerPantheon",
       "date": "07-Sep-2016",
       "price": "975"
     },
     {
-      "name": "Dragonslayer Pantheon",
+      "name": "DragonslayerPantheon",
       "date": "14-May-2014",
       "price": "1350"
     },
     {
-      "name": "Full Metal Pantheon",
+      "name": "FullMetalPantheon",
       "date": "01-Aug-2011",
       "price": "975"
     },
     {
-      "name": "Glaive Warrior Pantheon",
+      "name": "GlaiveWarriorPantheon",
       "date": "30-May-2012",
       "price": "975"
     },
     {
-      "name": "Myrmidon Pantheon",
+      "name": "MyrmidonPantheon",
       "date": "02-Feb-2010",
       "price": "520"
     },
     {
-      "name": "Original Pantheon",
+      "name": "OriginalPantheon",
       "date": "02-Feb-2010",
       "price": "790"
     },
     {
-      "name": "Perseus Pantheon",
+      "name": "PerseusPantheon",
       "date": "02-Nov-2010",
       "price": "750"
     },
     {
-      "name": "Pulsefire Pantheon",
+      "name": "PulsefirePantheon",
       "date": "14-May-2020",
       "price": "1350"
     },
     {
-      "name": "Ruthless Pantheon",
+      "name": "RuthlessPantheon",
       "date": "08-Aug-2010",
       "price": "520"
     },
     {
-      "name": "Zombie Slayer Pantheon",
+      "name": "ZombieSlayerPantheon",
       "date": "05-Nov-2015",
       "price": "975"
     }
   ],
   "Poppy": [
     {
-      "name": "Astronaut Poppy",
+      "name": "AstronautPoppy",
       "date": "28-May-2020",
       "price": "1350"
     },
     {
-      "name": "Battle Regalia Poppy",
+      "name": "BattleRegaliaPoppy",
       "date": "15-Mar-2011",
       "price": "520"
     },
     {
-      "name": "Blacksmith Poppy",
+      "name": "BlacksmithPoppy",
       "date": "24-Aug-2010",
       "price": "975"
     },
     {
-      "name": "Hextech Poppy",
+      "name": "HextechPoppy",
       "date": "23-Jul-2018",
       "price": "special"
     },
@@ -4265,283 +4265,283 @@ let champion={
       "price": "975"
     },
     {
-      "name": "Noxus Poppy",
+      "name": "NoxusPoppy",
       "date": "02-Feb-2010",
       "price": "520"
     },
     {
-      "name": "Original Poppy",
+      "name": "OriginalPoppy",
       "date": "13-Jan-2010",
       "price": "260"
     },
     {
-      "name": "Ragdoll Poppy",
+      "name": "RagdollPoppy",
       "date": "14-Dec-2010",
       "price": "975"
     },
     {
-      "name": "Scarlet Hammer Poppy",
+      "name": "ScarletHammerPoppy",
       "date": "01-Feb-2012",
       "price": "975"
     },
     {
-      "name": "Snow Fawn Poppy",
+      "name": "SnowFawnPoppy",
       "date": "12-Dec-2017",
       "price": "1350"
     },
     {
-      "name": "Star Guardian Poppy",
+      "name": "StarGuardianPoppy",
       "date": "05-Oct-2016",
       "price": "1350"
     }
   ],
   "Pyke": [
     {
-      "name": "Blood Moon Pyke",
+      "name": "BloodMoonPyke",
       "date": "10-Jan-2019",
       "price": "1350"
     },
     {
-      "name": "Original Pyke",
+      "name": "OriginalPyke",
       "date": "31-May-2018",
       "price": "975"
     },
     {
-      "name": "PROJECT: Pyke",
+      "name": "PROJECT:Pyke",
       "date": "01-Aug-2019",
       "price": "1820"
     },
     {
-      "name": "PsyOps Pyke",
+      "name": "PsyOpsPyke",
       "date": "17-Sep-2020",
       "price": "1350"
     },
     {
-      "name": "Sand Wraith Pyke",
+      "name": "SandWraithPyke",
       "date": "31-May-2018",
       "price": "1350"
     }
   ],
   "Qiyana": [
     {
-      "name": "Battle Boss Qiyana",
+      "name": "BattleBossQiyana",
       "date": "28-Jun-2019",
       "price": "1350"
     },
     {
-      "name": "Battle Queen Qiyana",
+      "name": "BattleQueenQiyana",
       "date": "10-Dec-2020",
       "price": "1350"
     },
     {
-      "name": "Original Qiyana",
+      "name": "OriginalQiyana",
       "date": "28-Jun-2019",
       "price": "975"
     },
     {
-      "name": "True Damage Qiyana Prestige Edition",
+      "name": "TrueDamageQiyanaPrestigeEdition",
       "date": "10-Nov-2019",
       "price": "special"
     },
     {
-      "name": "True Damage Qiyana",
+      "name": "TrueDamageQiyana",
       "date": "10-Nov-2019",
       "price": "1350"
     }
   ],
   "Quinn": [
     {
-      "name": "Corsair Quinn",
+      "name": "CorsairQuinn",
       "date": "22-Jul-2015",
       "price": "750"
     },
     {
-      "name": "Heartseeker Quinn",
+      "name": "HeartseekerQuinn",
       "date": "02-Feb-2017",
       "price": "975"
     },
     {
-      "name": "Original Quinn",
+      "name": "OriginalQuinn",
       "date": "01-Mar-2013",
       "price": "880"
     },
     {
-      "name": "Phoenix Quinn",
+      "name": "PhoenixQuinn",
       "date": "01-Mar-2013",
       "price": "975"
     },
     {
-      "name": "Warden Quinn",
+      "name": "WardenQuinn",
       "date": "07-Jan-2021",
       "price": "1350"
     },
     {
-      "name": "Woad Scout Quinn",
+      "name": "WoadScoutQuinn",
       "date": "09-Jun-2014",
       "price": "975"
     }
   ],
   "Rakan": [
     {
-      "name": "Cosmic Dawn Rakan",
+      "name": "CosmicDawnRakan",
       "date": "18-Apr-2017",
       "price": "1350"
     },
     {
-      "name": "Elderwood Rakan",
+      "name": "ElderwoodRakan",
       "date": "10-Dec-2020",
       "price": "1350"
     },
     {
-      "name": "Original Rakan",
+      "name": "OriginalRakan",
       "date": "18-Apr-2017",
       "price": "975"
     },
     {
-      "name": "SSG Rakan",
+      "name": "SSGRakan",
       "date": "20-Jul-2018",
       "price": "1350"
     },
     {
-      "name": "Star Guardian Rakan",
+      "name": "StarGuardianRakan",
       "date": "12-Sep-2019",
       "price": "1820"
     },
     {
-      "name": "Sweetheart Rakan",
+      "name": "SweetheartRakan",
       "date": "12-Feb-2018",
       "price": "1350"
     },
     {
-      "name": "iG Rakan",
+      "name": "iGRakan",
       "date": "23-Apr-2019",
       "price": "1350"
     }
   ],
   "Rammus": [
     {
-      "name": "Chrome Rammus",
+      "name": "ChromeRammus",
       "date": "17-May-2010",
       "price": "750"
     },
     {
-      "name": "Freljord Rammus",
+      "name": "FreljordRammus",
       "date": "22-Nov-2010",
       "price": "520"
     },
     {
-      "name": "Full Metal Rammus",
+      "name": "FullMetalRammus",
       "date": "16-Aug-2012",
       "price": "975"
     },
     {
-      "name": "Guardian of the Sands Rammus",
+      "name": "GuardianoftheSandsRammus",
       "date": "26-Apr-2015",
       "price": "975"
     },
     {
-      "name": "Hextech Rammus",
+      "name": "HextechRammus",
       "date": "15-Aug-2019",
       "price": "special"
     },
     {
-      "name": "King Rammus",
+      "name": "KingRammus",
       "date": "20-Oct-2009",
       "price": "special"
     },
     {
-      "name": "Molten Rammus",
+      "name": "MoltenRammus",
       "date": "13-Jul-2010",
       "price": "975"
     },
     {
-      "name": "Ninja Rammus",
+      "name": "NinjaRammus",
       "date": "17-May-2011",
       "price": "975"
     },
     {
-      "name": "Original Rammus",
+      "name": "OriginalRammus",
       "date": "09-Jul-2009",
       "price": "585"
     },
     {
-      "name": "Sweeper Rammus",
+      "name": "SweeperRammus",
       "date": "14-Jun-2018",
       "price": "975"
     }
   ],
   "RekSai": [
     {
-      "name": "Blackfrost Rek'Sai",
+      "name": "BlackfrostRek'Sai",
       "date": "05-Mar-2020",
       "price": "1350"
     },
     {
-      "name": "Eternum Rek'Sai",
+      "name": "EternumRek'Sai",
       "date": "11-Dec-2014",
       "price": "1350"
     },
     {
-      "name": "Original Rek'Sai",
+      "name": "OriginalRek'Sai",
       "date": "11-Dec-2014",
       "price": "975"
     },
     {
-      "name": "Pool Party Rek'Sai",
+      "name": "PoolPartyRek'Sai",
       "date": "25-Jun-2015",
       "price": "1350"
     }
   ],
   "Rell": [
     {
-      "name": "Battle Queen Rell",
+      "name": "BattleQueenRell",
       "date": "10-Dec-2020",
       "price": "1350"
     },
     {
-      "name": "Original Rell",
+      "name": "OriginalRell",
       "date": "10-Dec-2020",
       "price": "975"
     }
   ],
   "Renekton": [
     {
-      "name": "Blackfrost Renekton",
+      "name": "BlackfrostRenekton",
       "date": "05-Mar-2020",
       "price": "1350"
     },
     {
-      "name": "Bloodfury Renekton",
+      "name": "BloodfuryRenekton",
       "date": "26-Jul-2011",
       "price": "975"
     },
     {
-      "name": "Galactic Renekton",
+      "name": "GalacticRenekton",
       "date": "18-Jan-2011",
       "price": "520"
     },
     {
-      "name": "Hextech Renekton",
+      "name": "HextechRenekton",
       "date": "20-Dec-2018",
       "price": "special"
     },
     {
-      "name": "Original Renekton",
+      "name": "OriginalRenekton",
       "date": "18-Jan-2011",
       "price": "880"
     },
     {
-      "name": "Outback Renekton",
+      "name": "OutbackRenekton",
       "date": "18-Jan-2011",
       "price": "520"
     },
     {
-      "name": "Pool Party Renekton",
+      "name": "PoolPartyRenekton",
       "date": "09-Sep-2013",
       "price": "975"
     },
     {
-      "name": "Prehistoric Renekton",
+      "name": "PrehistoricRenekton",
       "date": "14-Jun-2015",
       "price": "750"
     },
@@ -4551,372 +4551,372 @@ let champion={
       "price": "750"
     },
     {
-      "name": "Rune Wars Renekton",
+      "name": "RuneWarsRenekton",
       "date": "30-Apr-2012",
       "price": "975"
     },
     {
-      "name": "SKT T1 Renekton",
+      "name": "SKTT1Renekton",
       "date": "17-Aug-2016",
       "price": "975"
     },
     {
-      "name": "Scorched Earth Renekton",
+      "name": "ScorchedEarthRenekton",
       "date": "10-Feb-2014",
       "price": "975"
     }
   ],
   "Rengar": [
     {
-      "name": "Guardian of the Sands Rengar",
+      "name": "GuardianoftheSandsRengar",
       "date": "22-Jan-2020",
       "price": "1350"
     },
     {
-      "name": "Headhunter Rengar",
+      "name": "HeadhunterRengar",
       "date": "21-Aug-2012",
       "price": "975"
     },
     {
-      "name": "Mecha Rengar",
+      "name": "MechaRengar",
       "date": "09-Nov-2017",
       "price": "1350"
     },
     {
-      "name": "Night Hunter Rengar",
+      "name": "NightHunterRengar",
       "date": "19-May-2014",
       "price": "975"
     },
     {
-      "name": "Original Rengar",
+      "name": "OriginalRengar",
       "date": "21-Aug-2012",
       "price": "880"
     },
     {
-      "name": "Pretty Kitty Rengar",
+      "name": "PrettyKittyRengar",
       "date": "27-Mar-2019",
       "price": "1350"
     },
     {
-      "name": "SSW Rengar",
+      "name": "SSWRengar",
       "date": "13-May-2015",
       "price": "750"
     }
   ],
   "Riven": [
     {
-      "name": "Arcade Riven",
+      "name": "ArcadeRiven",
       "date": "19-Aug-2015",
       "price": "1350"
     },
     {
-      "name": "Battle Bunny Riven",
+      "name": "BattleBunnyRiven",
       "date": "06-Apr-2012",
       "price": "975"
     },
     {
-      "name": "Championship Riven",
+      "name": "ChampionshipRiven",
       "date": "13-Oct-2012",
       "price": "975"
     },
     {
-      "name": "Championship Riven 2016",
+      "name": "ChampionshipRiven2016",
       "date": "25-Sep-2016",
       "price": "975"
     },
     {
-      "name": "Crimson Elite Riven",
+      "name": "CrimsonEliteRiven",
       "date": "14-Sep-2011",
       "price": "520"
     },
     {
-      "name": "Dawnbringer Riven",
+      "name": "DawnbringerRiven",
       "date": "14-Jun-2017",
       "price": "1820"
     },
     {
-      "name": "Dragonblade Riven",
+      "name": "DragonbladeRiven",
       "date": "28-Jan-2014",
       "price": "1350"
     },
     {
-      "name": "Original Riven",
+      "name": "OriginalRiven",
       "date": "14-Sep-2011",
       "price": "880"
     },
     {
-      "name": "Valiant Sword Riven Prestige Edition",
+      "name": "ValiantSwordRivenPrestigeEdition",
       "date": "26-Sep-2019",
       "price": "special"
     },
     {
-      "name": "Pulsefire Riven",
+      "name": "PulsefireRiven",
       "date": "17-May-2018",
       "price": "1350"
     },
     {
-      "name": "Redeemed Riven",
+      "name": "RedeemedRiven",
       "date": "14-Sep-2011",
       "price": "975"
     },
     {
-      "name": "Spirit Blossom Riven",
+      "name": "SpiritBlossomRiven",
       "date": "06-Aug-2020",
       "price": "1350"
     },
     {
-      "name": "Valiant Sword Riven",
+      "name": "ValiantSwordRiven",
       "date": "26-Sep-2019",
       "price": "1350"
     }
   ],
   "Rumble": [
     {
-      "name": "Badlands Baron Rumble",
+      "name": "BadlandsBaronRumble",
       "date": "11-Apr-2018",
       "price": "1350"
     },
     {
-      "name": "Bilgerat Rumble",
+      "name": "BilgeratRumble",
       "date": "26-Apr-2011",
       "price": "520"
     },
     {
-      "name": "Original Rumble",
+      "name": "OriginalRumble",
       "date": "26-Apr-2011",
       "price": "880"
     },
     {
-      "name": "Rumble in the Jungle",
+      "name": "RumbleintheJungle",
       "date": "26-Apr-2011",
       "price": "975"
     },
     {
-      "name": "Super Galaxy Rumble",
+      "name": "SuperGalaxyRumble",
       "date": "02-Apr-2014",
       "price": "1820"
     }
   ],
   "Ryze": [
     {
-      "name": "Championship Ryze",
+      "name": "ChampionshipRyze",
       "date": "26-Sep-2019",
       "price": "1350"
     },
     {
-      "name": "Dark Crystal Ryze",
+      "name": "DarkCrystalRyze",
       "date": "20-Feb-2012",
       "price": "975"
     },
     {
-      "name": "Guardian of the Sands Ryze",
+      "name": "GuardianoftheSandsRyze",
       "date": "22-Jan-2020",
       "price": "1350"
     },
     {
-      "name": "Original Ryze",
+      "name": "OriginalRyze",
       "date": "21-Feb-2009",
       "price": "260"
     },
     {
-      "name": "Pirate Ryze",
+      "name": "PirateRyze",
       "date": "26-Oct-2012",
       "price": "975"
     },
     {
-      "name": "Professor Ryze",
+      "name": "ProfessorRyze",
       "date": "05-Oct-2010",
       "price": "975"
     },
     {
-      "name": "Ryze Whitebeard",
+      "name": "RyzeWhitebeard",
       "date": "07-Dec-2015",
       "price": "750"
     },
     {
-      "name": "SKT T1 Ryze",
+      "name": "SKTT1Ryze",
       "date": "17-Aug-2016",
       "price": "975"
     },
     {
-      "name": "Tribal Ryze",
+      "name": "TribalRyze",
       "date": "04-Mar-2010",
       "price": "520"
     },
     {
-      "name": "Triumphant Ryze",
+      "name": "TriumphantRyze",
       "date": "31-Aug-2010",
       "price": "special"
     },
     {
-      "name": "Uncle Ryze",
+      "name": "UncleRyze",
       "date": "03-Jul-2010",
       "price": "520"
     },
     {
-      "name": "Young Ryze",
+      "name": "YoungRyze",
       "date": "17-Jul-2009",
       "price": "special"
     },
     {
-      "name": "Zombie Ryze",
+      "name": "ZombieRyze",
       "date": "19-Oct-2010",
       "price": "975"
     }
   ],
   "Samira": [
     {
-      "name": "Original Samira",
+      "name": "OriginalSamira",
       "date": "21-Sep-2020",
       "price": "975"
     },
     {
-      "name": "PsyOps Samira",
+      "name": "PsyOpsSamira",
       "date": "21-Sep-2020",
       "price": "1350"
     }
   ],
   "Sejuani": [
     {
-      "name": "Bear Cavalry Sejuani",
+      "name": "BearCavalrySejuani",
       "date": "31-Jul-2013",
       "price": "1350"
     },
     {
-      "name": "Beast Hunter Sejuani",
+      "name": "BeastHunterSejuani",
       "date": "04-Feb-2016",
       "price": "750"
     },
     {
-      "name": "Darkrider Sejuani",
+      "name": "DarkriderSejuani",
       "date": "17-Jan-2012",
       "price": "975"
     },
     {
-      "name": "Firecracker Sejuani",
+      "name": "FirecrackerSejuani",
       "date": "28-Jan-2019",
       "price": "1350"
     },
     {
-      "name": "Hextech Sejuani",
+      "name": "HextechSejuani",
       "date": "05-Mar-2020",
       "price": "special"
     },
     {
-      "name": "Original Sejuani",
+      "name": "OriginalSejuani",
       "date": "17-Jan-2012",
       "price": "880"
     },
     {
-      "name": "Poro Rider Sejuani",
+      "name": "PoroRiderSejuani",
       "date": "15-Dec-2014",
       "price": "975"
     },
     {
-      "name": "Sabretusk Sejuani",
+      "name": "SabretuskSejuani",
       "date": "17-Jan-2012",
       "price": "975"
     },
     {
-      "name": "Sejuani Dawnchaser",
+      "name": "SejuaniDawnchaser",
       "date": "17-Nov-2016",
       "price": "750"
     },
     {
-      "name": "Traditional Sejuani",
+      "name": "TraditionalSejuani",
       "date": "30-Apr-2013",
       "price": "975"
     }
   ],
   "Senna": [
     {
-      "name": "High Noon Senna",
+      "name": "HighNoonSenna",
       "date": "18-Jun-2020",
       "price": "1820"
     },
     {
-      "name": "Original Senna",
+      "name": "OriginalSenna",
       "date": "10-Nov-2019",
       "price": "975"
     },
     {
-      "name": "True Damage Senna Prestige Edition",
+      "name": "TrueDamageSennaPrestigeEdition",
       "date": "04-Feb-2020",
       "price": "special"
     },
     {
-      "name": "True Damage Senna",
+      "name": "TrueDamageSenna",
       "date": "10-Nov-2019",
       "price": "1350"
     }
   ],
   "Seraphine": [
     {
-      "name": "K/DA ALL OUT Seraphine Indie",
+      "name": "K/DAALLOUTSeraphineIndie",
       "date": "29-Oct-2020",
       "price": "3250"
     },
     {
-      "name": "K/DA ALL OUT Seraphine Rising Star",
+      "name": "K/DAALLOUTSeraphineRisingStar",
       "date": "29-Oct-2020",
       "price": "special"
     },
     {
-      "name": "K/DA ALL OUT Seraphine Superstar",
+      "name": "K/DAALLOUTSeraphineSuperstar",
       "date": "29-Oct-2020",
       "price": "special"
     },
     {
-      "name": "Original Seraphine",
+      "name": "OriginalSeraphine",
       "date": "29-Oct-2020",
       "price": "975"
     }
   ],
   "Sett": [
     {
-      "name": "Mecha Kingdoms Sett",
+      "name": "MechaKingdomsSett",
       "date": "14-Jan-2020",
       "price": "1350"
     },
     {
-      "name": "Obsidian Dragon Sett",
+      "name": "ObsidianDragonSett",
       "date": "01-Oct-2020",
       "price": "1350"
     },
     {
-      "name": "Original Sett",
+      "name": "OriginalSett",
       "date": "14-Jan-2020",
       "price": "975"
     },
     {
-      "name": "Obsidian Dragon Sett Prestige Edition",
+      "name": "ObsidianDragonSettPrestigeEdition",
       "date": "01-Oct-2020",
       "price": "special"
     }
   ],
   "Shaco": [
     {
-      "name": "Arcanist Shaco",
+      "name": "ArcanistShaco",
       "date": "09-Jul-2020",
       "price": "1350"
     },
     {
-      "name": "Asylum Shaco",
+      "name": "AsylumShaco",
       "date": "07-Nov-2011",
       "price": "975"
     },
     {
-      "name": "Dark Star Shaco",
+      "name": "DarkStarShaco",
       "date": "13-Jun-2019",
       "price": "1350"
     },
     {
-      "name": "Mad Hatter Shaco",
+      "name": "MadHatterShaco",
       "date": "08-Jun-2010",
       "price": "520"
     },
     {
-      "name": "Masked Shaco",
+      "name": "MaskedShaco",
       "date": "08-Jan-2013",
       "price": "975"
     },
@@ -4926,664 +4926,664 @@ let champion={
       "price": "975"
     },
     {
-      "name": "Original Shaco",
+      "name": "OriginalShaco",
       "date": "09-Oct-2009",
       "price": "790"
     },
     {
-      "name": "Royal Shaco",
+      "name": "RoyalShaco",
       "date": "12-Sep-2010",
       "price": "520"
     },
     {
-      "name": "Wild Card Shaco",
+      "name": "WildCardShaco",
       "date": "20-May-2015",
       "price": "750"
     },
     {
-      "name": "Workshop Shaco",
+      "name": "WorkshopShaco",
       "date": "29-Mar-2011",
       "price": "975"
     }
   ],
   "Shen": [
     {
-      "name": "Blood Moon Shen",
+      "name": "BloodMoonShen",
       "date": "07-Jun-2011",
       "price": "750"
     },
     {
-      "name": "Frozen Shen",
+      "name": "FrozenShen",
       "date": "24-Mar-2010",
       "price": "520"
     },
     {
-      "name": "Infernal Shen",
+      "name": "InfernalShen",
       "date": "05-Sep-2019",
       "price": "1350"
     },
     {
-      "name": "Original Shen",
+      "name": "OriginalShen",
       "date": "24-Mar-2010",
       "price": "790"
     },
     {
-      "name": "PsyOps Shen",
+      "name": "PsyOpsShen",
       "date": "03-Sep-2020",
       "price": "1350"
     },
     {
-      "name": "Pulsefire Shen",
+      "name": "PulsefireShen",
       "date": "17-May-2018",
       "price": "1350"
     },
     {
-      "name": "Surgeon Shen",
+      "name": "SurgeonShen",
       "date": "04-Jan-2011",
       "price": "975"
     },
     {
-      "name": "TPA Shen",
+      "name": "TPAShen",
       "date": "23-May-2013",
       "price": "750"
     },
     {
-      "name": "Warlord Shen",
+      "name": "WarlordShen",
       "date": "17-Apr-2012",
       "price": "975"
     },
     {
-      "name": "Yellow Jacket Shen",
+      "name": "YellowJacketShen",
       "date": "24-Mar-2010",
       "price": "520"
     }
   ],
   "Shyvana": [
     {
-      "name": "Boneclaw Shyvana",
+      "name": "BoneclawShyvana",
       "date": "01-Nov-2011",
       "price": "520"
     },
     {
-      "name": "Championship Shyvana",
+      "name": "ChampionshipShyvana",
       "date": "13-Oct-2014",
       "price": "975"
     },
     {
-      "name": "Darkflame Shyvana",
+      "name": "DarkflameShyvana",
       "date": "28-May-2012",
       "price": "975"
     },
     {
-      "name": "Ice Drake Shyvana",
+      "name": "IceDrakeShyvana",
       "date": "29-Apr-2013",
       "price": "975"
     },
     {
-      "name": "Ironscale Shyvana",
+      "name": "IronscaleShyvana",
       "date": "01-Nov-2011",
       "price": "750"
     },
     {
-      "name": "Original Shyvana",
+      "name": "OriginalShyvana",
       "date": "01-Nov-2011",
       "price": "790"
     },
     {
-      "name": "Ruined Shyvana",
+      "name": "RuinedShyvana",
       "date": "21-Jan-2021",
       "price": "1350"
     },
     {
-      "name": "Super Galaxy Shyvana",
+      "name": "SuperGalaxyShyvana",
       "date": "25-May-2016",
       "price": "1350"
     }
   ],
   "Singed": [
     {
-      "name": "Augmented Singed",
+      "name": "AugmentedSinged",
       "date": "09-Jul-2012",
       "price": "975"
     },
     {
-      "name": "Beekeeper Singed",
+      "name": "BeekeeperSinged",
       "date": "11-Oct-2017",
       "price": "1350"
     },
     {
-      "name": "Black Scourge Singed",
+      "name": "BlackScourgeSinged",
       "date": "04-May-2016",
       "price": "750"
     },
     {
-      "name": "Hextech Singed",
+      "name": "HextechSinged",
       "date": "15-Aug-2010",
       "price": "520"
     },
     {
-      "name": "Mad Scientist Singed",
+      "name": "MadScientistSinged",
       "date": "26-Sep-2011",
       "price": "750"
     },
     {
-      "name": "Original Singed",
+      "name": "OriginalSinged",
       "date": "17-Apr-2009",
       "price": "260"
     },
     {
-      "name": "Resistance Singed",
+      "name": "ResistanceSinged",
       "date": "12-Nov-2020",
       "price": "1350"
     },
     {
-      "name": "Riot Squad Singed",
+      "name": "RiotSquadSinged",
       "date": "25-Jun-2010",
       "price": "975"
     },
     {
-      "name": "SSW Singed",
+      "name": "SSWSinged",
       "date": "13-May-2015",
       "price": "750"
     },
     {
-      "name": "Snow Day Singed",
+      "name": "SnowDaySinged",
       "date": "19-Dec-2013",
       "price": "975"
     },
     {
-      "name": "Surfer Singed",
+      "name": "SurferSinged",
       "date": "06-Dec-2010",
       "price": "975"
     }
   ],
   "Sion": [
     {
-      "name": "Barbarian Sion",
+      "name": "BarbarianSion",
       "date": "26-Sep-2010",
       "price": "750"
     },
     {
-      "name": "Hextech Sion",
+      "name": "HextechSion",
       "date": "01-Jun-2010",
       "price": "520"
     },
     {
-      "name": "Lumberjack Sion",
+      "name": "LumberjackSion",
       "date": "24-Jan-2011",
       "price": "520"
     },
     {
-      "name": "Mecha Zero Sion",
+      "name": "MechaZeroSion",
       "date": "13-Apr-2016",
       "price": "1820"
     },
     {
-      "name": "Original Sion",
+      "name": "OriginalSion",
       "date": "21-Feb-2009",
       "price": "585"
     },
     {
-      "name": "Warmonger Sion",
+      "name": "WarmongerSion",
       "date": "18-Jul-2011",
       "price": "975"
     },
     {
-      "name": "Worldbreaker Sion",
+      "name": "WorldbreakerSion",
       "date": "09-Apr-2020",
       "price": "1350"
     }
   ],
   "Sivir": [
     {
-      "name": "Bandit Sivir",
+      "name": "BanditSivir",
       "date": "21-Mar-2011",
       "price": "750"
     },
     {
-      "name": "Blood Moon Sivir",
+      "name": "BloodMoonSivir",
       "date": "10-Jan-2019",
       "price": "1350"
     },
     {
-      "name": "Huntress Sivir",
+      "name": "HuntressSivir",
       "date": "07-Feb-2011",
       "price": "special"
     },
     {
-      "name": "Neo PAX Sivir",
+      "name": "NeoPAXSivir",
       "date": "30-Aug-2017",
       "price": "special"
     },
     {
-      "name": "Odyssey Sivir",
+      "name": "OdysseySivir",
       "date": "15-Oct-2020",
       "price": "1350"
     },
     {
-      "name": "Original Sivir",
+      "name": "OriginalSivir",
       "date": "21-Feb-2009",
       "price": "260"
     },
     {
-      "name": "PAX Sivir",
+      "name": "PAXSivir",
       "date": "25-Aug-2011",
       "price": "special"
     },
     {
-      "name": "Pizza Delivery Sivir",
+      "name": "PizzaDeliverySivir",
       "date": "29-Mar-2018",
       "price": "1350"
     },
     {
-      "name": "Snowstorm Sivir",
+      "name": "SnowstormSivir",
       "date": "19-Dec-2013",
       "price": "975"
     },
     {
-      "name": "Spectacular Sivir",
+      "name": "SpectacularSivir",
       "date": "08-Jun-2010",
       "price": "975"
     },
     {
-      "name": "Victorious Sivir",
+      "name": "VictoriousSivir",
       "date": "12-Nov-2015",
       "price": "special"
     },
     {
-      "name": "Warden Sivir",
+      "name": "WardenSivir",
       "date": "17-Feb-2015",
       "price": "750"
     },
     {
-      "name": "Warrior Princess Sivir",
+      "name": "WarriorPrincessSivir",
       "date": "27-Apr-2010",
       "price": "520"
     }
   ],
   "Skarner": [
     {
-      "name": "Battlecast Alpha Skarner",
+      "name": "BattlecastAlphaSkarner",
       "date": "25-Nov-2014",
       "price": "1820"
     },
     {
-      "name": "Cosmic Sting Skarner",
+      "name": "CosmicStingSkarner",
       "date": "24-Nov-2020",
       "price": "1350"
     },
     {
-      "name": "Earthrune Skarner",
+      "name": "EarthruneSkarner",
       "date": "09-Aug-2011",
       "price": "520"
     },
     {
-      "name": "Guardian of the Sands Skarner",
+      "name": "GuardianoftheSandsSkarner",
       "date": "26-Apr-2015",
       "price": "975"
     },
     {
-      "name": "Original Skarner",
+      "name": "OriginalSkarner",
       "date": "09-Aug-2011",
       "price": "880"
     },
     {
-      "name": "Sandscourge Skarner",
+      "name": "SandscourgeSkarner",
       "date": "09-Aug-2011",
       "price": "975"
     }
   ],
   "Sona": [
     {
-      "name": "Arcade Sona",
+      "name": "ArcadeSona",
       "date": "31-Aug-2012",
       "price": "1350"
     },
     {
-      "name": "DJ Sona",
+      "name": "DJSona",
       "date": "25-Feb-2015",
       "price": "3250"
     },
     {
-      "name": "Guqin Sona",
+      "name": "GuqinSona",
       "date": "10-Jan-2012",
       "price": "975"
     },
     {
-      "name": "Muse Sona",
+      "name": "MuseSona",
       "date": "21-Sep-2010",
       "price": "975"
     },
     {
-      "name": "Odyssey Sona",
+      "name": "OdysseySona",
       "date": "12-Sep-2018",
       "price": "1350"
     },
     {
-      "name": "Original Sona",
+      "name": "OriginalSona",
       "date": "21-Sep-2010",
       "price": "790"
     },
     {
-      "name": "Pentakill Sona",
+      "name": "PentakillSona",
       "date": "21-Sep-2010",
       "price": "975"
     },
     {
-      "name": "PsyOps Sona",
+      "name": "PsyOpsSona",
       "date": "03-Sep-2020",
       "price": "1820"
     },
     {
-      "name": "Silent Night Sona",
+      "name": "SilentNightSona",
       "date": "14-Dec-2010",
       "price": "520"
     },
     {
-      "name": "Sweetheart Sona",
+      "name": "SweetheartSona",
       "date": "11-Feb-2016",
       "price": "975"
     }
   ],
   "Soraka": [
     {
-      "name": "Celestine Soraka",
+      "name": "CelestineSoraka",
       "date": "05-Mar-2013",
       "price": "975"
     },
     {
-      "name": "Dawnbringer Soraka",
+      "name": "DawnbringerSoraka",
       "date": "12-Dec-2019",
       "price": "1820"
     },
     {
-      "name": "Divine Soraka",
+      "name": "DivineSoraka",
       "date": "02-Nov-2010",
       "price": "975"
     },
     {
-      "name": "Dryad Soraka",
+      "name": "DryadSoraka",
       "date": "03-Jun-2010",
       "price": "520"
     },
     {
-      "name": "Nightbringer Soraka",
+      "name": "NightbringerSoraka",
       "date": "12-Dec-2019",
       "price": "1820"
     },
     {
-      "name": "Order of the Banana Soraka",
+      "name": "OrderoftheBananaSoraka",
       "date": "31-Mar-2015",
       "price": "750"
     },
     {
-      "name": "Original Soraka",
+      "name": "OriginalSoraka",
       "date": "21-Feb-2009",
       "price": "260"
     },
     {
-      "name": "Pajama Guardian Soraka",
+      "name": "PajamaGuardianSoraka",
       "date": "21-Nov-2018",
       "price": "1350"
     },
     {
-      "name": "Star Guardian Soraka Prestige Edition",
+      "name": "StarGuardianSorakaPrestigeEdition",
       "date": "24-Nov-2020",
       "price": "special"
     },
     {
-      "name": "Program Soraka",
+      "name": "ProgramSoraka",
       "date": "06-Apr-2016",
       "price": "1350"
     },
     {
-      "name": "Reaper Soraka",
+      "name": "ReaperSoraka",
       "date": "05-Nov-2014",
       "price": "1350"
     },
     {
-      "name": "Star Guardian Soraka",
+      "name": "StarGuardianSoraka",
       "date": "06-Sep-2017",
       "price": "1350"
     },
     {
-      "name": "Winter Wonder Soraka",
+      "name": "WinterWonderSoraka",
       "date": "06-Dec-2018",
       "price": "1350"
     }
   ],
   "Swain": [
     {
-      "name": "Bilgewater Swain",
+      "name": "BilgewaterSwain",
       "date": "05-Oct-2010",
       "price": "520"
     },
     {
-      "name": "Crystal Rose Swain",
+      "name": "CrystalRoseSwain",
       "date": "11-Feb-2021",
       "price": "1350"
     },
     {
-      "name": "Dragon Master Swain",
+      "name": "DragonMasterSwain",
       "date": "22-Feb-2018",
       "price": "1350"
     },
     {
-      "name": "Hextech Swain",
+      "name": "HextechSwain",
       "date": "12-Dec-2019",
       "price": "special"
     },
     {
-      "name": "Northern Front Swain",
+      "name": "NorthernFrontSwain",
       "date": "05-Oct-2010",
       "price": "750"
     },
     {
-      "name": "Original Swain",
+      "name": "OriginalSwain",
       "date": "05-Oct-2010",
       "price": "880"
     },
     {
-      "name": "Tyrant Swain",
+      "name": "TyrantSwain",
       "date": "22-May-2012",
       "price": "1350"
     }
   ],
   "Sylas": [
     {
-      "name": "Freljord Sylas",
+      "name": "FreljordSylas",
       "date": "10-Jan-2020",
       "price": "1350"
     },
     {
-      "name": "Lunar Wraith Sylas",
+      "name": "LunarWraithSylas",
       "date": "25-Jan-2019",
       "price": "1350"
     },
     {
-      "name": "Original Sylas",
+      "name": "OriginalSylas",
       "date": "25-Jan-2019",
       "price": "975"
     }
   ],
   "Syndra": [
     {
-      "name": "Atlantean Syndra",
+      "name": "AtlanteanSyndra",
       "date": "29-Apr-2014",
       "price": "975"
     },
     {
-      "name": "Justicar Syndra",
+      "name": "JusticarSyndra",
       "date": "12-Sep-2012",
       "price": "975"
     },
     {
-      "name": "Original Syndra",
+      "name": "OriginalSyndra",
       "date": "12-Sep-2012",
       "price": "880"
     },
     {
-      "name": "Pool Party Syndra",
+      "name": "PoolPartySyndra",
       "date": "02-Jul-2020",
       "price": "1350"
     },
     {
-      "name": "Queen of Diamonds Syndra",
+      "name": "QueenofDiamondsSyndra",
       "date": "20-May-2015",
       "price": "750"
     },
     {
-      "name": "SKT T1 Syndra",
+      "name": "SKTT1Syndra",
       "date": "27-Jun-2017",
       "price": "1350"
     },
     {
-      "name": "Snow Day Syndra",
+      "name": "SnowDaySyndra",
       "date": "10-Dec-2015",
       "price": "1350"
     },
     {
-      "name": "Star Guardian Syndra",
+      "name": "StarGuardianSyndra",
       "date": "06-Sep-2017",
       "price": "1350"
     },
     {
-      "name": "Withered Rose Syndra",
+      "name": "WitheredRoseSyndra",
       "date": "11-Feb-2021",
       "price": "1350"
     }
   ],
-  "Tahm Kench": [
+  "TahmKench": [
     {
-      "name": "Coin Emperor Tahm Kench",
+      "name": "CoinEmperorTahmKench",
       "date": "28-Jan-2019",
       "price": "1350"
     },
     {
-      "name": "Master Chef Tahm Kench",
+      "name": "MasterChefTahmKench",
       "date": "08-Jul-2015",
       "price": "975"
     },
     {
-      "name": "Original Tahm Kench",
+      "name": "OriginalTahmKench",
       "date": "08-Jul-2015",
       "price": "975"
     },
     {
-      "name": "Urf Kench",
+      "name": "UrfKench",
       "date": "31-Mar-2016",
       "price": "750"
     }
   ],
   "Taliyah": [
     {
-      "name": "Freljord Taliyah",
+      "name": "FreljordTaliyah",
       "date": "17-May-2016",
       "price": "1350"
     },
     {
-      "name": "Original Taliyah",
+      "name": "OriginalTaliyah",
       "date": "17-May-2016",
       "price": "975"
     },
     {
-      "name": "Pool Party Taliyah",
+      "name": "PoolPartyTaliyah",
       "date": "02-Jul-2020",
       "price": "1350"
     },
     {
-      "name": "SSG Taliyah",
+      "name": "SSGTaliyah",
       "date": "20-Jul-2018",
       "price": "1350"
     }
   ],
   "Talon": [
     {
-      "name": "Blood Moon Talon",
+      "name": "BloodMoonTalon",
       "date": "09-Feb-2017",
       "price": "1350"
     },
     {
-      "name": "Crimson Elite Talon",
+      "name": "CrimsonEliteTalon",
       "date": "24-Aug-2011",
       "price": "750"
     },
     {
-      "name": "Dragonblade Talon",
+      "name": "DragonbladeTalon",
       "date": "10-Jan-2012",
       "price": "975"
     },
     {
-      "name": "Enduring Sword Talon",
+      "name": "EnduringSwordTalon",
       "date": "04-Sep-2018",
       "price": "1350"
     },
     {
-      "name": "Original Talon",
+      "name": "OriginalTalon",
       "date": "24-Aug-2011",
       "price": "880"
     },
     {
-      "name": "Renegade Talon",
+      "name": "RenegadeTalon",
       "date": "24-Aug-2011",
       "price": "520"
     },
     {
-      "name": "SSW Talon",
+      "name": "SSWTalon",
       "date": "13-May-2015",
       "price": "750"
     },
     {
-      "name": "Talon Blackwood",
+      "name": "TalonBlackwood",
       "date": "19-Mar-2020",
       "price": "1350"
     },
     {
-      "name": "Withered Rose Talon",
+      "name": "WitheredRoseTalon",
       "date": "11-Feb-2021",
       "price": "1350"
     }
   ],
   "Taric": [
     {
-      "name": "Armor of the Fifth Age Taric",
+      "name": "ArmoroftheFifthAgeTaric",
       "date": "08-Apr-2010",
       "price": "750"
     },
     {
-      "name": "Bloodstone Taric",
+      "name": "BloodstoneTaric",
       "date": "09-Aug-2011",
       "price": "975"
     },
     {
-      "name": "Emerald Taric",
+      "name": "EmeraldTaric",
       "date": "20-Nov-2009",
       "price": "520"
     },
     {
-      "name": "Original Taric",
+      "name": "OriginalTaric",
       "date": "18-Aug-2009",
       "price": "585"
     },
     {
-      "name": "Pool Party Taric",
+      "name": "PoolPartyTaric",
       "date": "13-Jul-2016",
       "price": "1350"
     },
     {
-      "name": "Taric Luminshield",
+      "name": "TaricLuminshield",
       "date": "19-Mar-2020",
       "price": "1350"
     }
   ],
   "Teemo": [
     {
-      "name": "Astronaut Teemo",
+      "name": "AstronautTeemo",
       "date": "27-Oct-2010",
       "price": "1350"
     },
     {
-      "name": "Badger Teemo",
+      "name": "BadgerTeemo",
       "date": "13-Jan-2010",
       "price": "520"
     },
@@ -5593,1127 +5593,1127 @@ let champion={
       "price": "1350"
     },
     {
-      "name": "Cottontail Teemo",
+      "name": "CottontailTeemo",
       "date": "18-Apr-2011",
       "price": "975"
     },
     {
-      "name": "Happy Elf Teemo",
+      "name": "HappyElfTeemo",
       "date": "17-Dec-2009",
       "price": "520"
     },
     {
-      "name": "Little Devil Teemo",
+      "name": "LittleDevilTeemo",
       "date": "19-Oct-2016",
       "price": "1350"
     },
     {
-      "name": "Omega Squad Teemo",
+      "name": "OmegaSquadTeemo",
       "date": "08-Apr-2015",
       "price": "1820"
     },
     {
-      "name": "Original Teemo",
+      "name": "OriginalTeemo",
       "date": "21-Feb-2009",
       "price": "585"
     },
     {
-      "name": "Panda Teemo",
+      "name": "PandaTeemo",
       "date": "09-Jul-2012",
       "price": "975"
     },
     {
-      "name": "Spirit Blossom Teemo Prestige Edition",
+      "name": "SpiritBlossomTeemoPrestigeEdition",
       "date": "22-Jul-2020",
       "price": "special"
     },
     {
-      "name": "Recon Teemo",
+      "name": "ReconTeemo",
       "date": "17-Dec-2009",
       "price": "520"
     },
     {
-      "name": "Spirit Blossom Teemo",
+      "name": "SpiritBlossomTeemo",
       "date": "22-Jul-2020",
       "price": "1350"
     },
     {
-      "name": "Super Teemo",
+      "name": "SuperTeemo",
       "date": "10-Oct-2011",
       "price": "975"
     }
   ],
   "Thresh": [
     {
-      "name": "Blood Moon Thresh",
+      "name": "BloodMoonThresh",
       "date": "08-Jan-2015",
       "price": "975"
     },
     {
-      "name": "Championship Thresh",
+      "name": "ChampionshipThresh",
       "date": "03-Oct-2013",
       "price": "975"
     },
     {
-      "name": "Dark Star Thresh",
+      "name": "DarkStarThresh",
       "date": "15-Jun-2016",
       "price": "1820"
     },
     {
-      "name": "Deep Terror Thresh",
+      "name": "DeepTerrorThresh",
       "date": "23-Jan-2013",
       "price": "975"
     },
     {
-      "name": "FPX Thresh",
+      "name": "FPXThresh",
       "date": "30-Apr-2020",
       "price": "1350"
     },
     {
-      "name": "High Noon Thresh",
+      "name": "HighNoonThresh",
       "date": "30-Aug-2018",
       "price": "1350"
     },
     {
-      "name": "Original Thresh",
+      "name": "OriginalThresh",
       "date": "23-Jan-2013",
       "price": "880"
     },
     {
-      "name": "Pulsefire Thresh Prestige Edition",
+      "name": "PulsefireThreshPrestigeEdition",
       "date": "21-Nov-2019",
       "price": "special"
     },
     {
-      "name": "Pulsefire Thresh",
+      "name": "PulsefireThresh",
       "date": "21-Nov-2019",
       "price": "1350"
     },
     {
-      "name": "SSW Thresh",
+      "name": "SSWThresh",
       "date": "13-May-2015",
       "price": "750"
     },
     {
-      "name": "Spirit Blossom Thresh",
+      "name": "SpiritBlossomThresh",
       "date": "22-Jul-2020",
       "price": "1820"
     }
   ],
   "Tristana": [
     {
-      "name": "Bewitching Tristana",
+      "name": "BewitchingTristana",
       "date": "19-Oct-2016",
       "price": "1350"
     },
     {
-      "name": "Buccaneer Tristana",
+      "name": "BuccaneerTristana",
       "date": "27-Jun-2011",
       "price": "520"
     },
     {
-      "name": "Dragon Trainer Tristana",
+      "name": "DragonTrainerTristana",
       "date": "03-Dec-2015",
       "price": "1820"
     },
     {
-      "name": "Earnest Elf Tristana",
+      "name": "EarnestElfTristana",
       "date": "31-Dec-2009",
       "price": "520"
     },
     {
-      "name": "Firefighter Tristana",
+      "name": "FirefighterTristana",
       "date": "03-Jun-2010",
       "price": "1820"
     },
     {
-      "name": "Guerilla Tristana",
+      "name": "GuerillaTristana",
       "date": "10-Aug-2010",
       "price": "975"
     },
     {
-      "name": "Little Demon Tristana",
+      "name": "LittleDemonTristana",
       "date": "30-May-2019",
       "price": "1350"
     },
     {
-      "name": "Omega Squad Tristana",
+      "name": "OmegaSquadTristana",
       "date": "26-Jul-2017",
       "price": "1350"
     },
     {
-      "name": "Original Tristana",
+      "name": "OriginalTristana",
       "date": "21-Feb-2009",
       "price": "585"
     },
     {
-      "name": "Pengu Cosplay Tristana",
+      "name": "PenguCosplayTristana",
       "date": "01-Apr-2020",
       "price": "1350"
     },
     {
-      "name": "Riot Girl Tristana",
+      "name": "RiotGirlTristana",
       "date": "15-Dec-2009",
       "price": "special"
     },
     {
-      "name": "Rocket Girl Tristana",
+      "name": "RocketGirlTristana",
       "date": "19-Oct-2012",
       "price": "975"
     }
   ],
   "Trundle": [
     {
-      "name": "Constable Trundle",
+      "name": "ConstableTrundle",
       "date": "28-Nov-2014",
       "price": "750"
     },
     {
-      "name": "Dragonslayer Trundle",
+      "name": "DragonslayerTrundle",
       "date": "30-Jan-2020",
       "price": "1350"
     },
     {
-      "name": "Junkyard Trundle",
+      "name": "JunkyardTrundle",
       "date": "01-Dec-2010",
       "price": "750"
     },
     {
-      "name": "Lil' Slugger Trundle",
+      "name": "Lil'SluggerTrundle",
       "date": "01-Dec-2010",
       "price": "520"
     },
     {
-      "name": "Original Trundle",
+      "name": "OriginalTrundle",
       "date": "01-Dec-2010",
       "price": "880"
     },
     {
-      "name": "Traditional Trundle",
+      "name": "TraditionalTrundle",
       "date": "30-Apr-2013",
       "price": "975"
     },
     {
-      "name": "Worldbreaker Trundle",
+      "name": "WorldbreakerTrundle",
       "date": "10-Nov-2016",
       "price": "750"
     }
   ],
   "Tryndamere": [
     {
-      "name": "Beast Hunter Tryndamere",
+      "name": "BeastHunterTryndamere",
       "date": "04-Feb-2016",
       "price": "750"
     },
     {
-      "name": "Blood Moon Tryndamere",
+      "name": "BloodMoonTryndamere",
       "date": "20-Feb-2020",
       "price": "1350"
     },
     {
-      "name": "Chemtech Tryndamere",
+      "name": "ChemtechTryndamere",
       "date": "05-Jun-2017",
       "price": "975"
     },
     {
-      "name": "Demonblade Tryndamere",
+      "name": "DemonbladeTryndamere",
       "date": "01-Aug-2011",
       "price": "1820"
     },
     {
-      "name": "Highland Tryndamere",
+      "name": "HighlandTryndamere",
       "date": "16-Mar-2010",
       "price": "520"
     },
     {
-      "name": "King Tryndamere",
+      "name": "KingTryndamere",
       "date": "21-Sep-2010",
       "price": "520"
     },
     {
-      "name": "Nightmare Tryndamere",
+      "name": "NightmareTryndamere",
       "date": "07-Jun-2015",
       "price": "750"
     },
     {
-      "name": "Original Tryndamere",
+      "name": "OriginalTryndamere",
       "date": "30-Apr-2009",
       "price": "585"
     },
     {
-      "name": "Sultan Tryndamere",
+      "name": "SultanTryndamere",
       "date": "26-Sep-2012",
       "price": "975"
     },
     {
-      "name": "Viking Tryndamere",
+      "name": "VikingTryndamere",
       "date": "24-Jun-2011",
       "price": "750"
     },
     {
-      "name": "Warring Kingdoms Tryndamere",
+      "name": "WarringKingdomsTryndamere",
       "date": "28-Jan-2014",
       "price": "975"
     }
   ],
-  "Twisted Fate": [
+  "TwistedFate": [
     {
-      "name": "Blood Moon Twisted Fate",
+      "name": "BloodMoonTwistedFate",
       "date": "09-Feb-2017",
       "price": "1350"
     },
     {
-      "name": "Cutpurse Twisted Fate",
+      "name": "CutpurseTwistedFate",
       "date": "21-Jul-2015",
       "price": "750"
     },
     {
-      "name": "High Noon Twisted Fate",
+      "name": "HighNoonTwistedFate",
       "date": "17-May-2011",
       "price": "975"
     },
     {
-      "name": "Jack of Hearts Twisted Fate",
+      "name": "JackofHeartsTwistedFate",
       "date": "10-Feb-2010",
       "price": "520"
     },
     {
-      "name": "Musketeer Twisted Fate",
+      "name": "MusketeerTwistedFate",
       "date": "21-Nov-2011",
       "price": "750"
     },
     {
-      "name": "Odyssey Twisted Fate",
+      "name": "OdysseyTwistedFate",
       "date": "15-Oct-2020",
       "price": "1350"
     },
     {
-      "name": "Original Twisted Fate",
+      "name": "OriginalTwistedFate",
       "date": "21-Feb-2009",
       "price": "585"
     },
     {
-      "name": "PAX Twisted Fate",
+      "name": "PAXTwistedFate",
       "date": "03-Sep-2009",
       "price": "special"
     },
     {
-      "name": "Pulsefire Twisted Fate",
+      "name": "PulsefireTwistedFate",
       "date": "17-May-2018",
       "price": "1350"
     },
     {
-      "name": "Red Card Twisted Fate",
+      "name": "RedCardTwistedFate",
       "date": "18-Jun-2014",
       "price": "750"
     },
     {
-      "name": "Tango Twisted Fate",
+      "name": "TangoTwistedFate",
       "date": "05-Oct-2010",
       "price": "520"
     },
     {
-      "name": "The Magnificent Twisted Fate",
+      "name": "TheMagnificentTwistedFate",
       "date": "17-May-2010",
       "price": "1820"
     },
     {
-      "name": "Underworld Twisted Fate",
+      "name": "UnderworldTwistedFate",
       "date": "26-Oct-2012",
       "price": "975"
     }
   ],
   "Twitch": [
     {
-      "name": "Crime City Twitch",
+      "name": "CrimeCityTwitch",
       "date": "13-Oct-2010",
       "price": "975"
     },
     {
-      "name": "Ice King Twitch",
+      "name": "IceKingTwitch",
       "date": "06-Dec-2018",
       "price": "1350"
     },
     {
-      "name": "Kingpin Twitch",
+      "name": "KingpinTwitch",
       "date": "20-Nov-2009",
       "price": "520"
     },
     {
-      "name": "Medieval Twitch",
+      "name": "MedievalTwitch",
       "date": "15-Dec-2009",
       "price": "2400"
     },
     {
-      "name": "Omega Squad Twitch",
+      "name": "OmegaSquadTwitch",
       "date": "26-Jul-2017",
       "price": "1350"
     },
     {
-      "name": "Original Twitch",
+      "name": "OriginalTwitch",
       "date": "30-Apr-2009",
       "price": "790"
     },
     {
-      "name": "Pickpocket Twitch",
+      "name": "PickpocketTwitch",
       "date": "28-Nov-2014",
       "price": "750"
     },
     {
-      "name": "SSW Twitch",
+      "name": "SSWTwitch",
       "date": "13-May-2015",
       "price": "750"
     },
     {
-      "name": "Twitch Shadowfoot",
+      "name": "TwitchShadowfoot",
       "date": "19-Mar-2020",
       "price": "1350"
     },
     {
-      "name": "Vandal Twitch",
+      "name": "VandalTwitch",
       "date": "22-Feb-2011",
       "price": "975"
     },
     {
-      "name": "Whistler Village Twitch",
+      "name": "WhistlerVillageTwitch",
       "date": "12-Feb-2010",
       "price": "520"
     }
   ],
   "Udyr": [
     {
-      "name": "Black Belt Udyr",
+      "name": "BlackBeltUdyr",
       "date": "18-Jul-2010",
       "price": "520"
     },
     {
-      "name": "Definitely Not Udyr",
+      "name": "DefinitelyNotUdyr",
       "date": "31-Mar-2015",
       "price": "975"
     },
     {
-      "name": "Dragon Oracle Udyr",
+      "name": "DragonOracleUdyr",
       "date": "15-Aug-2019",
       "price": "1350"
     },
     {
-      "name": "Original Udyr",
+      "name": "OriginalUdyr",
       "date": "02-Dec-2009",
       "price": "585"
     },
     {
-      "name": "Primal Udyr",
+      "name": "PrimalUdyr",
       "date": "06-Dec-2010",
       "price": "975"
     },
     {
-      "name": "Spirit Guard Udyr",
+      "name": "SpiritGuardUdyr",
       "date": "16-Jul-2013",
       "price": "3250"
     }
   ],
   "Urgot": [
     {
-      "name": "Battlecast Urgot",
+      "name": "BattlecastUrgot",
       "date": "05-Mar-2012",
       "price": "1350"
     },
     {
-      "name": "Butcher Urgot",
+      "name": "ButcherUrgot",
       "date": "24-Aug-2010",
       "price": "520"
     },
     {
-      "name": "Giant Enemy Crabgot",
+      "name": "GiantEnemyCrabgot",
       "date": "24-Aug-2010",
       "price": "520"
     },
     {
-      "name": "High Noon Urgot",
+      "name": "HighNoonUrgot",
       "date": "30-Aug-2018",
       "price": "1350"
     },
     {
-      "name": "Original Urgot",
+      "name": "OriginalUrgot",
       "date": "24-Aug-2010",
       "price": "790"
     },
     {
-      "name": "Pajama Guardian Cosplay Urgot",
+      "name": "PajamaGuardianCosplayUrgot",
       "date": "01-Apr-2020",
       "price": "1350"
     }
   ],
   "Varus": [
     {
-      "name": "Arclight Varus",
+      "name": "ArclightVarus",
       "date": "05-Dec-2012",
       "price": "975"
     },
     {
-      "name": "Arctic Ops Varus",
+      "name": "ArcticOpsVarus",
       "date": "20-Mar-2014",
       "price": "1350"
     },
     {
-      "name": "Blight Crystal Varus",
+      "name": "BlightCrystalVarus",
       "date": "08-May-2012",
       "price": "975"
     },
     {
-      "name": "Conqueror Varus",
+      "name": "ConquerorVarus",
       "date": "25-Apr-2018",
       "price": "975"
     },
     {
-      "name": "Cosmic Hunter Varus",
+      "name": "CosmicHunterVarus",
       "date": "24-Nov-2020",
       "price": "1350"
     },
     {
-      "name": "Dark Star Varus",
+      "name": "DarkStarVarus",
       "date": "15-Jun-2016",
       "price": "1350"
     },
     {
-      "name": "Heartseeker Varus",
+      "name": "HeartseekerVarus",
       "date": "13-Feb-2015",
       "price": "1350"
     },
     {
-      "name": "Infernal Varus",
+      "name": "InfernalVarus",
       "date": "05-Sep-2019",
       "price": "1350"
     },
     {
-      "name": "Original Varus",
+      "name": "OriginalVarus",
       "date": "08-May-2012",
       "price": "880"
     },
     {
-      "name": "Varus Swiftbolt",
+      "name": "VarusSwiftbolt",
       "date": "07-Dec-2015",
       "price": "750"
     }
   ],
   "Vayne": [
     {
-      "name": "Arclight Vayne",
+      "name": "ArclightVayne",
       "date": "20-Apr-2015",
       "price": "975"
     },
     {
-      "name": "Aristocrat Vayne",
+      "name": "AristocratVayne",
       "date": "10-May-2011",
       "price": "520"
     },
     {
-      "name": "Dragonslayer Vayne",
+      "name": "DragonslayerVayne",
       "date": "24-Aug-2011",
       "price": "975"
     },
     {
-      "name": "FPX Vayne",
+      "name": "FPXVayne",
       "date": "30-Apr-2020",
       "price": "1350"
     },
     {
-      "name": "Firecracker Vayne",
+      "name": "FirecrackerVayne",
       "date": "28-Jan-2019",
       "price": "1350"
     },
     {
-      "name": "Heartseeker Vayne",
+      "name": "HeartseekerVayne",
       "date": "14-Feb-2012",
       "price": "975"
     },
     {
-      "name": "Original Vayne",
+      "name": "OriginalVayne",
       "date": "10-May-2011",
       "price": "880"
     },
     {
-      "name": "PROJECT: Vayne",
+      "name": "PROJECT:Vayne",
       "date": "22-Nov-2017",
       "price": "1820"
     },
     {
-      "name": "Firecracker Vayne Prestige Edition",
+      "name": "FirecrackerVaynePrestigeEdition",
       "date": "28-Jan-2019",
       "price": "special"
     },
     {
-      "name": "SKT T1 Vayne",
+      "name": "SKTT1Vayne",
       "date": "04-May-2014",
       "price": "750"
     },
     {
-      "name": "Soulstealer Vayne",
+      "name": "SoulstealerVayne",
       "date": "28-Jul-2016",
       "price": "special"
     },
     {
-      "name": "Spirit Blossom Vayne",
+      "name": "SpiritBlossomVayne",
       "date": "22-Jul-2020",
       "price": "1350"
     },
     {
-      "name": "Vindicator Vayne",
+      "name": "VindicatorVayne",
       "date": "10-May-2011",
       "price": "520"
     }
   ],
   "Veigar": [
     {
-      "name": "Bad Santa Veigar",
+      "name": "BadSantaVeigar",
       "date": "14-Dec-2012",
       "price": "975"
     },
     {
-      "name": "Baron Von Veigar",
+      "name": "BaronVonVeigar",
       "date": "27-Jun-2011",
       "price": "975"
     },
     {
-      "name": "Curling Veigar",
+      "name": "CurlingVeigar",
       "date": "12-Feb-2010",
       "price": "520"
     },
     {
-      "name": "Elderwood Veigar",
+      "name": "ElderwoodVeigar",
       "date": "29-Aug-2019",
       "price": "1350"
     },
     {
-      "name": "Final Boss Veigar",
+      "name": "FinalBossVeigar",
       "date": "27-Aug-2014",
       "price": "1820"
     },
     {
-      "name": "Furyhorn Cosplay Veigar",
+      "name": "FuryhornCosplayVeigar",
       "date": "01-Apr-2020",
       "price": "1350"
     },
     {
-      "name": "Leprechaun Veigar",
+      "name": "LeprechaunVeigar",
       "date": "15-Mar-2011",
       "price": "520"
     },
     {
-      "name": "Omega Squad Veigar",
+      "name": "OmegaSquadVeigar",
       "date": "26-Jul-2017",
       "price": "1350"
     },
     {
-      "name": "Original Veigar",
+      "name": "OriginalVeigar",
       "date": "23-Jul-2009",
       "price": "585"
     },
     {
-      "name": "Superb Villain Veigar",
+      "name": "SuperbVillainVeigar",
       "date": "02-Jan-2012",
       "price": "975"
     },
     {
-      "name": "Veigar Greybeard",
+      "name": "VeigarGreybeard",
       "date": "08-Sep-2010",
       "price": "750"
     },
     {
-      "name": "White Mage Veigar",
+      "name": "WhiteMageVeigar",
       "date": "17-Dec-2009",
       "price": "390"
     }
   ],
   "VelKoz": [
     {
-      "name": "Arclight Vel'Koz",
+      "name": "ArclightVel'Koz",
       "date": "28-Jan-2015",
       "price": "1350"
     },
     {
-      "name": "Battlecast Vel'Koz",
+      "name": "BattlecastVel'Koz",
       "date": "27-Feb-2014",
       "price": "1350"
     },
     {
-      "name": "Definitely Not Vel'Koz",
+      "name": "DefinitelyNotVel'Koz",
       "date": "31-Mar-2016",
       "price": "750"
     },
     {
-      "name": "Infernal Vel'Koz",
+      "name": "InfernalVel'Koz",
       "date": "16-Jul-2020",
       "price": "1350"
     },
     {
-      "name": "Original Vel'Koz",
+      "name": "OriginalVel'Koz",
       "date": "27-Feb-2014",
       "price": "975"
     }
   ],
   "Vi": [
     {
-      "name": "Debonair Vi",
+      "name": "DebonairVi",
       "date": "05-Aug-2014",
       "price": "750"
     },
     {
-      "name": "Demon Vi",
+      "name": "DemonVi",
       "date": "19-Oct-2015",
       "price": "1350"
     },
     {
-      "name": "Heartbreaker Vi",
+      "name": "HeartbreakerVi",
       "date": "11-Feb-2019",
       "price": "1350"
     },
     {
-      "name": "Neon Strike Vi",
+      "name": "NeonStrikeVi",
       "date": "19-Dec-2012",
       "price": "975"
     },
     {
-      "name": "Officer Vi",
+      "name": "OfficerVi",
       "date": "29-Oct-2013",
       "price": "975"
     },
     {
-      "name": "Original Vi",
+      "name": "OriginalVi",
       "date": "19-Dec-2012",
       "price": "880"
     },
     {
-      "name": "PROJECT: Vi",
+      "name": "PROJECT:Vi",
       "date": "22-Nov-2017",
       "price": "1350"
     },
     {
-      "name": "PsyOps Vi",
+      "name": "PsyOpsVi",
       "date": "03-Sep-2020",
       "price": "1350"
     },
     {
-      "name": "Warring Kingdoms Vi",
+      "name": "WarringKingdomsVi",
       "date": "19-Jan-2017",
       "price": "1350"
     }
   ],
   "Viego": [
     {
-      "name": "Lunar Beast Viego",
+      "name": "LunarBeastViego",
       "date": "21-Jan-2021",
       "price": "1350"
     },
     {
-      "name": "Original Viego",
+      "name": "OriginalViego",
       "date": "21-Jan-2021",
       "price": "975"
     }
   ],
   "Viktor": [
     {
-      "name": "Creator Viktor",
+      "name": "CreatorViktor",
       "date": "30-Sep-2013",
       "price": "1350"
     },
     {
-      "name": "Death Sworn Viktor",
+      "name": "DeathSwornViktor",
       "date": "25-Oct-2017",
       "price": "1350"
     },
     {
-      "name": "Full Machine Viktor",
+      "name": "FullMachineViktor",
       "date": "29-Dec-2011",
       "price": "975"
     },
     {
-      "name": "Original Viktor",
+      "name": "OriginalViktor",
       "date": "29-Dec-2011",
       "price": "880"
     },
     {
-      "name": "Prototype Viktor",
+      "name": "PrototypeViktor",
       "date": "29-Dec-2011",
       "price": "520"
     },
     {
-      "name": "PsyOps Viktor",
+      "name": "PsyOpsViktor",
       "date": "17-Sep-2020",
       "price": "1350"
     }
   ],
   "Vladimir": [
     {
-      "name": "Academy Vladimir",
+      "name": "AcademyVladimir",
       "date": "26-Aug-2015",
       "price": "750"
     },
     {
-      "name": "Blood Lord Vladimir",
+      "name": "BloodLordVladimir",
       "date": "21-Nov-2011",
       "price": "1820"
     },
     {
-      "name": "Cosmic Devourer Vladimir",
+      "name": "CosmicDevourerVladimir",
       "date": "24-Nov-2020",
       "price": "1350"
     },
     {
-      "name": "Count Vladimir",
+      "name": "CountVladimir",
       "date": "27-Jul-2010",
       "price": "520"
     },
     {
-      "name": "Dark Waters Vladimir",
+      "name": "DarkWatersVladimir",
       "date": "31-May-2018",
       "price": "1350"
     },
     {
-      "name": "Marquis Vladimir",
+      "name": "MarquisVladimir",
       "date": "27-Jul-2010",
       "price": "520"
     },
     {
-      "name": "Nightbringer Vladimir",
+      "name": "NightbringerVladimir",
       "date": "12-Dec-2019",
       "price": "1350"
     },
     {
-      "name": "Nosferatu Vladimir",
+      "name": "NosferatuVladimir",
       "date": "19-Oct-2010",
       "price": "975"
     },
     {
-      "name": "Original Vladimir",
+      "name": "OriginalVladimir",
       "date": "27-Jul-2010",
       "price": "790"
     },
     {
-      "name": "Soulstealer Vladimir",
+      "name": "SoulstealerVladimir",
       "date": "09-Jul-2014",
       "price": "1350"
     },
     {
-      "name": "Vandal Vladimir",
+      "name": "VandalVladimir",
       "date": "24-Jan-2011",
       "price": "975"
     }
   ],
   "Volibear": [
     {
-      "name": "Captain Volibear",
+      "name": "CaptainVolibear",
       "date": "28-Nov-2014",
       "price": "750"
     },
     {
-      "name": "El Rayo Volibear",
+      "name": "ElRayoVolibear",
       "date": "01-Jun-2016",
       "price": "750"
     },
     {
-      "name": "Northern Storm Volibear",
+      "name": "NorthernStormVolibear",
       "date": "29-Nov-2011",
       "price": "750"
     },
     {
-      "name": "Original Volibear",
+      "name": "OriginalVolibear",
       "date": "29-Nov-2011",
       "price": "880"
     },
     {
-      "name": "Runeguard Volibear",
+      "name": "RuneguardVolibear",
       "date": "29-Apr-2013",
       "price": "975"
     },
     {
-      "name": "The Thousand-Pierced Bear",
+      "name": "TheThousand-PiercedBear",
       "date": "28-May-2020",
       "price": "975"
     },
     {
-      "name": "Thunder Lord Volibear",
+      "name": "ThunderLordVolibear",
       "date": "29-Nov-2011",
       "price": "520"
     }
   ],
   "Warwick": [
     {
-      "name": "Big Bad Warwick",
+      "name": "BigBadWarwick",
       "date": "27-Apr-2010",
       "price": "520"
     },
     {
-      "name": "Feral Warwick",
+      "name": "FeralWarwick",
       "date": "16-Nov-2010",
       "price": "975"
     },
     {
-      "name": "Firefang Warwick",
+      "name": "FirefangWarwick",
       "date": "29-Mar-2011",
       "price": "975"
     },
     {
-      "name": "Grey Warwick",
+      "name": "GreyWarwick",
       "date": "08-Jul-2010",
       "price": "2400"
     },
     {
-      "name": "Hyena Warwick",
+      "name": "HyenaWarwick",
       "date": "05-Dec-2011",
       "price": "975"
     },
     {
-      "name": "Lunar Guardian Warwick",
+      "name": "LunarGuardianWarwick",
       "date": "08-Feb-2018",
       "price": "1350"
     },
     {
-      "name": "Marauder Warwick",
+      "name": "MarauderWarwick",
       "date": "17-Feb-2015",
       "price": "750"
     },
     {
-      "name": "Original Warwick",
+      "name": "OriginalWarwick",
       "date": "21-Feb-2009",
       "price": "260"
     },
     {
-      "name": "PROJECT: Warwick",
+      "name": "PROJECT:Warwick",
       "date": "01-Aug-2019",
       "price": "1350"
     },
     {
-      "name": "Tundra Hunter Warwick",
+      "name": "TundraHunterWarwick",
       "date": "15-Aug-2010",
       "price": "520"
     },
     {
-      "name": "Urf the Manatee",
+      "name": "UrftheManatee",
       "date": "31-Mar-2010",
       "price": "5000"
     }
   ],
   "Wukong": [
     {
-      "name": "General Wukong",
+      "name": "GeneralWukong",
       "date": "26-Jul-2011",
       "price": "750"
     },
     {
-      "name": "Jade Dragon Wukong",
+      "name": "JadeDragonWukong",
       "date": "10-Jan-2012",
       "price": "975"
     },
     {
-      "name": "Lancer Stratus Wukong",
+      "name": "LancerStratusWukong",
       "date": "04-Apr-2018",
       "price": "1350"
     },
     {
-      "name": "Original Wukong",
+      "name": "OriginalWukong",
       "date": "26-Jul-2011",
       "price": "880"
     },
     {
-      "name": "Radiant Wukong",
+      "name": "RadiantWukong",
       "date": "27-Jan-2016",
       "price": "1350"
     },
     {
-      "name": "Underworld Wukong",
+      "name": "UnderworldWukong",
       "date": "28-Oct-2014",
       "price": "1350"
     },
     {
-      "name": "Volcanic Wukong",
+      "name": "VolcanicWukong",
       "date": "26-Jul-2011",
       "price": "975"
     }
   ],
   "Xayah": [
     {
-      "name": "Cosmic Dusk Xayah",
+      "name": "CosmicDuskXayah",
       "date": "18-Apr-2017",
       "price": "1350"
     },
     {
-      "name": "Elderwood Xayah",
+      "name": "ElderwoodXayah",
       "date": "10-Dec-2020",
       "price": "1350"
     },
     {
-      "name": "Original Xayah",
+      "name": "OriginalXayah",
       "date": "18-Apr-2017",
       "price": "975"
     },
     {
-      "name": "SSG Xayah",
+      "name": "SSGXayah",
       "date": "20-Jul-2018",
       "price": "1350"
     },
     {
-      "name": "Star Guardian Xayah",
+      "name": "StarGuardianXayah",
       "date": "12-Sep-2019",
       "price": "1820"
     },
     {
-      "name": "Sweetheart Xayah",
+      "name": "SweetheartXayah",
       "date": "12-Feb-2018",
       "price": "1350"
     }
   ],
   "Xerath": [
     {
-      "name": "Battlecast Xerath",
+      "name": "BattlecastXerath",
       "date": "05-Oct-2011",
       "price": "520"
     },
     {
-      "name": "Dark Star Xerath",
+      "name": "DarkStarXerath",
       "date": "26-Mar-2020",
       "price": "1350"
     },
     {
-      "name": "Guardian of the Sands Xerath",
+      "name": "GuardianoftheSandsXerath",
       "date": "26-Apr-2015",
       "price": "1350"
     },
     {
-      "name": "Original Xerath",
+      "name": "OriginalXerath",
       "date": "05-Oct-2011",
       "price": "880"
     },
     {
-      "name": "Runeborn Xerath",
+      "name": "RunebornXerath",
       "date": "05-Oct-2011",
       "price": "750"
     },
     {
-      "name": "Scorched Earth Xerath",
+      "name": "ScorchedEarthXerath",
       "date": "13-Jul-2012",
       "price": "1350"
     }
   ],
-  "Xin Zhao": [
+  "XinZhao": [
     {
-      "name": "Commando Xin Zhao",
+      "name": "CommandoXinZhao",
       "date": "13-Jul-2010",
       "price": "520"
     },
     {
-      "name": "Cosmic Defender Xin Zhao",
+      "name": "CosmicDefenderXinZhao",
       "date": "21-Aug-2018",
       "price": "1350"
     },
     {
-      "name": "Dragonslayer Xin Zhao",
+      "name": "DragonslayerXinZhao",
       "date": "09-Mar-2017",
       "price": "1350"
     },
     {
-      "name": "Imperial Xin Zhao",
+      "name": "ImperialXinZhao",
       "date": "13-Jul-2010",
       "price": "520"
     },
     {
-      "name": "Marauder Xin Zhao",
+      "name": "MarauderXinZhao",
       "date": "07-Jan-2021",
       "price": "1350"
     },
     {
-      "name": "Original Xin Zhao",
+      "name": "OriginalXinZhao",
       "date": "13-Jul-2010",
       "price": "585"
     },
     {
-      "name": "Secret Agent Xin Zhao",
+      "name": "SecretAgentXinZhao",
       "date": "16-Mar-2015",
       "price": "975"
     },
     {
-      "name": "Viscero Xin Zhao",
+      "name": "VisceroXinZhao",
       "date": "22-Nov-2010",
       "price": "975"
     },
     {
-      "name": "Warring Kingdoms Xin Zhao",
+      "name": "WarringKingdomsXinZhao",
       "date": "08-Feb-2013",
       "price": "1350"
     },
     {
-      "name": "Winged Hussar Xin Zhao",
+      "name": "WingedHussarXinZhao",
       "date": "26-Sep-2011",
       "price": "975"
     }
   ],
   "Yasuo": [
     {
-      "name": "Battle Boss Yasuo",
+      "name": "BattleBossYasuo",
       "date": "28-Jun-2019",
       "price": "1350"
     },
     {
-      "name": "Blood Moon Yasuo",
+      "name": "BloodMoonYasuo",
       "date": "25-Feb-2016",
       "price": "975"
     },
     {
-      "name": "High Noon Yasuo",
+      "name": "HighNoonYasuo",
       "date": "13-Dec-2013",
       "price": "975"
     },
     {
-      "name": "Nightbringer Yasuo",
+      "name": "NightbringerYasuo",
       "date": "14-Jun-2017",
       "price": "1820"
     },
     {
-      "name": "Odyssey Yasuo",
+      "name": "OdysseyYasuo",
       "date": "12-Sep-2018",
       "price": "1350"
     },
     {
-      "name": "Original Yasuo",
+      "name": "OriginalYasuo",
       "date": "13-Dec-2013",
       "price": "975"
     },
     {
-      "name": "PROJECT: Yasuo",
+      "name": "PROJECT:Yasuo",
       "date": "31-Aug-2014",
       "price": "1350"
     },
     {
-      "name": "True Damage Yasuo Prestige Edition",
+      "name": "TrueDamageYasuoPrestigeEdition",
       "date": "25-Sep-2020",
       "price": "special"
     },
     {
-      "name": "Spirit Blossom Yasuo",
+      "name": "SpiritBlossomYasuo",
       "date": "22-Jul-2020",
       "price": "1350"
     },
     {
-      "name": "True Damage Yasuo",
+      "name": "TrueDamageYasuo",
       "date": "10-Nov-2019",
       "price": "1350"
     }
   ],
   "Yone": [
     {
-      "name": "Original Yone",
+      "name": "OriginalYone",
       "date": "06-Aug-2020",
       "price": "975"
     },
     {
-      "name": "Spirit Blossom Yone",
+      "name": "SpiritBlossomYone",
       "date": "06-Aug-2020",
       "price": "1350"
     }
   ],
   "Yorick": [
     {
-      "name": "Arclight Yorick",
+      "name": "ArclightYorick",
       "date": "02-Oct-2017",
       "price": "1350"
     },
@@ -6723,39 +6723,39 @@ let champion={
       "price": "1350"
     },
     {
-      "name": "Original Yorick",
+      "name": "OriginalYorick",
       "date": "22-Jun-2011",
       "price": "880"
     },
     {
-      "name": "Pentakill Yorick",
+      "name": "PentakillYorick",
       "date": "21-Jun-2011",
       "price": "975"
     },
     {
-      "name": "Resistance Yorick",
+      "name": "ResistanceYorick",
       "date": "12-Nov-2020",
       "price": "1350"
     },
     {
-      "name": "Undertaker Yorick",
+      "name": "UndertakerYorick",
       "date": "21-Jun-2011",
       "price": "520"
     }
   ],
   "Yuumi": [
     {
-      "name": "Battle Principal Yuumi",
+      "name": "BattlePrincipalYuumi",
       "date": "14-May-2019",
       "price": "1350"
     },
     {
-      "name": "Heartseeker Yuumi",
+      "name": "HeartseekerYuumi",
       "date": "04-Feb-2020",
       "price": "1350"
     },
     {
-      "name": "Original Yuumi",
+      "name": "OriginalYuumi",
       "date": "14-May-2019",
       "price": "975"
     },
@@ -6767,232 +6767,232 @@ let champion={
   ],
   "Zac": [
     {
-      "name": "Battlecast Zac",
+      "name": "BattlecastZac",
       "date": "12-Nov-2020",
       "price": "1350"
     },
     {
-      "name": "Original Zac",
+      "name": "OriginalZac",
       "date": "29-Mar-2013",
       "price": "975"
     },
     {
-      "name": "Pool Party Zac",
+      "name": "PoolPartyZac",
       "date": "25-Jun-2015",
       "price": "1350"
     },
     {
-      "name": "SKT T1 Zac",
+      "name": "SKTT1Zac",
       "date": "27-Jun-2017",
       "price": "1350"
     },
     {
-      "name": "Special Weapon Zac",
+      "name": "SpecialWeaponZac",
       "date": "29-Mar-2013",
       "price": "975"
     }
   ],
   "Zed": [
     {
-      "name": "Championship Zed",
+      "name": "ChampionshipZed",
       "date": "25-Sep-2016",
       "price": "975"
     },
     {
-      "name": "Death Sworn Zed",
+      "name": "DeathSwornZed",
       "date": "25-Oct-2017",
       "price": "1350"
     },
     {
-      "name": "Galaxy Slayer Zed",
+      "name": "GalaxySlayerZed",
       "date": "18-Apr-2019",
       "price": "1820"
     },
     {
-      "name": "Original Zed",
+      "name": "OriginalZed",
       "date": "13-Nov-2012",
       "price": "880"
     },
     {
-      "name": "PROJECT: Zed",
+      "name": "PROJECT:Zed",
       "date": "07-Sep-2015",
       "price": "1350"
     },
     {
-      "name": "PsyOps Zed",
+      "name": "PsyOpsZed",
       "date": "17-Sep-2020",
       "price": "1350"
     },
     {
-      "name": "SKT T1 Zed",
+      "name": "SKTT1Zed",
       "date": "04-May-2014",
       "price": "750"
     },
     {
-      "name": "Shockblade Zed",
+      "name": "ShockbladeZed",
       "date": "13-Nov-2012",
       "price": "975"
     }
   ],
   "Ziggs": [
     {
-      "name": "Battle Boss Ziggs",
+      "name": "BattleBossZiggs",
       "date": "08-Aug-2017",
       "price": "1350"
     },
     {
-      "name": "Hextech Ziggs",
+      "name": "HextechZiggs",
       "date": "03-Sep-2020",
       "price": "special"
     },
     {
-      "name": "Mad Scientist Ziggs",
+      "name": "MadScientistZiggs",
       "date": "01-Feb-2012",
       "price": "975"
     },
     {
-      "name": "Major Ziggs",
+      "name": "MajorZiggs",
       "date": "01-Feb-2012",
       "price": "975"
     },
     {
-      "name": "Master Arcanist Ziggs",
+      "name": "MasterArcanistZiggs",
       "date": "06-May-2015",
       "price": "1350"
     },
     {
-      "name": "Odyssey Ziggs",
+      "name": "OdysseyZiggs",
       "date": "12-Sep-2018",
       "price": "1350"
     },
     {
-      "name": "Original Ziggs",
+      "name": "OriginalZiggs",
       "date": "01-Feb-2012",
       "price": "880"
     },
     {
-      "name": "Pool Party Ziggs",
+      "name": "PoolPartyZiggs",
       "date": "04-Sep-2012",
       "price": "1350"
     },
     {
-      "name": "Snow Day Ziggs",
+      "name": "SnowDayZiggs",
       "date": "14-Dec-2012",
       "price": "975"
     },
     {
-      "name": "Sugar Rush Ziggs",
+      "name": "SugarRushZiggs",
       "date": "17-Dec-2019",
       "price": "1350"
     }
   ],
   "Zilean": [
     {
-      "name": "Blood Moon Zilean",
+      "name": "BloodMoonZilean",
       "date": "10-May-2015",
       "price": "975"
     },
     {
-      "name": "Groovy Zilean",
+      "name": "GroovyZilean",
       "date": "27-Jul-2010",
       "price": "520"
     },
     {
-      "name": "Old Saint Zilean",
+      "name": "OldSaintZilean",
       "date": "23-Dec-2009",
       "price": "520"
     },
     {
-      "name": "Original Zilean",
+      "name": "OriginalZilean",
       "date": "17-Apr-2009",
       "price": "585"
     },
     {
-      "name": "Shurima Desert Zilean",
+      "name": "ShurimaDesertZilean",
       "date": "08-Sep-2010",
       "price": "975"
     },
     {
-      "name": "Sugar Rush Zilean",
+      "name": "SugarRushZilean",
       "date": "17-Dec-2019",
       "price": "1350"
     },
     {
-      "name": "Time Machine Zilean",
+      "name": "TimeMachineZilean",
       "date": "12-Apr-2011",
       "price": "520"
     }
   ],
   "Zoe": [
     {
-      "name": "Arcanist Zoe",
+      "name": "ArcanistZoe",
       "date": "09-Jul-2020",
       "price": "1350"
     },
     {
-      "name": "Cyber Pop Zoe",
+      "name": "CyberPopZoe",
       "date": "21-Nov-2017",
       "price": "1350"
     },
     {
-      "name": "Original Zoe",
+      "name": "OriginalZoe",
       "date": "21-Nov-2017",
       "price": "975"
     },
     {
-      "name": "Pool Party Zoe",
+      "name": "PoolPartyZoe",
       "date": "02-Aug-2018",
       "price": "1350"
     },
     {
-      "name": "Arcanist Zoe Prestige Edition",
+      "name": "ArcanistZoePrestigeEdition",
       "date": "09-Jul-2020",
       "price": "special"
     },
     {
-      "name": "Star Guardian Zoe",
+      "name": "StarGuardianZoe",
       "date": "12-Sep-2019",
       "price": "1350"
     }
   ],
   "Zyra": [
     {
-      "name": "Coven Zyra",
+      "name": "CovenZyra",
       "date": "16-Apr-2020",
       "price": "1350"
     },
     {
-      "name": "Crystal Rose Zyra",
+      "name": "CrystalRoseZyra",
       "date": "11-Feb-2021",
       "price": "1350"
     },
     {
-      "name": "Dragon Sorceress Zyra",
+      "name": "DragonSorceressZyra",
       "date": "09-Mar-2017",
       "price": "1350"
     },
     {
-      "name": "Haunted Zyra",
+      "name": "HauntedZyra",
       "date": "29-Oct-2013",
       "price": "1350"
     },
     {
-      "name": "Original Zyra",
+      "name": "OriginalZyra",
       "date": "24-Jul-2012",
       "price": "880"
     },
     {
-      "name": "Coven Zyra Prestige Edition",
+      "name": "CovenZyraPrestigeEdition",
       "date": "16-Apr-2020",
       "price": "special"
     },
     {
-      "name": "SKT T1 Zyra",
+      "name": "SKTT1Zyra",
       "date": "04-May-2014",
       "price": "750"
     },
     {
-      "name": "Wildfire Zyra",
+      "name": "WildfireZyra",
       "date": "24-Jul-2012",
       "price": "975"
     }
