@@ -6,6 +6,11 @@ let champion={
   "price": 1350
 },
 {
+  "name": "Debug Aatrox",
+  "date": "15-Mar-2021",
+  "price": 1350
+},
+{
   "name": "Blood Moon Aatrox",
   "date": "10-Jan-2019",
   "price": 1350
