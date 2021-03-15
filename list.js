@@ -880,7 +880,7 @@ let champion={
       "price": "1350"
     }
   ],
-  "Cho'Gath": [
+  "ChoGath": [
     {
       "name": "Battlecast Prime Cho'Gath",
       "date": "03-Aug-2012",
@@ -2400,7 +2400,7 @@ let champion={
       "price": "1350"
     }
   ],
-  "Kai'Sa": [
+  "KaiSa": [
     {
       "name": "Arcade Kai'Sa",
       "date": "28-Jun-2019",
@@ -2813,7 +2813,7 @@ let champion={
       "price": "520"
     }
   ],
-  "Kha'Zix": [
+  "KhaZix": [
     {
       "name": "Championship Kha'Zix",
       "date": "27-Sep-2018",
@@ -2894,7 +2894,7 @@ let champion={
       "price": "975"
     }
   ],
-  "Kog'Maw": [
+  "KogMaw": [
     {
       "name": "Arcanist Kog'Maw",
       "date": "09-Jul-2020",
@@ -4470,7 +4470,7 @@ let champion={
       "price": "975"
     }
   ],
-  "Rek'Sai": [
+  "RekSai": [
     {
       "name": "Blackfrost Rek'Sai",
       "date": "05-Mar-2020",
@@ -6225,7 +6225,7 @@ let champion={
       "price": "390"
     }
   ],
-  "Vel'Koz": [
+  "VelKoz": [
     {
       "name": "Arclight Vel'Koz",
       "date": "28-Jan-2015",
