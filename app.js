@@ -1,5 +1,5 @@
 let ul = document.getElementById("list")
-const champTemplate = a => `<img class='champIcon lazy' src="img/lazy.jpg" data-src='img/champion/${a}_0.jpg' alt="${a} Champion from league of legends"/> <br>
+const champTemplate = a => `<img class='champIcon lazy' src="img/lazy.jpg" data-src='img/champion/${a.replace(/ /g, "")}_0.jpg' alt="${a} Champion from league of legends"/> <br>
                             <span class="text textbg date"> ${champion[a].daysSinceLast} </span> <br/>
                             <span class="amount">${champion[a].amountSkins} <span class="skintext">total skins</span></span>
                             <ul class="text latestSkinInfo">
