@@ -58,6 +58,11 @@ let champion={
       "price": "975"
     },
     {
+      "name": "Coven Ahri",
+      "date": "N/A",
+      "price": "1350"
+    },
+    {
       "name": "Dynasty Ahri",
       "date": "14-Dec-2011",
       "price": "975"
@@ -183,6 +188,18 @@ let champion={
       "name": "True Damage Akali",
       "date": "10-Nov-2019",
       "price": "1350"
+    }
+  ],
+  "Akshan": [
+    {
+      "name": "Cyber Pop Akshan",
+      "date": "22-Jul-2021",
+      "price": "1350"
+    },
+    {
+      "name": "Original Akshan",
+      "date": "22-Jul-2021",
+      "price": "975"
     }
   ],
   "Alistar": [
@@ -482,6 +499,11 @@ let champion={
       "price": "1350"
     },
     {
+      "name": "Coven Ashe",
+      "date": "N/A",
+      "price": "1350"
+    },
+    {
       "name": "Fae Dragon Ashe",
       "date": "01-Oct-2020",
       "price": "1350"
@@ -665,6 +687,11 @@ let champion={
       "price": "520"
     },
     {
+      "name": "Space Groove Blitz & Crank",
+      "date": "01-Apr-2021",
+      "price": "1820"
+    },
+    {
       "name": "Witch's Brew Blitzcrank",
       "date": "24-Oct-2019",
       "price": "1350"
@@ -749,6 +776,11 @@ let champion={
       "price": "975"
     },
     {
+      "name": "Pool Party Braum",
+      "date": "09-Jun-2021",
+      "price": "1350"
+    },
+    {
       "name": "Santa Braum",
       "date": "14-Dec-2016",
       "price": "1350"
@@ -769,6 +801,11 @@ let champion={
       "name": "Arctic Warfare Caitlyn",
       "date": "29-Dec-2011",
       "price": "750"
+    },
+    {
+      "name": "Battle Academia Caitlyn",
+      "date": "18-Mar-2021",
+      "price": "1820"
     },
     {
       "name": "Headhunter Caitlyn",
@@ -823,6 +860,11 @@ let champion={
   ],
   "Camille": [
     {
+      "name": "Arcana Camille",
+      "date": "13-May-2021",
+      "price": "1350"
+    },
+    {
       "name": "Coven Camille",
       "date": "27-Nov-2018",
       "price": "1350"
@@ -844,6 +886,11 @@ let champion={
     }
   ],
   "Cassiopeia": [
+    {
+      "name": "Coven Cassiopeia",
+      "date": "N/A",
+      "price": "1350"
+    },
     {
       "name": "Desperada Cassiopeia",
       "date": "14-Dec-2010",
@@ -931,6 +978,11 @@ let champion={
     {
       "name": "Arcade Corki",
       "date": "24-Aug-2016",
+      "price": "1350"
+    },
+    {
+      "name": "Astronaut Corki",
+      "date": "01-Jul-2021",
       "price": "1350"
     },
     {
@@ -1076,6 +1128,11 @@ let champion={
       "name": "Battle Queen Diana Prestige Edition",
       "date": "10-Dec-2020",
       "price": "special"
+    },
+    {
+      "name": "Sentinel Diana",
+      "date": "08-Jul-2021",
+      "price": "1350"
     }
   ],
   "Dr. Mundo": [
@@ -1271,6 +1328,11 @@ let champion={
       "name": "Blood Moon Evelynn",
       "date": "08-May-2018",
       "price": "975"
+    },
+    {
+      "name": "Coven Evelynn",
+      "date": "N/A",
+      "price": "1820"
     },
     {
       "name": "K/DA Evelynn",
@@ -1588,6 +1650,11 @@ let champion={
       "price": "750"
     },
     {
+      "name": "Dragon Guardian Galio",
+      "date": "15-Apr-2021",
+      "price": "1350"
+    },
+    {
       "name": "Enchanted Galio",
       "date": "10-Aug-2010",
       "price": "520"
@@ -1671,6 +1738,11 @@ let champion={
     }
   ],
   "Garen": [
+    {
+      "name": "Battle Academia Garen",
+      "date": "18-Mar-2021",
+      "price": "1350"
+    },
     {
       "name": "Commando Garen",
       "date": "08-Sep-2010",
@@ -1888,6 +1960,11 @@ let champion={
       "price": "975"
     },
     {
+      "name": "Sentinel Graves",
+      "date": "22-Jul-2021",
+      "price": "1820"
+    },
+    {
       "name": "Snow Day Graves",
       "date": "14-Dec-2016",
       "price": "1350"
@@ -1896,6 +1973,18 @@ let champion={
       "name": "Victorious Graves",
       "date": "08-Nov-2017",
       "price": "special"
+    }
+  ],
+  "Gwen": [
+    {
+      "name": "Original Gwen",
+      "date": "15-Apr-2021",
+      "price": "975"
+    },
+    {
+      "name": "Space Groove Gwen",
+      "date": "15-Apr-2021",
+      "price": "1350"
     }
   ],
   "Hecarim": [
@@ -2066,6 +2155,11 @@ let champion={
       "price": "special"
     },
     {
+      "name": "Sentinel Irelia",
+      "date": "08-Jul-2021",
+      "price": "1350"
+    },
+    {
       "name": "iG Irelia",
       "date": "23-Apr-2019",
       "price": "1350"
@@ -2083,7 +2177,7 @@ let champion={
       "price": "1350"
     },
     {
-      "name": "Elderwood Ivern",
+      "name": "Old God Ivern",
       "date": "10-Dec-2020",
       "price": "1350"
     },
@@ -2224,6 +2318,11 @@ let champion={
       "price": "975"
     },
     {
+      "name": "Conqueror Jax",
+      "date": "29-Apr-2021",
+      "price": "1350"
+    },
+    {
       "name": "God Staff Jax",
       "date": "11-Jan-2018",
       "price": "1350"
@@ -2251,6 +2350,11 @@ let champion={
     {
       "name": "PAX Jax",
       "date": "26-Mar-2010",
+      "price": "special"
+    },
+    {
+      "name": "Conqueror Jax Prestige Edition",
+      "date": "29-Apr-2021",
       "price": "special"
     },
     {
@@ -2320,6 +2424,11 @@ let champion={
     {
       "name": "Blood Moon Jhin",
       "date": "09-Feb-2017",
+      "price": "1350"
+    },
+    {
+      "name": "DWG Jhin",
+      "date": "29-Apr-2021",
       "price": "1350"
     },
     {
@@ -2699,6 +2808,11 @@ let champion={
       "price": "975"
     },
     {
+      "name": "Dragonslayer Kayle",
+      "date": "15-Apr-2021",
+      "price": "1350"
+    },
+    {
       "name": "Iron Inquisitor Kayle",
       "date": "04-May-2016",
       "price": "750"
@@ -2776,6 +2890,11 @@ let champion={
       "name": "Blood Moon Kennen",
       "date": "25-Feb-2016",
       "price": "975"
+    },
+    {
+      "name": "DWG Kennen",
+      "date": "29-Apr-2021",
+      "price": "1350"
     },
     {
       "name": "Deadly Kennen",
@@ -2988,6 +3107,11 @@ let champion={
       "price": "790"
     },
     {
+      "name": "Coven LeBlanc Prestige Edition",
+      "date": "N/A",
+      "price": "special"
+    },
+    {
       "name": "Prestigious LeBlanc",
       "date": "02-Nov-2010",
       "price": "520"
@@ -3092,6 +3216,16 @@ let champion={
       "price": "750"
     },
     {
+      "name": "Battle Academia Leona",
+      "date": "18-Mar-2021",
+      "price": "1350"
+    },
+    {
+      "name": "DWG Leona",
+      "date": "29-Apr-2021",
+      "price": "1350"
+    },
+    {
       "name": "Defender Leona",
       "date": "13-Jul-2011",
       "price": "750"
@@ -3125,6 +3259,11 @@ let champion={
       "name": "Pool Party Leona",
       "date": "09-Sep-2013",
       "price": "975"
+    },
+    {
+      "name": "Battle Academia Leona Prestige Edition",
+      "date": "18-Mar-2021",
+      "price": "special"
     },
     {
       "name": "Solar Eclipse Leona",
@@ -3182,6 +3321,11 @@ let champion={
     }
   ],
   "Lucian": [
+    {
+      "name": "Arcana Lucian",
+      "date": "13-May-2021",
+      "price": "1350"
+    },
     {
       "name": "Demacia Vice Lucian",
       "date": "18-Jul-2019",
@@ -3265,6 +3409,16 @@ let champion={
       "price": "1350"
     },
     {
+      "name": "Space Groove Lulu Prestige Edition",
+      "date": "01-Apr-2021",
+      "price": "special"
+    },
+    {
+      "name": "Space Groove Lulu",
+      "date": "01-Apr-2021",
+      "price": "1350"
+    },
+    {
       "name": "Star Guardian Lulu",
       "date": "05-Oct-2016",
       "price": "1350"
@@ -3337,6 +3491,11 @@ let champion={
       "price": "520"
     },
     {
+      "name": "Space Groove Lux",
+      "date": "01-Apr-2021",
+      "price": "1350"
+    },
+    {
       "name": "Spellthief Lux",
       "date": "19-Oct-2010",
       "price": "750"
@@ -3396,6 +3555,11 @@ let champion={
     {
       "name": "Odyssey Malphite",
       "date": "12-Sep-2018",
+      "price": "1350"
+    },
+    {
+      "name": "Old God Malphite",
+      "date": "N/A",
       "price": "1350"
     },
     {
@@ -3467,6 +3631,11 @@ let champion={
     }
   ],
   "Maokai": [
+    {
+      "name": "Astronaut Maokai",
+      "date": "01-Jul-2021",
+      "price": "1350"
+    },
     {
       "name": "Charred Maokai",
       "date": "16-Feb-2011",
@@ -3637,6 +3806,11 @@ let champion={
       "price": "520"
     },
     {
+      "name": "Ruined Miss Fortune",
+      "date": "22-Jul-2021",
+      "price": "1350"
+    },
+    {
       "name": "Secret Agent Miss Fortune",
       "date": "16-Nov-2010",
       "price": "975"
@@ -3682,6 +3856,11 @@ let champion={
       "name": "Original Mordekaiser",
       "date": "24-Feb-2010",
       "price": "585"
+    },
+    {
+      "name": "PROJECT: Mordekaiser",
+      "date": "27-May-2021",
+      "price": "1820"
     },
     {
       "name": "Pentakill Mordekaiser",
@@ -3840,6 +4019,11 @@ let champion={
       "price": "975"
     },
     {
+      "name": "Space Groove Nasus",
+      "date": "01-Apr-2021",
+      "price": "1350"
+    },
+    {
       "name": "Worldbreaker Nasus",
       "date": "10-Nov-2016",
       "price": "750"
@@ -3931,6 +4115,11 @@ let champion={
       "price": "1350"
     },
     {
+      "name": "DWG Nidalee",
+      "date": "29-Apr-2021",
+      "price": "1350"
+    },
+    {
       "name": "Dawnbringer Nidalee",
       "date": "12-Dec-2019",
       "price": "1350"
@@ -3983,11 +4172,6 @@ let champion={
       "price": "750"
     },
     {
-      "name": "Elderwood Nocturne",
-      "date": "29-Aug-2019",
-      "price": "1350"
-    },
-    {
       "name": "Eternum Nocturne",
       "date": "05-Dec-2012",
       "price": "1820"
@@ -4006,6 +4190,11 @@ let champion={
       "name": "Hextech Nocturne",
       "date": "11-Jun-2020",
       "price": "special"
+    },
+    {
+      "name": "Old God Nocturne",
+      "date": "29-Aug-2019",
+      "price": "1350"
     },
     {
       "name": "Original Nocturne",
@@ -4053,6 +4242,11 @@ let champion={
       "name": "Sasquatch Nunu & Willump",
       "date": "20-Nov-2009",
       "price": "520"
+    },
+    {
+      "name": "Space Groove Nunu & Willump",
+      "date": "01-Apr-2021",
+      "price": "1350"
     },
     {
       "name": "TPA Nunu & Willump",
@@ -4114,6 +4308,11 @@ let champion={
     {
       "name": "SKT T1 Olaf",
       "date": "27-Jun-2017",
+      "price": "1350"
+    },
+    {
+      "name": "Sentinel Olaf",
+      "date": "08-Jul-2021",
       "price": "1350"
     }
   ],
@@ -4223,8 +4422,18 @@ let champion={
       "price": "750"
     },
     {
+      "name": "Ascended Pantheon Prestige Edition",
+      "date": "08-Jul-2021",
+      "price": "special"
+    },
+    {
       "name": "Pulsefire Pantheon",
       "date": "14-May-2020",
+      "price": "1350"
+    },
+    {
+      "name": "Ruined Pantheon",
+      "date": "08-Jul-2021",
       "price": "1350"
     },
     {
@@ -4319,6 +4528,11 @@ let champion={
     {
       "name": "Sand Wraith Pyke",
       "date": "31-May-2018",
+      "price": "1350"
+    },
+    {
+      "name": "Sentinel Pyke",
+      "date": "22-Jul-2021",
       "price": "1350"
     }
   ],
@@ -4419,6 +4633,11 @@ let champion={
     }
   ],
   "Rammus": [
+    {
+      "name": "Astronaut Rammus",
+      "date": "01-Jul-2021",
+      "price": "1350"
+    },
     {
       "name": "Chrome Rammus",
       "date": "17-May-2010",
@@ -4536,6 +4755,11 @@ let champion={
       "price": "520"
     },
     {
+      "name": "PROJECT: Renekton",
+      "date": "27-May-2021",
+      "price": "1820"
+    },
+    {
       "name": "Pool Party Renekton",
       "date": "09-Sep-2013",
       "price": "975"
@@ -4601,6 +4825,11 @@ let champion={
       "name": "SSW Rengar",
       "date": "13-May-2015",
       "price": "750"
+    },
+    {
+      "name": "Sentinel Rengar",
+      "date": "22-Jul-2021",
+      "price": "1350"
     }
   ],
   "Riven": [
@@ -4660,6 +4889,11 @@ let champion={
       "price": "975"
     },
     {
+      "name": "Sentinel Riven",
+      "date": "08-Jul-2021",
+      "price": "1350"
+    },
+    {
       "name": "Spirit Blossom Riven",
       "date": "06-Aug-2020",
       "price": "1350"
@@ -4690,6 +4924,11 @@ let champion={
       "name": "Rumble in the Jungle",
       "date": "26-Apr-2011",
       "price": "975"
+    },
+    {
+      "name": "Space Groove Rumble",
+      "date": "01-Apr-2021",
+      "price": "1350"
     },
     {
       "name": "Super Galaxy Rumble",
@@ -4774,6 +5013,11 @@ let champion={
       "name": "PsyOps Samira",
       "date": "21-Sep-2020",
       "price": "1350"
+    },
+    {
+      "name": "Space Groove Samira",
+      "date": "01-Apr-2021",
+      "price": "1350"
     }
   ],
   "Sejuani": [
@@ -4808,6 +5052,11 @@ let champion={
       "price": "880"
     },
     {
+      "name": "PROJECT: Sejuani",
+      "date": "27-May-2021",
+      "price": "1350"
+    },
+    {
       "name": "Poro Rider Sejuani",
       "date": "15-Dec-2014",
       "price": "975"
@@ -4838,6 +5087,11 @@ let champion={
       "name": "Original Senna",
       "date": "10-Nov-2019",
       "price": "975"
+    },
+    {
+      "name": "PROJECT: Senna",
+      "date": "27-May-2021",
+      "price": "1350"
     },
     {
       "name": "True Damage Senna Prestige Edition",
@@ -4887,6 +5141,11 @@ let champion={
       "name": "Original Sett",
       "date": "14-Jan-2020",
       "price": "975"
+    },
+    {
+      "name": "Pool Party Sett",
+      "date": "09-Jun-2021",
+      "price": "1350"
     },
     {
       "name": "Obsidian Dragon Sett Prestige Edition",
@@ -5102,6 +5361,11 @@ let champion={
       "name": "Barbarian Sion",
       "date": "26-Sep-2010",
       "price": "750"
+    },
+    {
+      "name": "Blackfrost Sion",
+      "date": "15-Apr-2021",
+      "price": "1350"
     },
     {
       "name": "Hextech Sion",
@@ -5404,6 +5668,16 @@ let champion={
       "name": "Original Sylas",
       "date": "25-Jan-2019",
       "price": "975"
+    },
+    {
+      "name": "PROJECT: Sylas",
+      "date": "27-May-2021",
+      "price": "1350"
+    },
+    {
+      "name": "PROJECT: Sylas Prestige Edition",
+      "date": "27-May-2021",
+      "price": "special"
     }
   ],
   "Syndra": [
@@ -5454,6 +5728,11 @@ let champion={
     }
   ],
   "Tahm Kench": [
+    {
+      "name": "Arcana Tahm Kench",
+      "date": "13-May-2021",
+      "price": "1350"
+    },
     {
       "name": "Coin Emperor Tahm Kench",
       "date": "28-Jan-2019",
@@ -5698,6 +5977,11 @@ let champion={
       "name": "Spirit Blossom Thresh",
       "date": "22-Jul-2020",
       "price": "1820"
+    },
+    {
+      "name": "Unbound Thresh",
+      "date": "29-Jul-2021",
+      "price": "special"
     }
   ],
   "Tristana": [
@@ -5868,6 +6152,11 @@ let champion={
       "price": "750"
     },
     {
+      "name": "DWG Twisted Fate",
+      "date": "29-Apr-2021",
+      "price": "1350"
+    },
+    {
       "name": "High Noon Twisted Fate",
       "date": "17-May-2011",
       "price": "975"
@@ -5928,6 +6217,11 @@ let champion={
       "name": "Crime City Twitch",
       "date": "13-Oct-2010",
       "price": "975"
+    },
+    {
+      "name": "Dragonslayer Twitch",
+      "date": "15-Apr-2021",
+      "price": "1350"
     },
     {
       "name": "Ice King Twitch",
@@ -6091,6 +6385,11 @@ let champion={
       "price": "880"
     },
     {
+      "name": "PROJECT: Varus",
+      "date": "27-May-2021",
+      "price": "1350"
+    },
+    {
       "name": "Varus Swiftbolt",
       "date": "07-Dec-2015",
       "price": "750"
@@ -6148,6 +6447,11 @@ let champion={
       "price": "750"
     },
     {
+      "name": "Sentinel Vayne",
+      "date": "08-Jul-2021",
+      "price": "1820"
+    },
+    {
       "name": "Soulstealer Vayne",
       "date": "28-Jul-2016",
       "price": "special"
@@ -6164,6 +6468,11 @@ let champion={
     }
   ],
   "Veigar": [
+    {
+      "name": "Astronaut Veigar",
+      "date": "01-Jul-2021",
+      "price": "1350"
+    },
     {
       "name": "Bad Santa Veigar",
       "date": "14-Dec-2012",
@@ -6234,6 +6543,11 @@ let champion={
     {
       "name": "Battlecast Vel'Koz",
       "date": "27-Feb-2014",
+      "price": "1350"
+    },
+    {
+      "name": "Blackfrost Vel'Koz",
+      "date": "15-Apr-2021",
       "price": "1350"
     },
     {
@@ -6474,6 +6788,11 @@ let champion={
       "price": "750"
     },
     {
+      "name": "Old God Warwick",
+      "date": "N/A",
+      "price": "1350"
+    },
+    {
       "name": "Original Warwick",
       "date": "21-Feb-2009",
       "price": "260"
@@ -6495,6 +6814,11 @@ let champion={
     }
   ],
   "Wukong": [
+    {
+      "name": "Battle Academia Wukong",
+      "date": "18-Mar-2021",
+      "price": "1350"
+    },
     {
       "name": "General Wukong",
       "date": "26-Jul-2011",
@@ -6564,6 +6888,11 @@ let champion={
     }
   ],
   "Xerath": [
+    {
+      "name": "Arcana Xerath",
+      "date": "13-May-2021",
+      "price": "1350"
+    },
     {
       "name": "Battlecast Xerath",
       "date": "05-Oct-2011",
@@ -6701,6 +7030,11 @@ let champion={
   ],
   "Yone": [
     {
+      "name": "Battle Academia Yone",
+      "date": "18-Mar-2021",
+      "price": "1350"
+    },
+    {
       "name": "Original Yone",
       "date": "06-Aug-2020",
       "price": "975"
@@ -6817,6 +7151,11 @@ let champion={
       "name": "PROJECT: Zed",
       "date": "07-Sep-2015",
       "price": "1350"
+    },
+    {
+      "name": "PROJECT: Zed Prestige Edition",
+      "date": "24-Jun-2021",
+      "price": "special"
     },
     {
       "name": "PsyOps Zed",
