@@ -59,7 +59,7 @@ let champion={
     },
     {
       "name": "Coven Ahri",
-      "date": "N/A",
+      "date": "12-Aug-2021",
       "price": "1350"
     },
     {
@@ -128,6 +128,11 @@ let champion={
       "name": "Blood Moon Akali",
       "date": "07-Jun-2011",
       "price": "975"
+    },
+    {
+      "name": "Crime City Nightmare Akali",
+      "date": "26-Aug-2021",
+      "price": "1350"
     },
     {
       "name": "Headhunter Akali",
@@ -358,6 +363,11 @@ let champion={
       "price": "1350"
     },
     {
+      "name": "Divine Phoenix Anivia",
+      "date": "02-Sep-2021",
+      "price": "1350"
+    },
+    {
       "name": "Festival Queen Anivia",
       "date": "23-Feb-2017",
       "price": "975"
@@ -500,7 +510,7 @@ let champion={
     },
     {
       "name": "Coven Ashe",
-      "date": "N/A",
+      "date": "12-Aug-2021",
       "price": "1350"
     },
     {
@@ -888,7 +898,7 @@ let champion={
   "Cassiopeia": [
     {
       "name": "Coven Cassiopeia",
-      "date": "N/A",
+      "date": "12-Aug-2021",
       "price": "1350"
     },
     {
@@ -1041,6 +1051,11 @@ let champion={
       "name": "Bioforge Darius",
       "date": "13-Nov-2012",
       "price": "975"
+    },
+    {
+      "name": "Crime City Nightmare Darius",
+      "date": "26-Aug-2021",
+      "price": "1350"
     },
     {
       "name": "Dreadnova Darius",
@@ -1331,7 +1346,7 @@ let champion={
     },
     {
       "name": "Coven Evelynn",
-      "date": "N/A",
+      "date": "12-Aug-2021",
       "price": "1820"
     },
     {
@@ -1515,6 +1530,11 @@ let champion={
     }
   ],
   "Fiora": [
+    {
+      "name": "Bewitching Fiora",
+      "date": "07-Oct-2021",
+      "price": "1350"
+    },
     {
       "name": "Headmistress Fiora",
       "date": "26-Oct-2012",
@@ -2309,6 +2329,11 @@ let champion={
       "name": "Warring Kingdoms Jarvan IV",
       "date": "08-Feb-2013",
       "price": "1350"
+    },
+    {
+      "name": "Worlds 2021 Jarvan IV",
+      "date": "23-Sep-2021",
+      "price": "1350"
     }
   ],
   "Jax": [
@@ -2531,6 +2556,11 @@ let champion={
       "price": "1350"
     },
     {
+      "name": "Lagoon Dragon Kai'Sa",
+      "date": "N/A",
+      "price": "1350"
+    },
+    {
       "name": "Original Kai'Sa",
       "date": "07-Mar-2018",
       "price": "975"
@@ -2630,6 +2660,11 @@ let champion={
       "price": "975"
     },
     {
+      "name": "Tranquility Dragon Karma",
+      "date": "N/A",
+      "price": "1350"
+    },
+    {
       "name": "Warden Karma",
       "date": "30-Sep-2015",
       "price": "750"
@@ -2670,6 +2705,11 @@ let champion={
       "name": "Pentakill Karthus",
       "date": "29-Aug-2011",
       "price": "750"
+    },
+    {
+      "name": "Pentakill III: Lost Chapter Karthus",
+      "date": "09-Sep-2021",
+      "price": "1350"
     },
     {
       "name": "Phantom Karthus",
@@ -2833,6 +2873,11 @@ let champion={
       "price": "1350"
     },
     {
+      "name": "Pentakill III: Lost Chapter Kayle",
+      "date": "09-Sep-2021",
+      "price": "1350"
+    },
+    {
       "name": "PsyOps Kayle",
       "date": "17-Sep-2020",
       "price": "1350"
@@ -2865,6 +2910,11 @@ let champion={
   ],
   "Kayn": [
     {
+      "name": "Nightbringer Kayn",
+      "date": "23-Sep-2021",
+      "price": "1350"
+    },
+    {
       "name": "Odyssey Kayn",
       "date": "12-Sep-2018",
       "price": "1820"
@@ -2873,6 +2923,11 @@ let champion={
       "name": "Original Kayn",
       "date": "11-Jul-2017",
       "price": "975"
+    },
+    {
+      "name": "Nightbringer Kayn Prestige Edition",
+      "date": "23-Sep-2021",
+      "price": "special"
     },
     {
       "name": "Soulhunter Kayn",
@@ -3108,7 +3163,7 @@ let champion={
     },
     {
       "name": "Coven LeBlanc Prestige Edition",
-      "date": "N/A",
+      "date": "12-Aug-2021",
       "price": "special"
     },
     {
@@ -3277,6 +3332,11 @@ let champion={
     }
   ],
   "Lillia": [
+    {
+      "name": "Nightbringer Lillia",
+      "date": "23-Sep-2021",
+      "price": "1350"
+    },
     {
       "name": "Original Lillia",
       "date": "22-Jul-2020",
@@ -3559,7 +3619,7 @@ let champion={
     },
     {
       "name": "Old God Malphite",
-      "date": "N/A",
+      "date": "12-Aug-2021",
       "price": "1350"
     },
     {
@@ -3866,6 +3926,11 @@ let champion={
       "name": "Pentakill Mordekaiser",
       "date": "21-Sep-2010",
       "price": "975"
+    },
+    {
+      "name": "Pentakill III: Lost Chapter Mordekaiser",
+      "date": "09-Sep-2021",
+      "price": "1350"
     }
   ],
   "Morgana": [
@@ -3888,6 +3953,11 @@ let champion={
       "name": "Coven Morgana",
       "date": "16-Apr-2020",
       "price": "1820"
+    },
+    {
+      "name": "Dawnbringer Morgana",
+      "date": "23-Sep-2021",
+      "price": "1350"
     },
     {
       "name": "Exiled Morgana",
@@ -3915,6 +3985,11 @@ let champion={
       "price": "585"
     },
     {
+      "name": "Bewitching Morgana Prestige Edition",
+      "date": "07-Oct-2021",
+      "price": "special"
+    },
+    {
       "name": "Sinful Succulence Morgana",
       "date": "02-Sep-2010",
       "price": "975"
@@ -3926,6 +4001,11 @@ let champion={
     }
   ],
   "Nami": [
+    {
+      "name": "Bewitching Nami",
+      "date": "07-Oct-2021",
+      "price": "1350"
+    },
     {
       "name": "Cosmic Destiny Nami",
       "date": "24-Nov-2020",
@@ -4306,6 +4386,11 @@ let champion={
       "price": "975"
     },
     {
+      "name": "Pentakill III: Lost Chapter Olaf",
+      "date": "09-Sep-2021",
+      "price": "1350"
+    },
+    {
       "name": "SKT T1 Olaf",
       "date": "27-Jun-2017",
       "price": "1350"
@@ -4457,6 +4542,11 @@ let champion={
       "name": "Battle Regalia Poppy",
       "date": "15-Mar-2011",
       "price": "520"
+    },
+    {
+      "name": "Bewitching Poppy",
+      "date": "07-Oct-2021",
+      "price": "1350"
     },
     {
       "name": "Blacksmith Poppy",
@@ -5106,6 +5196,11 @@ let champion={
   ],
   "Seraphine": [
     {
+      "name": "Graceful Phoenix Seraphine",
+      "date": "02-Sep-2021",
+      "price": "1350"
+    },
+    {
       "name": "K/DA ALL OUT Seraphine Indie",
       "date": "29-Oct-2020",
       "price": "3250"
@@ -5163,6 +5258,11 @@ let champion={
       "name": "Asylum Shaco",
       "date": "07-Nov-2011",
       "price": "975"
+    },
+    {
+      "name": "Crime City Nightmare Shaco",
+      "date": "26-Aug-2021",
+      "price": "1350"
     },
     {
       "name": "Dark Star Shaco",
@@ -5534,6 +5634,11 @@ let champion={
       "price": "975"
     },
     {
+      "name": "Pentakill III: Lost Chapter Sona",
+      "date": "09-Sep-2021",
+      "price": "1350"
+    },
+    {
       "name": "PsyOps Sona",
       "date": "03-Sep-2020",
       "price": "1820"
@@ -5685,6 +5790,11 @@ let champion={
       "name": "Atlantean Syndra",
       "date": "29-Apr-2014",
       "price": "975"
+    },
+    {
+      "name": "Bewitching Syndra",
+      "date": "07-Oct-2021",
+      "price": "1350"
     },
     {
       "name": "Justicar Syndra",
@@ -5979,9 +6089,14 @@ let champion={
       "price": "1820"
     },
     {
+      "name": "Steel Dragon Thresh",
+      "date": "N/A",
+      "price": "1350"
+    },
+    {
       "name": "Unbound Thresh",
       "date": "29-Jul-2021",
-      "price": "special"
+      "price": "750"
     }
   ],
   "Tristana": [
@@ -6014,6 +6129,11 @@ let champion={
       "name": "Guerilla Tristana",
       "date": "10-Aug-2010",
       "price": "975"
+    },
+    {
+      "name": "Hextech Tristana",
+      "date": "09-Sep-2021",
+      "price": "special"
     },
     {
       "name": "Little Demon Tristana",
@@ -6115,6 +6235,11 @@ let champion={
       "price": "520"
     },
     {
+      "name": "Nightbringer Tryndamere",
+      "date": "23-Sep-2021",
+      "price": "1350"
+    },
+    {
       "name": "Nightmare Tryndamere",
       "date": "07-Jun-2015",
       "price": "750"
@@ -6144,6 +6269,11 @@ let champion={
     {
       "name": "Blood Moon Twisted Fate",
       "date": "09-Feb-2017",
+      "price": "1350"
+    },
+    {
+      "name": "Crime City Nightmare Twisted Fate",
+      "date": "26-Aug-2021",
       "price": "1350"
     },
     {
@@ -6566,6 +6696,18 @@ let champion={
       "price": "975"
     }
   ],
+  "Vex": [
+    {
+      "name": "Dawnbringer Vex",
+      "date": "23-Sep-2021",
+      "price": "1350"
+    },
+    {
+      "name": "Original Vex",
+      "date": "23-Sep-2021",
+      "price": "975"
+    }
+  ],
   "Vi": [
     {
       "name": "Debonair Vi",
@@ -6614,6 +6756,11 @@ let champion={
     }
   ],
   "Viego": [
+    {
+      "name": "Dissonance of Pentakill Viego",
+      "date": "09-Sep-2021",
+      "price": "1350"
+    },
     {
       "name": "Lunar Beast Viego",
       "date": "21-Jan-2021",
@@ -6721,6 +6868,11 @@ let champion={
       "price": "750"
     },
     {
+      "name": "Duality Dragon Volibear",
+      "date": "N/A",
+      "price": "1350"
+    },
+    {
       "name": "El Rayo Volibear",
       "date": "01-Jun-2016",
       "price": "750"
@@ -6734,6 +6886,11 @@ let champion={
       "name": "Original Volibear",
       "date": "29-Nov-2011",
       "price": "880"
+    },
+    {
+      "name": "Duality Dragon Volibear Prestige Edition",
+      "date": "N/A",
+      "price": "special"
     },
     {
       "name": "Runeguard Volibear",
@@ -6789,7 +6946,7 @@ let champion={
     },
     {
       "name": "Old God Warwick",
-      "date": "N/A",
+      "date": "12-Aug-2021",
       "price": "1350"
     },
     {
@@ -6856,6 +7013,11 @@ let champion={
     }
   ],
   "Xayah": [
+    {
+      "name": "Brave Phoenix Xayah",
+      "date": "02-Sep-2021",
+      "price": "1350"
+    },
     {
       "name": "Cosmic Dusk Xayah",
       "date": "18-Apr-2017",
@@ -6988,6 +7150,11 @@ let champion={
       "price": "975"
     },
     {
+      "name": "Dream Dragon Yasuo",
+      "date": "N/A",
+      "price": "1820"
+    },
+    {
       "name": "High Noon Yasuo",
       "date": "13-Dec-2013",
       "price": "975"
@@ -7026,6 +7193,11 @@ let champion={
       "name": "True Damage Yasuo",
       "date": "10-Nov-2019",
       "price": "1350"
+    },
+    {
+      "name": "Truth Dragon Yasuo",
+      "date": "N/A",
+      "price": "1820"
     }
   ],
   "Yone": [
@@ -7033,6 +7205,11 @@ let champion={
       "name": "Battle Academia Yone",
       "date": "18-Mar-2021",
       "price": "1350"
+    },
+    {
+      "name": "Dawnbringer Yone",
+      "date": "23-Sep-2021",
+      "price": "1820"
     },
     {
       "name": "Original Yone",
@@ -7067,6 +7244,11 @@ let champion={
       "price": "975"
     },
     {
+      "name": "Pentakill III: Lost Chapter Yorick",
+      "date": "09-Sep-2021",
+      "price": "1350"
+    },
+    {
       "name": "Resistance Yorick",
       "date": "12-Nov-2020",
       "price": "1350"
@@ -7081,6 +7263,11 @@ let champion={
     {
       "name": "Battle Principal Yuumi",
       "date": "14-May-2019",
+      "price": "1350"
+    },
+    {
+      "name": "Bewitching Yuumi",
+      "date": "07-Oct-2021",
       "price": "1350"
     },
     {
@@ -7298,6 +7485,11 @@ let champion={
     {
       "name": "Coven Zyra",
       "date": "16-Apr-2020",
+      "price": "1350"
+    },
+    {
+      "name": "Crime City Nightmare Zyra",
+      "date": "26-Aug-2021",
       "price": "1350"
     },
     {
