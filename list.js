@@ -7584,12 +7584,12 @@ let champion={
   ],
   "Zeri": [
     {
-      "name": "Original Zeri",
+      "name": "Withered Rose Zeri",
       "date": "20-Jan-2022",
       "price": "975"
     },
     {
-      "name": "Withered Rose Zeri",
+      "name": "Original Zeri",
       "date": "20-Jan-2022",
       "price": "1350"
     }
