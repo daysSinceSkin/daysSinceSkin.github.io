@@ -197,6 +197,11 @@ let champion={
   ],
   "Akshan": [
     {
+      "name": "Crystal Rose Akshan",
+      "date": "10-Feb-2022",
+      "price": "1350"
+    },
+    {
       "name": "Cyber Pop Akshan",
       "date": "22-Jul-2021",
       "price": "1350"
@@ -321,6 +326,11 @@ let champion={
       "price": "520"
     },
     {
+      "name": "Porcelain Amumu",
+      "date": "26-Jan-2022",
+      "price": "1350"
+    },
+    {
       "name": "Pumpkin Prince Amumu",
       "date": "22-Oct-2020",
       "price": "1350"
@@ -413,6 +423,11 @@ let champion={
       "name": "Annie-Versary",
       "date": "27-Oct-2019",
       "price": "special"
+    },
+    {
+      "name": "Cafe Cuties Annie",
+      "date": "02-Dec-2021",
+      "price": "1350"
     },
     {
       "name": "FrankenTibbers Annie",
@@ -630,6 +645,11 @@ let champion={
       "price": "750"
     },
     {
+      "name": "Cafe Cuties Bard",
+      "date": "02-Dec-2021",
+      "price": "1350"
+    },
+    {
       "name": "Elderwood Bard",
       "date": "12-Mar-2015",
       "price": "975"
@@ -702,7 +722,12 @@ let champion={
       "price": "1820"
     },
     {
-      "name": "Witch's Brew Blitzcrank",
+      "name": "Victorious Blitzcrank",
+      "date": "16-Nov-2021",
+      "price": "special"
+    },
+    {
+      "name": "Witchs Brew Blitzcrank",
       "date": "24-Oct-2019",
       "price": "1350"
     },
@@ -734,6 +759,11 @@ let champion={
       "price": "975"
     },
     {
+      "name": "Debonair Brand",
+      "date": "09-Dec-2021",
+      "price": "1350"
+    },
+    {
       "name": "Eternal Dragon Brand",
       "date": "01-Oct-2020",
       "price": "1350"
@@ -742,6 +772,11 @@ let champion={
       "name": "Original Brand",
       "date": "12-Apr-2011",
       "price": "880"
+    },
+    {
+      "name": "Debonair Brand Prestige Edition",
+      "date": "09-Dec-2021",
+      "price": "special"
     },
     {
       "name": "Spirit Fire Brand",
@@ -806,6 +841,11 @@ let champion={
       "name": "Arcade Caitlyn",
       "date": "28-Jun-2019",
       "price": "1350"
+    },
+    {
+      "name": "Arcane Caitlyn",
+      "date": "22-Nov-2021",
+      "price": "975"
     },
     {
       "name": "Arctic Warfare Caitlyn",
@@ -939,47 +979,47 @@ let champion={
   ],
   "ChoGath": [
     {
-      "name": "Battlecast Prime Cho'Gath",
+      "name": "Battlecast Prime ChoGath",
       "date": "03-Aug-2012",
       "price": "1820"
     },
     {
-      "name": "Dark Star Cho'Gath",
+      "name": "Dark Star ChoGath",
       "date": "13-Jul-2018",
       "price": "special"
     },
     {
-      "name": "Gentleman Cho'Gath",
+      "name": "Gentleman ChoGath",
       "date": "11-May-2010",
       "price": "1820"
     },
     {
-      "name": "Jurassic Cho'Gath",
+      "name": "Jurassic ChoGath",
       "date": "01-Nov-2011",
       "price": "975"
     },
     {
-      "name": "Loch Ness Cho'Gath",
+      "name": "Loch Ness ChoGath",
       "date": "01-Mar-2011",
       "price": "520"
     },
     {
-      "name": "Nightmare Cho'Gath",
+      "name": "Nightmare ChoGath",
       "date": "20-Nov-2009",
       "price": "520"
     },
     {
-      "name": "Original Cho'Gath",
+      "name": "Original ChoGath",
       "date": "25-Jun-2009",
       "price": "585"
     },
     {
-      "name": "Prehistoric Cho'Gath",
+      "name": "Prehistoric ChoGath",
       "date": "14-Jun-2015",
       "price": "750"
     },
     {
-      "name": "Shan Hai Scrolls Cho'Gath",
+      "name": "Shan Hai Scrolls ChoGath",
       "date": "28-Jan-2021",
       "price": "1350"
     }
@@ -1125,6 +1165,11 @@ let champion={
       "price": "1350"
     },
     {
+      "name": "Firecracker Diana",
+      "date": "26-Jan-2022",
+      "price": "1350"
+    },
+    {
       "name": "Infernal Diana",
       "date": "20-Apr-2016",
       "price": "1350"
@@ -1214,6 +1259,11 @@ let champion={
       "price": "750"
     },
     {
+      "name": "Debonair Draven",
+      "date": "09-Dec-2021",
+      "price": "1350"
+    },
+    {
       "name": "Draven Draven",
       "date": "31-Mar-2016",
       "price": "500"
@@ -1264,6 +1314,11 @@ let champion={
       "name": "Academy Ekko",
       "date": "26-Aug-2015",
       "price": "750"
+    },
+    {
+      "name": "Firelight Ekko",
+      "date": "17-Feb-2022",
+      "price": "1350"
     },
     {
       "name": "Original Ekko",
@@ -1336,6 +1391,11 @@ let champion={
       "name": "Victorious Elise",
       "date": "20-Dec-2013",
       "price": "special"
+    },
+    {
+      "name": "Withered Rose Elise",
+      "date": "10-Feb-2022",
+      "price": "1350"
     }
   ],
   "Evelynn": [
@@ -1440,6 +1500,11 @@ let champion={
       "name": "Pajama Guardian Ezreal",
       "date": "21-Nov-2018",
       "price": "1350"
+    },
+    {
+      "name": "Porcelain Protector Ezreal",
+      "date": "26-Jan-2022",
+      "price": "1820"
     },
     {
       "name": "PsyOps Ezreal Prestige Edition",
@@ -1846,6 +1911,11 @@ let champion={
       "price": "750"
     },
     {
+      "name": "Elderwood Gnar",
+      "date": "06-Jan-2022",
+      "price": "1350"
+    },
+    {
       "name": "Gentleman Gnar",
       "date": "14-Jul-2015",
       "price": "975"
@@ -1997,6 +2067,11 @@ let champion={
   ],
   "Gwen": [
     {
+      "name": "Cafe Cuties Gwen",
+      "date": "02-Dec-2021",
+      "price": "1350"
+    },
+    {
       "name": "Original Gwen",
       "date": "15-Apr-2021",
       "price": "975"
@@ -2079,6 +2154,11 @@ let champion={
       "name": "Hazmat Heimerdinger",
       "date": "13-Jul-2014",
       "price": "975"
+    },
+    {
+      "name": "Heimerstinger",
+      "date": "N/A",
+      "price": "1350"
     },
     {
       "name": "Original Heimerdinger",
@@ -2216,6 +2296,11 @@ let champion={
     {
       "name": "Bewitching Janna",
       "date": "24-Oct-2018",
+      "price": "1350"
+    },
+    {
+      "name": "Crystal Rose Janna",
+      "date": "10-Feb-2022",
       "price": "1350"
     },
     {
@@ -2410,6 +2495,11 @@ let champion={
   ],
   "Jayce": [
     {
+      "name": "Arcane Jayce",
+      "date": "08-Nov-2021",
+      "price": "975"
+    },
+    {
       "name": "Battle Academia Jayce",
       "date": "15-May-2019",
       "price": "1350"
@@ -2494,6 +2584,11 @@ let champion={
       "price": "1350"
     },
     {
+      "name": "Arcane Jinx",
+      "date": "24-Nov-2021",
+      "price": "975"
+    },
+    {
       "name": "Crime City Jinx",
       "date": "09-Oct-2013",
       "price": "975"
@@ -2536,47 +2631,47 @@ let champion={
   ],
   "KaiSa": [
     {
-      "name": "Arcade Kai'Sa",
+      "name": "Arcade KaiSa",
       "date": "28-Jun-2019",
       "price": "1350"
     },
     {
-      "name": "Bullet Angel Kai'Sa",
+      "name": "Bullet Angel KaiSa",
       "date": "07-Mar-2018",
       "price": "1350"
     },
     {
-      "name": "K/DA Kai'Sa",
+      "name": "K/DA KaiSa",
       "date": "03-Nov-2018",
       "price": "1350"
     },
     {
-      "name": "K/DA ALL OUT Kai'Sa",
+      "name": "K/DA ALL OUT KaiSa",
       "date": "29-Oct-2020",
       "price": "1350"
     },
     {
-      "name": "Lagoon Dragon Kai'Sa",
-      "date": "N/A",
+      "name": "Lagoon Dragon KaiSa",
+      "date": "21-Oct-2021",
       "price": "1350"
     },
     {
-      "name": "Original Kai'Sa",
+      "name": "Original KaiSa",
       "date": "07-Mar-2018",
       "price": "975"
     },
     {
-      "name": "K/DA Kai'Sa Prestige Edition",
+      "name": "K/DA KaiSa Prestige Edition",
       "date": "03-Nov-2018",
       "price": "special"
     },
     {
-      "name": "K/DA ALL OUT Kai'Sa Prestige Edition",
+      "name": "K/DA ALL OUT KaiSa Prestige Edition",
       "date": "29-Oct-2020",
       "price": "special"
     },
     {
-      "name": "iG Kai'Sa",
+      "name": "iG KaiSa",
       "date": "23-Apr-2019",
       "price": "1350"
     }
@@ -2661,7 +2756,7 @@ let champion={
     },
     {
       "name": "Tranquility Dragon Karma",
-      "date": "N/A",
+      "date": "21-Oct-2021",
       "price": "1350"
     },
     {
@@ -2762,6 +2857,11 @@ let champion={
       "name": "Pre-Void Kassadin",
       "date": "26-Sep-2010",
       "price": "520"
+    },
+    {
+      "name": "Shockblade Kassadin",
+      "date": "17-Feb-2022",
+      "price": "1350"
     }
   ],
   "Katarina": [
@@ -2898,11 +2998,6 @@ let champion={
       "price": "975"
     },
     {
-      "name": "Unmasked Kayle",
-      "date": "13-Jul-2010",
-      "price": "975"
-    },
-    {
       "name": "Viridian Kayle",
       "date": "01-Jun-2010",
       "price": "520"
@@ -2989,37 +3084,37 @@ let champion={
   ],
   "KhaZix": [
     {
-      "name": "Championship Kha'Zix",
+      "name": "Championship KhaZix",
       "date": "27-Sep-2018",
       "price": "1350"
     },
     {
-      "name": "Dark Star Kha'Zix",
+      "name": "Dark Star KhaZix",
       "date": "03-May-2017",
       "price": "1350"
     },
     {
-      "name": "Death Blossom Kha'Zix",
+      "name": "Death Blossom KhaZix",
       "date": "17-Mar-2016",
       "price": "975"
     },
     {
-      "name": "Guardian of the Sands Kha'Zix",
+      "name": "Guardian of the Sands KhaZix",
       "date": "09-Sep-2014",
       "price": "975"
     },
     {
-      "name": "Mecha Kha'Zix",
+      "name": "Mecha KhaZix",
       "date": "26-Sep-2012",
       "price": "1350"
     },
     {
-      "name": "Odyssey Kha'Zix",
+      "name": "Odyssey KhaZix",
       "date": "15-Oct-2020",
       "price": "1350"
     },
     {
-      "name": "Original Kha'Zix",
+      "name": "Original KhaZix",
       "date": "26-Sep-2012",
       "price": "880"
     }
@@ -3029,6 +3124,11 @@ let champion={
       "name": "Original Kindred",
       "date": "13-Oct-2015",
       "price": "975"
+    },
+    {
+      "name": "Porcelain Kindred",
+      "date": "26-Jan-2022",
+      "price": "1350"
     },
     {
       "name": "Shadowfire Kindred",
@@ -3070,67 +3170,67 @@ let champion={
   ],
   "KogMaw": [
     {
-      "name": "Arcanist Kog'Maw",
+      "name": "Arcanist KogMaw",
       "date": "09-Jul-2020",
       "price": "1350"
     },
     {
-      "name": "Battlecast Kog'Maw",
+      "name": "Battlecast KogMaw",
       "date": "25-Nov-2014",
       "price": "1350"
     },
     {
-      "name": "Bee'Maw",
+      "name": "BeeMaw",
       "date": "04-Mar-2021",
       "price": "1350"
     },
     {
-      "name": "Caterpillar Kog'Maw",
+      "name": "Caterpillar KogMaw",
       "date": "24-Jun-2010",
       "price": "520"
     },
     {
-      "name": "Deep Sea Kog'Maw",
+      "name": "Deep Sea KogMaw",
       "date": "19-Sep-2011",
       "price": "975"
     },
     {
-      "name": "Hextech Kog'Maw",
+      "name": "Hextech KogMaw",
       "date": "07-Dec-2017",
       "price": "special"
     },
     {
-      "name": "Jurassic Kog'Maw",
+      "name": "Jurassic KogMaw",
       "date": "23-Mar-2012",
       "price": "975"
     },
     {
-      "name": "Lion Dance Kog'Maw",
+      "name": "Lion Dance KogMaw",
       "date": "01-Feb-2011",
       "price": "1350"
     },
     {
-      "name": "Monarch Kog'Maw",
+      "name": "Monarch KogMaw",
       "date": "16-Nov-2010",
       "price": "520"
     },
     {
-      "name": "Original Kog'Maw",
+      "name": "Original KogMaw",
       "date": "24-Jun-2010",
       "price": "880"
     },
     {
-      "name": "Pug'Maw",
+      "name": "PugMaw",
       "date": "29-Mar-2017",
       "price": "975"
     },
     {
-      "name": "Reindeer Kog'Maw",
+      "name": "Reindeer KogMaw",
       "date": "14-Dec-2010",
       "price": "975"
     },
     {
-      "name": "Sonoran Kog'Maw",
+      "name": "Sonoran KogMaw",
       "date": "24-Jun-2010",
       "price": "520"
     }
@@ -3144,6 +3244,11 @@ let champion={
     {
       "name": "Coven LeBlanc",
       "date": "16-Apr-2020",
+      "price": "1350"
+    },
+    {
+      "name": "Debonair LeBlanc",
+      "date": "09-Dec-2021",
       "price": "1350"
     },
     {
@@ -3281,6 +3386,11 @@ let champion={
       "price": "1350"
     },
     {
+      "name": "Debonair Leona",
+      "date": "09-Dec-2021",
+      "price": "1350"
+    },
+    {
       "name": "Defender Leona",
       "date": "13-Jul-2011",
       "price": "750"
@@ -3373,6 +3483,11 @@ let champion={
       "name": "Original Lissandra",
       "date": "29-Apr-2013",
       "price": "975"
+    },
+    {
+      "name": "Porcelain Lissandra",
+      "date": "26-Jan-2022",
+      "price": "1350"
     },
     {
       "name": "Program Lissandra",
@@ -3541,8 +3656,18 @@ let champion={
       "price": "1350"
     },
     {
+      "name": "Porcelain Lux",
+      "date": "26-Jan-2022",
+      "price": "1350"
+    },
+    {
       "name": "Battle Academia Lux Prestige Edition",
       "date": "15-May-2019",
+      "price": "special"
+    },
+    {
+      "name": "Porcelain Lux Prestige Edition",
+      "date": "26-Jan-2022",
       "price": "special"
     },
     {
@@ -3647,6 +3772,11 @@ let champion={
     {
       "name": "Beezahar",
       "date": "04-Mar-2021",
+      "price": "1350"
+    },
+    {
+      "name": "Debonair Malzahar",
+      "date": "09-Dec-2021",
       "price": "1350"
     },
     {
@@ -3761,6 +3891,11 @@ let champion={
     {
       "name": "Cosmic Blade Master Yi",
       "date": "26-Apr-2017",
+      "price": "1350"
+    },
+    {
+      "name": "Debonair Master Yi",
+      "date": "09-Dec-2021",
       "price": "1350"
     },
     {
@@ -4304,6 +4439,11 @@ let champion={
       "price": "750"
     },
     {
+      "name": "Nunu & Beelump",
+      "date": "N/A",
+      "price": "1350"
+    },
+    {
       "name": "Nunu & Willump Bot",
       "date": "05-May-2011",
       "price": "1820"
@@ -4420,6 +4560,11 @@ let champion={
     {
       "name": "Heartseeker Orianna",
       "date": "11-Feb-2016",
+      "price": "1350"
+    },
+    {
+      "name": "Orbeeanna",
+      "date": "N/A",
       "price": "1350"
     },
     {
@@ -4648,6 +4793,11 @@ let champion={
       "price": "special"
     },
     {
+      "name": "Shockblade Qiyana",
+      "date": "17-Feb-2022",
+      "price": "1350"
+    },
+    {
       "name": "True Damage Qiyana",
       "date": "10-Nov-2019",
       "price": "1350"
@@ -4781,22 +4931,27 @@ let champion={
   ],
   "RekSai": [
     {
-      "name": "Blackfrost Rek'Sai",
+      "name": "Blackfrost RekSai",
       "date": "05-Mar-2020",
       "price": "1350"
     },
     {
-      "name": "Eternum Rek'Sai",
+      "name": "Elderwood RekSai",
+      "date": "06-Jan-2022",
+      "price": "1350"
+    },
+    {
+      "name": "Eternum RekSai",
       "date": "11-Dec-2014",
       "price": "1350"
     },
     {
-      "name": "Original Rek'Sai",
+      "name": "Original RekSai",
       "date": "11-Dec-2014",
       "price": "975"
     },
     {
-      "name": "Pool Party Rek'Sai",
+      "name": "Pool Party RekSai",
       "date": "25-Jun-2015",
       "price": "1350"
     }
@@ -4810,6 +4965,18 @@ let champion={
     {
       "name": "Original Rell",
       "date": "10-Dec-2020",
+      "price": "975"
+    }
+  ],
+  "Renata Glasc": [
+    {
+      "name": "Admiral Glasc",
+      "date": "17-Feb-2022",
+      "price": "1350"
+    },
+    {
+      "name": "Original Renata Glasc",
+      "date": "17-Feb-2022",
       "price": "975"
     }
   ],
@@ -5223,6 +5390,11 @@ let champion={
   ],
   "Sett": [
     {
+      "name": "Firecracker Sett",
+      "date": "26-Jan-2022",
+      "price": "1350"
+    },
+    {
       "name": "Mecha Kingdoms Sett",
       "date": "14-Jan-2020",
       "price": "1350"
@@ -5334,6 +5506,11 @@ let champion={
     {
       "name": "Pulsefire Shen",
       "date": "17-May-2018",
+      "price": "1350"
+    },
+    {
+      "name": "Shockblade Shen",
+      "date": "17-Feb-2022",
       "price": "1350"
     },
     {
@@ -5510,6 +5687,11 @@ let champion={
       "price": "1350"
     },
     {
+      "name": "Cafe Cuties Sivir",
+      "date": "02-Dec-2021",
+      "price": "1350"
+    },
+    {
       "name": "Huntress Sivir",
       "date": "07-Feb-2011",
       "price": "special"
@@ -5655,6 +5837,11 @@ let champion={
     }
   ],
   "Soraka": [
+    {
+      "name": "Cafe Cuties Soraka",
+      "date": "02-Dec-2021",
+      "price": "1350"
+    },
     {
       "name": "Celestine Soraka",
       "date": "05-Mar-2013",
@@ -5987,6 +6174,11 @@ let champion={
       "price": "975"
     },
     {
+      "name": "Firecracker Teemo",
+      "date": "26-Jan-2022",
+      "price": "1350"
+    },
+    {
       "name": "Happy Elf Teemo",
       "date": "17-Dec-2009",
       "price": "520"
@@ -6090,7 +6282,7 @@ let champion={
     },
     {
       "name": "Steel Dragon Thresh",
-      "date": "N/A",
+      "date": "21-Oct-2021",
       "price": "1350"
     },
     {
@@ -6119,6 +6311,11 @@ let champion={
       "name": "Earnest Elf Tristana",
       "date": "31-Dec-2009",
       "price": "520"
+    },
+    {
+      "name": "Firecracker Tristana",
+      "date": "26-Jan-2022",
+      "price": "1350"
     },
     {
       "name": "Firefighter Tristana",
@@ -6183,7 +6380,7 @@ let champion={
       "price": "750"
     },
     {
-      "name": "Lil' Slugger Trundle",
+      "name": "Lil Slugger Trundle",
       "date": "01-Dec-2010",
       "price": "520"
     },
@@ -6666,32 +6863,32 @@ let champion={
   ],
   "VelKoz": [
     {
-      "name": "Arclight Vel'Koz",
+      "name": "Arclight VelKoz",
       "date": "28-Jan-2015",
       "price": "1350"
     },
     {
-      "name": "Battlecast Vel'Koz",
+      "name": "Battlecast VelKoz",
       "date": "27-Feb-2014",
       "price": "1350"
     },
     {
-      "name": "Blackfrost Vel'Koz",
+      "name": "Blackfrost VelKoz",
       "date": "15-Apr-2021",
       "price": "1350"
     },
     {
-      "name": "Definitely Not Vel'Koz",
+      "name": "Definitely Not VelKoz",
       "date": "31-Mar-2016",
       "price": "750"
     },
     {
-      "name": "Infernal Vel'Koz",
+      "name": "Infernal VelKoz",
       "date": "16-Jul-2020",
       "price": "1350"
     },
     {
-      "name": "Original Vel'Koz",
+      "name": "Original VelKoz",
       "date": "27-Feb-2014",
       "price": "975"
     }
@@ -6709,6 +6906,11 @@ let champion={
     }
   ],
   "Vi": [
+    {
+      "name": "Arcane Vi",
+      "date": "15-Nov-2021",
+      "price": "975"
+    },
     {
       "name": "Debonair Vi",
       "date": "05-Aug-2014",
@@ -6816,6 +7018,11 @@ let champion={
       "price": "1820"
     },
     {
+      "name": "Cafe Cuties Vladimir",
+      "date": "02-Dec-2021",
+      "price": "1350"
+    },
+    {
       "name": "Cosmic Devourer Vladimir",
       "date": "24-Nov-2020",
       "price": "1350"
@@ -6869,7 +7076,7 @@ let champion={
     },
     {
       "name": "Duality Dragon Volibear",
-      "date": "N/A",
+      "date": "21-Oct-2021",
       "price": "1350"
     },
     {
@@ -6889,7 +7096,7 @@ let champion={
     },
     {
       "name": "Duality Dragon Volibear Prestige Edition",
-      "date": "N/A",
+      "date": "21-Oct-2021",
       "price": "special"
     },
     {
@@ -7034,6 +7241,11 @@ let champion={
       "price": "975"
     },
     {
+      "name": "Brave Phoenix Xayah Prestige Edition",
+      "date": "17-Feb-2022",
+      "price": "special"
+    },
+    {
       "name": "SSG Xayah",
       "date": "20-Jul-2018",
       "price": "1350"
@@ -7103,6 +7315,11 @@ let champion={
       "price": "1350"
     },
     {
+      "name": "Firecracker Xin Zhao",
+      "date": "26-Jan-2022",
+      "price": "1350"
+    },
+    {
       "name": "Imperial Xin Zhao",
       "date": "13-Jul-2010",
       "price": "520"
@@ -7151,7 +7368,7 @@ let champion={
     },
     {
       "name": "Dream Dragon Yasuo",
-      "date": "N/A",
+      "date": "21-Oct-2021",
       "price": "1820"
     },
     {
@@ -7196,7 +7413,7 @@ let champion={
     },
     {
       "name": "Truth Dragon Yasuo",
-      "date": "N/A",
+      "date": "21-Oct-2021",
       "price": "1820"
     }
   ],
@@ -7325,6 +7542,11 @@ let champion={
       "price": "1350"
     },
     {
+      "name": "Debonair Zed",
+      "date": "09-Dec-2021",
+      "price": "1820"
+    },
+    {
       "name": "Galaxy Slayer Zed",
       "date": "18-Apr-2019",
       "price": "1820"
@@ -7360,7 +7582,24 @@ let champion={
       "price": "975"
     }
   ],
+  "Zeri": [
+    {
+      "name": "Original Zeri",
+      "date": "20-Jan-2022",
+      "price": "975"
+    },
+    {
+      "name": "Withered Rose Zeri",
+      "date": "20-Jan-2022",
+      "price": "1350"
+    }
+  ],
   "Ziggs": [
+    {
+      "name": "BZZZiggs",
+      "date": "N/A",
+      "price": "1350"
+    },
     {
       "name": "Battle Boss Ziggs",
       "date": "08-Aug-2017",
