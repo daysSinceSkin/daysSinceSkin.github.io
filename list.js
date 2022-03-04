@@ -2579,6 +2579,16 @@ let champion={
   ],
   "Jinx": [
     {
+      "name": "Battle Cat Jinx",
+      "date": "N/A",
+      "price": "1350"
+    },
+    {
+      "name": "Battle Cat Jinx Prestige Edition",
+      "date": "N/A",
+      "price": "9999"
+    },
+    {
       "name": "Ambitious Elf Jinx",
       "date": "12-Dec-2017",
       "price": "1350"
@@ -3941,6 +3951,11 @@ let champion={
   ],
   "Miss Fortune": [
     {
+      "name": "Battle Bunny Miss Fortune",
+      "date": "N/A",
+      "price": "1820"
+    },
+    {
       "name": "Arcade Miss Fortune",
       "date": "12-Aug-2014",
       "price": "1350"
@@ -4741,6 +4756,11 @@ let champion={
   ],
   "Pyke": [
     {
+      "name": "Ashen Knight Pyke",
+      "date": "N/A",
+      "price": "100"
+    },
+    {
       "name": "Blood Moon Pyke",
       "date": "10-Jan-2019",
       "price": "1350"
@@ -5090,6 +5110,11 @@ let champion={
     }
   ],
   "Riven": [
+    {
+      "name": "Battle Bunny Prime Riven",
+      "date": "N/A",
+      "price": "1350"
+    },
     {
       "name": "Arcade Riven",
       "date": "19-Aug-2015",
@@ -5947,6 +5972,11 @@ let champion={
   ],
   "Sylas": [
     {
+      "name": "Battle Wolf Sylas",
+      "date": "N/A",
+      "price": "1350"
+    },
+    {
       "name": "Freljord Sylas",
       "date": "10-Jan-2020",
       "price": "1350"
@@ -6723,6 +6753,11 @@ let champion={
     }
   ],
   "Vayne": [
+    {
+      "name": "Battle Bat Vayne",
+      "date": "N/A",
+      "price": "1350"
+    },
     {
       "name": "Arclight Vayne",
       "date": "20-Apr-2015",
