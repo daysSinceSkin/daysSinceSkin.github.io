@@ -2157,7 +2157,7 @@ let champion={
     },
     {
       "name": "Heimerstinger",
-      "date": "N/A",
+      "date": "03-Mar-2022",
       "price": "1350"
     },
     {
@@ -4440,7 +4440,7 @@ let champion={
     },
     {
       "name": "Nunu & Beelump",
-      "date": "N/A",
+      "date": "03-Mar-2022",
       "price": "1350"
     },
     {
@@ -4564,7 +4564,7 @@ let champion={
     },
     {
       "name": "Orbeeanna",
-      "date": "N/A",
+      "date": "03-Mar-2022",
       "price": "1350"
     },
     {
@@ -7597,7 +7597,7 @@ let champion={
   "Ziggs": [
     {
       "name": "BZZZiggs",
-      "date": "N/A",
+      "date": "03-Mar-2022",
       "price": "1350"
     },
     {
